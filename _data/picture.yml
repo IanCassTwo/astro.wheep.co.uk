@@ -61,7 +61,7 @@ presets:
   blog:
     base_width: 736 # How wide the 1x image should be.
     link_source: true # wrap images in a link to the original source image.
-    formats: [avif, webp, jpg, original] # Must be an array, and order matters.
+    formats: [webp, jpg, original] # Must be an array, and order matters.
     pixel_ratios: [1, 1.5, 2]
     fallback_width: 736
     fallback_format: original
