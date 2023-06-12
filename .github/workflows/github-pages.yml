@@ -1,0 +1,59 @@
+name: Build and deploy Jekyll site to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main 
+  workflow_dispatch:
+
+# Cancel any runs in progress -- just complete the latest run
+concurrency: 
+  group: github_pages
+  cancel-in-progress: true
+
+jobs:
+  github-pages:
+    runs-on: ubuntu-18.04
+    permissions: 
+      contents: write
+    steps:     
+    
+      # Jekyll Picture Tag requires libvips libraries for resizing images, which must be installed
+      - name: Install JPT's dependencies
+        run: sudo apt-get install libvips-tools
+        
+      - name: Checkout repo
+        uses: actions/checkout@v2          
+            
+      # Install the proper version of Ruby and run bundle install
+      - name: 💎 setup ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '2.6'
+          bundler-cache: true
+        
+      - name: Run images script
+        run: |
+         chmod +x ./assets/images/_resizeimages.sh
+         cd ./assets/images
+         ./_resizeimages.sh
+        shell: bash      
+                            
+      # Build the site
+      - name: Jekyll build
+        run: bundle exec jekyll build
+        env:
+          JEKYLL_ENV: production
+          
+      # Push changes back to Github
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Commited by github actions
+                  
+      # Deploy to Github Pages
+      - name: Github pages deploy
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: gh-pages
+          folder: _site
+          force: false
