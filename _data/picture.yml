@@ -17,8 +17,8 @@ presets:
     format_quality: 
         jpg: 90
         png: 75
-        webp: 65
-        avif: 60
+        webp: 75
+        avif: 75
 
     image_options:
       jpg:
