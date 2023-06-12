@@ -1,0 +1,148 @@
+media_queries:
+  wide_desktop: 'min-width: 1801px'
+  desktop: 'max-width: 1800px'
+  wide_tablet: 'max-width: 1200px'
+  tablet: 'max-width: 900px'
+  mobile: 'max-width: 600px'
+
+
+presets:
+  default:
+    markup: auto
+    link_source: true # wrap images in a link to the original source image.
+    #dimension_attributes: true # Page reflow begone!
+
+    formats: [avif, webp, jpg, original] # Must be an array, and order matters.
+
+    format_quality: 
+        jpg: 90
+        png: 75
+        webp: 65
+        avif: 40
+
+    image_options:
+      jpg:
+        optimize_coding: true
+        optimize_scans: true
+        quant_table: 3
+        trellis_quant: true
+      webp:
+        smart_subsample: true
+
+    widths: [200, 400, 800, 1600] # Must be an array.
+    media_widths: # Because a cell phone doesn't want 1600 pixels.
+      mobile: [200, 400, 600] 
+      tablet: [400, 600, 800]
+
+    sizes: 
+      mobile: 100vw
+      tablet: 80vw
+    size: 800px
+
+    fallback_width: 800
+    fallback_format: original
+
+    attributes:
+      img: 'class="gallery-image"'
+      a: 'class="lightbox-image" title=""'
+
+  # This is an example of how you would create a 'multiplier' based srcset;
+  # useful when an image will always be the same size on all screens (icons,
+  # graphics, thumbnails, etc), but you'd like to supply higher resolution
+  # images to devices with higher pixel ratios.
+  icon:
+    base_width: 20 # How wide the 1x image should be.
+    formats: [avif, webp, jpg, original] # Must be an array, and order matters.
+    pixel_ratios: [1, 1.5, 2]
+    fallback_width: 20
+    attributes:
+      img: 'class="icon"'
+      a: 'class="lightbox-image" title=""'
+
+  blog:
+    base_width: 736 # How wide the 1x image should be.
+    link_source: true # wrap images in a link to the original source image.
+    formats: [avif, webp, jpg, original] # Must be an array, and order matters.
+    pixel_ratios: [1, 1.5, 2]
+    fallback_width: 736
+    fallback_format: original
+    attributes:
+      img: 'class="blog"'
+      a: 'class="lightbox-image" title=""'
+
+  largethumb:
+    #dimension_attributes: true # Page reflow begone!
+    base_width: 460 # How wide the 1x image should be.
+    link_source: true # wrap images in a link to the original source image.
+    formats: [avif, webp, jpg, original] # Must be an array, and order matters.
+    pixel_ratios: [1, 1.5, 2]
+    fallback_width: 460
+    attributes:
+      img: 'class="largethumb" style="max-height: 274px;"'
+      a: 'class="lightbox-image" title=""'
+
+  mediumthumb:
+    #dimension_attributes: true # Page reflow begone!
+    base_width: 260 # How wide the 1x image should be.
+    link_source: true # wrap images in a link to the original source image.
+    formats: [avif, webp, jpg, original] # Must be an array, and order matters.
+    pixel_ratios: [1, 1.5, 2]
+    fallback_width: 260
+    attributes:
+      img: 'class="mediumthumb" style="max-width: 242px;"'
+      a: 'class="lightbox-image" title=""'
+
+  gallery:
+    #dimension_attributes: true # Page reflow begone!
+    base_width: 260 # How wide the 1x image should be.
+    link_source: true # wrap images in a link to the original source image.
+    formats: [avif, webp, jpg, original] # Must be an array, and order matters.
+    pixel_ratios: [1, 1.5, 2]
+    fallback_width: 260
+    attributes:
+      img: 'class="gallery-image"'
+      a: 'class="lightbox-image" title=""'
+
+  logo:
+    #dimension_attributes: true # Page reflow begone!
+    base_width: 200 # How wide the 1x image should be.
+    formats: [avif, webp, jpg, png] # Must be an array, and order matters.
+    link_source: false # wrap images in a link to the original source image.
+    pixel_ratios: [1, 1.5, 2]
+    fallback_width: 200
+    attributes:
+      img: 'width="200" height="43"'
+
+  thumb:
+    #dimension_attributes: true # Page reflow begone!
+    base_width: 160 # How wide the 1x image should be.
+    formats: [avif, webp, jpg, original] # Must be an array, and order matters.
+    link_source: true # wrap images in a link to the original source image.
+    pixel_ratios: [1, 1.5, 2]
+    fallback_width: 160
+    attributes:
+      img: 'class="thumb" style="max-height: 120px;"'
+      a: 'class="lightbox-image" title=""'
+
+  # Here's an example of how you'd configure jekyll-picture-tag to work with
+  # something like lazyload: https://github.com/verlok/lazyload
+  lazy:
+    markup: data_auto
+    formats: [webp, jpg, original]
+    widths: [200, 400, 600, 800]
+    noscript: true # add a fallback image inside a <noscript> tag.
+    attributes: 
+      img: 'class="lazy"'
+      a: 'class="lightbox-image" title=""'
+
+  # This is an example of how you'd get generated image and a URL, and nothing
+  # else.
+  direct:
+    markup: direct_url
+    fallback_format: jpg
+    fallback_width: 600
+
+  # Here's a naked srcset. Doesn't even give you the surrounding quotes.
+  srcset:
+    markup: naked_srcset
+    formats: [avif, webp, jpg] # must be an array, even if it only has one item
