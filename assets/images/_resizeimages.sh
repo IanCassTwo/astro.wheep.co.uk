@@ -11,9 +11,9 @@ do
 		convert -verbose "$i[x1080>]" -set filename:base "%[basename]" "resized/%[filename:base].webp"&
 	fi
 
-#	if [ ! -f "resized/$f.avif" ]; then
-#		convert -verbose -quality 62 "$i[x1080>]" -set filename:base "%[basename]" "resized/%[filename:base].avif"&
-#	fi
+	if [ ! -f "resized/$f.avif" ]; then
+		convert -verbose -quality 62 "$i[x1080>]" -set filename:base "%[basename]" "resized/%[filename:base].avif"&
+	fi
 	wait
 done
 
@@ -29,9 +29,9 @@ do
 		convert -verbose "$i[x1080>]" -set filename:base "%[basename]" "resized/%[filename:base].webp"&
 	fi
 
-#	if [ ! -f "resized/$f.avif" ]; then
-#		convert -verbose -quality 62 "$i[x1080>]" -set filename:base "%[basename]" "resized/%[filename:base].avif"&
-#	fi
+	if [ ! -f "resized/$f.avif" ]; then
+		convert -verbose -quality 62 "$i[x1080>]" -set filename:base "%[basename]" "resized/%[filename:base].avif"&
+	fi
 	wait
 done
 
