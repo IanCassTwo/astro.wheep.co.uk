@@ -18,7 +18,7 @@ presets:
         jpg: 90
         png: 75
         webp: 65
-        avif: 40
+        avif: 60
 
     image_options:
       jpg:
