@@ -197,35 +197,35 @@
   },"28": {
     "doc": "Home",
     "title": "Crescent Nebula pt2",
-    "content": "11 Jun 2023 I managed to get another hours worth of data on Crescent Nebula the other evening. It’s definitely improved but I think this is going to need another 10 hours to do it justice. I plan on adding to this as time goes on, but I plan to try the North America Nebula on the next clear evening. Starwatcher Evoguide 50ED with Starizona Flattener, IR Cut filter, SvBony sv505c, guided ~3hrs of data . ",
+    "content": "13 Jun 2023 I decided to try M27 Dumbbell Nebula this evening and in doing so, I learnt a valuable lesson. At the start of the evening, I set everything up as usual including alignment and focus. As the evening went on, focus got worse and worse until it was really quite blurred. The actual focus ring hadn’t moved at all, but what had happened is that it had got colder outside. As it got colder, the materials in the scope had shrunk and hence focus had moved slightly. This is such a fast lens that focus is absolutely critical. I went out at midnight and refocussed. In total, I lost about an hours worth of data but got another hour of good data. if you look at the graph below, you can see focus getting worse and worse (high HFR is bad). In fact, it had got much worse than the initial focus even before I started imaging. After I refocus, you can see that the HFR is much lower and number of detected stars is higher. However, you can see the HFR trending upwards during the hour. Really I should have refocussed again after 30 mins. Still, the data I collected made a good image, shown below. . Starwatcher Evoguide 50ED with Starizona Flattener, IR Cut filter, SvBony sv505c, guided ~1hrs of data . ",
     "url": "/",
     
     "relUrl": "/"
   },"29": {
+    "doc": "Home",
+    "title": "Crescent Nebula pt2",
+    "content": "11 Jun 2023 I managed to get another hours worth of data on Crescent Nebula the other evening. It’s definitely improved but I think this is going to need another 10 hours to do it justice. I plan on adding to this as time goes on, but I plan to try the North America Nebula on the next clear evening. Starwatcher Evoguide 50ED with Starizona Flattener, IR Cut filter, SvBony sv505c, guided ~3hrs of data . ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"30": {
     "doc": "Home",
     "title": "Crescent Nebula pt1",
     "content": "05 Jun 2023 It’s a funny time of year for astrophotography. I can’t really image anything in the west because of light polution. The moon and light pollution limit the south east. For me, the north through east is generally best but there’s not much there at the moment. However, if I wait until midnight, Cygnus appears from behind a giant conifer tree at the bottom of my garden and is rich in nebula. So, I thought I’d give it a try. For this session, I stuck with an IR cut filter which may seem like an odd choice for a nebula, but I wanted to get a good baseline and some nice sharp stars. My plan is to mix in some Ha and OIII data using my duo-band filter during another session. So, this is part 1 with part 2 (or more) to follow. I also spent some time calibrating the backlash in PHD2 for much better tracking and recovery from dithering. It’s literally a 1000 times better now. I’ve also recently watched a video on how to configure Green Swamp Server for backlash compensation so I’m keen to try that during my next session to see if it does an even better job than PHD2. Starwatcher Evoguide 50ED with Starizona Flattener, IR Cut filter, SvBony sv505c, guided ~2hrs of data . ",
     "url": "/",
     
     "relUrl": "/"
-  },"30": {
+  },"31": {
     "doc": "Home",
     "title": "Live Stacking now live",
     "content": "04 Jun 2023 I’ve been experimenting with Astro Live Stacker so that I can easily keep an eye on progress of my imaging sessions. Prior to this, I had been regulaly gathering subs, stacking with DSS and viewing in Siril with an autostretch. However, Astro Live Stacker is SO much more convenient. Once set up, it requires zero work on my part. It also has a neat feature where it can act as a simple web server to publish the results of the live stack. I’ve exploited this feature to add a new Livestack section to my website. This will allow you to watch my imaging session in real time! . From a technical perspective, this is running some Javascript which attempts to retrieve the current live stack image from my webserver. If Astro Live Stacker is running, it will return an image which you will see. If it’s not, then you’ll see an “offline” placeholder image. ",
     "url": "/",
     
     "relUrl": "/"
-  },"31": {
-    "doc": "Home",
-    "title": "Supernova in Pinwheel",
-    "content": "25 May 2023 Something dramatic happened. SN2023ixf, a star in the Pinwheel galaxy went supernova. This galaxy is 21 million light years away so this is in fact very old news, but we only just got to hear about it last week. This is a target that I’ve previously imaged but I just had to do it again to see with my own eyes. I’ve only managed to get ~45mins on it so the quality isn’t great If you follow the lower arm of the galaxy, the supernova is clear to see. It’s the brightest object in that vicinity. In fact, every single other star you see in the whole image, including those overlaying the galaxy are in fact in our own galaxy. That’s just how bright this actually is. If this star were in our own galaxy, we’d likely be able to see it in broad daylight. Starwatcher Evoguide 50ED with Starizona Flattener, SvBony sv505c, guided ~45mins of data . ",
-    "url": "/",
-    
-    "relUrl": "/"
   },"32": {
     "doc": "Home",
-    "title": "Bode's Galaxy & Cigar Galaxy",
-    "content": "16 May 2023 It’s the middle of galaxy season and I’d never done these two before. They’re both near each other and are within my field of view, so I thought I’d try them this evening. I manage to get about 1.5hrs of data in total. Bode’s Galaxy (Messier 81) is one of the brightest galaxies in the night sky. It is located 11.6 million light-years from Earth in the constellation Ursa Major and has an apparent magnitude of 6.9. It’s neighbour, Cigar Galaxy (Messier 82) shines brightly at infrared wavelengths and is remarkable for its star formation activity. The Cigar galaxy experiences gravitational interactions with its galactic neighbor, M81, causing it to have an extraordinarily high rate of star formation — a starburst. I’m still experimenting, so I thought I’d try different exposure length and gain. I’ve learnt how to successfully stack different subs in Deep Sky Stacker so it couldn’t hurt. The questions I wanted to answer were, how long can I expose without star trails? I found even 5min exposures were fine. Perhaps I could go longer but that’s an experiment for another evening. I also wanted to know if I should prioritize low read noise vs full well capacity. You see, my camera is one that has Dual Gain Output technology. This means that at gain of 100, my readout noise drops and my dynamic range increases slightly. However, my full well capacity drops quite a lot. In practice, a bigger full well capacity means I can take longer exposures to catch the dimmer light without blowing out the brighter areas. Of course, I might also be able to take shorter exposures so I don’t blow out the highlights, and still catch the dimmer light courtesy of more sensitivity with the higher gain. This is why I wanted to experiment. So far, it’s looking like the higher gain gives slightly worse results, but I’ll report on that later. I’m happy with the image I got below given only 1.5 hours of integration time. However, I’m not happy with how monochrome it’s come out. There’s not even a hint of colour in the galaxy. I’ll need to investigate why and try to improve on it in future. Starwatcher Evoguide 50ED with Starizona Flattener, SvBony sv505c, guided ~1.5hrs of data . &laquo; Prev Next &raquo; ",
+    "title": "Supernova in Pinwheel",
+    "content": "25 May 2023 Something dramatic happened. SN2023ixf, a star in the Pinwheel galaxy went supernova. This galaxy is 21 million light years away so this is in fact very old news, but we only just got to hear about it last week. This is a target that I’ve previously imaged but I just had to do it again to see with my own eyes. I’ve only managed to get ~45mins on it so the quality isn’t great If you follow the lower arm of the galaxy, the supernova is clear to see. It’s the brightest object in that vicinity. In fact, every single other star you see in the whole image, including those overlaying the galaxy are in fact in our own galaxy. That’s just how bright this actually is. If this star were in our own galaxy, we’d likely be able to see it in broad daylight. Starwatcher Evoguide 50ED with Starizona Flattener, SvBony sv505c, guided ~45mins of data . &laquo; Prev Next &raquo; ",
     "url": "/",
     
     "relUrl": "/"
@@ -474,5 +474,19 @@
     "url": "/page2/",
     
     "relUrl": "/page2/"
+  },"68": {
+    "doc": "Home",
+    "title": "{{ post.title }}",
+    "content": "{{ post.date | date_to_string }} {{ post.content }} {% endfor %} {% if paginator.total_pages > 1 %} {% if paginator.previous_page %} &laquo; Prev {% else %} &laquo; Prev {% endif %} {% if paginator.next_page %} Next &raquo; {% else %} Next &raquo; {% endif %} {% endif %} ",
+    "url": "/page3/",
+    
+    "relUrl": "/page3/"
+  },"69": {
+    "doc": "Home",
+    "title": "Home",
+    "content": "{% raw %} {% endraw %} {% for post in paginator.posts %} ",
+    "url": "/page3/",
+    
+    "relUrl": "/page3/"
   }
 }
