@@ -196,7 +196,7 @@
     "relUrl": "/glossary/h-alpha/"
   },"28": {
     "doc": "Home",
-    "title": "Crescent Nebula pt2",
+    "title": "Dumbbell Nebula",
     "content": "13 Jun 2023 I decided to try M27 Dumbbell Nebula this evening and in doing so, I learnt a valuable lesson. At the start of the evening, I set everything up as usual including alignment and focus. As the evening went on, focus got worse and worse until it was really quite blurred. The actual focus ring hadn’t moved at all, but what had happened is that it had got colder outside. As it got colder, the materials in the scope had shrunk and hence focus had moved slightly. This is such a fast lens that focus is absolutely critical. I went out at midnight and refocussed. In total, I lost about an hours worth of data but got another hour of good data. if you look at the graph below, you can see focus getting worse and worse (high HFR is bad). In fact, it had got much worse than the initial focus even before I started imaging. After I refocus, you can see that the HFR is much lower and number of detected stars is higher. However, you can see the HFR trending upwards during the hour. Really I should have refocussed again after 30 mins. Still, the data I collected made a good image, shown below. . Starwatcher Evoguide 50ED with Starizona Flattener, IR Cut filter, SvBony sv505c, guided ~1hrs of data . ",
     "url": "/",
     
@@ -237,33 +237,33 @@
     
     "relUrl": "/"
   },"34": {
-    "doc": "Hardware",
-    "title": "Hardware",
-    "content": " ",
-    "url": "/hardware/",
-    
-    "relUrl": "/hardware/"
-  },"35": {
     "doc": "Glossary",
     "title": "Glossary",
     "content": " ",
     "url": "/glossary/",
     
     "relUrl": "/glossary/"
-  },"36": {
+  },"35": {
     "doc": "How To",
     "title": "How To",
     "content": " ",
     "url": "/howto/",
     
     "relUrl": "/howto/"
-  },"37": {
+  },"36": {
     "doc": "Software",
     "title": "Software",
     "content": " ",
     "url": "/software/",
     
     "relUrl": "/software/"
+  },"37": {
+    "doc": "Hardware",
+    "title": "Hardware",
+    "content": " ",
+    "url": "/hardware/",
+    
+    "relUrl": "/hardware/"
   },"38": {
     "doc": "Links",
     "title": "Links",
