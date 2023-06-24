@@ -17,7 +17,7 @@ The third part is the outer flange. This screws into the focuser and together th
 
 {% picture blog PXL_20230624_104322496.PORTRAIT.jpg %}
 
-The backlash problem is caused entirely by the difference in dimensions between the thickness of this lip and the channel in which it rides. So to improve backlash we have to tighten those tolerances. There's several ways to do this. We could pack out the focus ring from behind or we can pack it out from the front. I chose the latter solution and I've managed to almost eliminate the backlash whilst still being easy to turn. To do this, I used a 0.1mm M37 shim. Unfortunately, the inner dimensions of an M27 shim don't *quite* fit over the shoulder on the outer flange so I had to very carefully trim the inner dimension. This is obviously not an off-the-shelf solution but does prove that an improvement can be made in this area.
+The backlash problem is caused entirely by the difference in dimensions between the thickness of this lip and the channel in which it rides. So to improve backlash we have to tighten those tolerances. There's several ways to do this. We could pack out the focus ring from behind or we can pack it out from the front. I chose the latter solution and I've managed to almost eliminate the backlash whilst still being easy to turn. To do this, I used a 0.1mm M37 shim. Unfortunately, the inner dimensions of an M37 shim don't *quite* fit over the shoulder on the outer flange so I had to very carefully trim the inner dimension. This is obviously not an off-the-shelf solution but does prove that an improvement can be made in this area.
 
 {% picture blog PXL_20230624_104343276.PORTRAIT.jpg %}
 
