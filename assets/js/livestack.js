@@ -5,7 +5,6 @@ const existingImage = document.getElementById('livestackimage');
 function fetchAndUpdateImage() {
   // Fetch the new image from a URL
   const timestamp = Date.now();
-  //fetch('/als/web_image.jpg?ts=' + timestamp)
   fetch('/als/web_image.jpg')
     .then(response => {
       // Check if the response status is 200 (OK)
