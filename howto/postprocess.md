@@ -49,7 +49,7 @@ After I've done this, I will then clone the starless image onto a 2nd layer. I'l
 
 {% picture blog final-layer2.jpg %}
 
-I'll then load my starmask in Gimp as a new layer. I'll then use the Colors/Levels menu to make the stars visible by moving the mid point to the left. Once the stars are looking good, I'll turn off all other layers so I only see stars, then export the image as a TIF. Make sure to untick the "save layers" button. Once the stars are exported, I'll process it with AstroSharp. When this is finished, I'll delete the star layer from my image and import the sharpened image as a new layer.
+I'll then load my starmask in Gimp as a new layer and set the mode to "lighten only". I'll then use the Colors/Levels menu to make the stars visible by moving the mid point to the left. Once the stars are looking good, I'll turn off all other layers so I only see stars, then export the image as a TIF. Make sure to untick the "save layers" button. Once the stars are exported, I'll process it with AstroSharp. When this is finished, I'll delete the star layer from my image and import the sharpened image as a new layer.
 
 Now I have 3 layers. One for the starless nebula, one for a heavily blurred version, and one for the stars. I'll now spend some time tweaking colours, levels, saturation, etc. Remember you can do this for each of your 3 layers. Once finished, save and export your TIF/JPEG.
 
