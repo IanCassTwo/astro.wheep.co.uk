@@ -49,7 +49,7 @@ You should then load your starmask in Gimp as a new layer. Set the layer blend m
 
 {% picture blog sm1.jpg %}
 
-You should then go to colors / levels Change the blend mode to "hard light" and move your mid-level slider quite far to the left. Click "OK" when it looks good
+You should then go to colors / levels Change the blend mode to "linear light" or "hard light" and move your mid-level slider quite far to the left. Click "OK" when it looks good
 
 {% picture blog sm2.jpg %}
 
@@ -61,10 +61,10 @@ You can then enhance the sharpness of your stars. Go to filters / enhance and ch
 
 {% picture blog sm3.jpg %}
 
-Finally, you want to play with the colors / Exposure setting to give your stars a little sparkle. You can renable your nebula layer so that you can make sure you don't make the stars too distracting. Remember to set your star layer to "lighten only"
+Finally, you want to play with the colors / Exposure or even the opacity settings to give your stars a little sparkle. You can renable your nebula layer so that you can make sure you don't make the stars too distracting. Remember to set your star layer to "lighten only"
 
 {% picture blog sm4.jpg %}
 
 You can now spend some time tweaking colours, levels, saturation, etc. Remember you can do this for each of your 3 layers. Once finished, save and export your TIF/JPEG.
 
-{% picture blog final-layered.jpg %}
+{% picture blog veil-definitive.jpg %}
