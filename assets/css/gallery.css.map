@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "gallery.css",
+	"sources": [
+		"gallery.scss"
+	],
+	"sourcesContent": [
+		"$content-width: 100%;\n\npicture {\n  float: left;\n  /*margin-right: 20px;*/ /* adds some space between the image and list */\n}\n\n.picture-container {\n  position: relative;\n  display: inline-block;\n}\n\n.picture-container a {\n  display: block;\n}\n\n.overlay-text {\n  position: absolute;\n  bottom: 10px; /* Adjust the distance from the bottom as needed */\n  left: 10px; /* Adjust the distance from the left as needed */\n  color: white; /* Set the text color */\n  font-size: 18px; /* Set the font size */\n  background-color: rgba(0, 0, 0, 0.5); /* Set the background color and opacity */\n  padding: 5px; /* Add padding for better visibility */\n}\n\n.grid-container {\n  display: grid;\n  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* create columns with minimum width of 200px and maximum width of 1fr, with as many columns as will fit in the available space */\n  grid-gap: 10px;\n}\n\n.galleryimage {\n  max-width: 100%;\n  height: auto;\n  object-fit: cover;\n}\n"
+	],
+	"names": [],
+	"mappings": "AAEA,AAAA,OAAO,AAAC,CACN,KAAK,CAAE,IAAI,CAEZ,AAED,AAAA,kBAAkB,AAAC,CACjB,QAAQ,CAAE,QAAQ,CAClB,OAAO,CAAE,YAAY,CACtB,AAED,AAAA,kBAAkB,CAAC,CAAC,AAAC,CACnB,OAAO,CAAE,KAAK,CACf,AAED,AAAA,aAAa,AAAC,CACZ,QAAQ,CAAE,QAAQ,CAClB,MAAM,CAAE,IAAI,CACZ,IAAI,CAAE,IAAI,CACV,KAAK,CAAE,KAAK,CACZ,SAAS,CAAE,IAAI,CACf,gBAAgB,CAAE,eAAkB,CACpC,OAAO,CAAE,GAAG,CACb,AAED,AAAA,eAAe,AAAC,CACd,OAAO,CAAE,IAAI,CACb,qBAAqB,CAAE,qCAAqC,CAC5D,QAAQ,CAAE,IAAI,CACf,AAED,AAAA,aAAa,AAAC,CACZ,SAAS,CAAE,IAAI,CACf,MAAM,CAAE,IAAI,CACZ,UAAU,CAAE,KAAK,CAClB"
+}

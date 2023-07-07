@@ -1,7 +1,7 @@
 {"0": {
     "doc": "About",
     "title": "About",
-    "content": "Astrophotography is the practice of taking photographs of objects and phenomena in space, such as stars, galaxies, planets, and nebulas. It is a challenging and frustrating yet rewarding hobby that requires specialized equipment, skills, and techniques. Astrophotography involves using a camera mounted on a telescope or other astronomical instrument to capture images of celestial objects. These images can range from simple star fields to detailed pictures of distant galaxies, and can be taken using a wide variety of techniques and equipment. One of the most important factors in astrophotography is the quality of the equipment used. A good telescope or camera lens is essential for capturing sharp and detailed images, while a sturdy mount or tripod is needed to keep the camera steady during long exposures. In addition to equipment, astrophotography also requires specialized techniques for capturing and processing images. For example, long exposures are often used to capture faint objects in the night sky, and multiple exposures may be combined to create a single, high-quality image. ",
+    "content": "I’ve been taking pictures of the night sky for a few years now. This hobby started for me when I won a prize at work which gave me some virtual cash to spend in a corporate shop. Of all the things to buy, a telescope caught my attention. To be honest, it wasn’t very good but it inspired me to learn more about the night sky. It was at this point I decided I wanted to combine my photography hobby with my new astronomy hobby. The next thing I purchased was a motorized mount and a polar wedge. The next year or so was spent learning about workflows and techniques using the cheapest equipment I could find (Raspberry Pi, RPI HQ Camera, old DSLR lenses). I figure I’d learn more from poor equipment rather than just throwing money at the problem. Anyway, at the beginning of 2023, I won another prize and used it to fund some better equipment. Since then, I feel I’ve made some real progress into getting good results. This website is to try to share some of my knowledge. ",
     "url": "/about/",
     
     "relUrl": "/about/"
@@ -118,166 +118,166 @@
     
     "relUrl": "/equipment/controlcentre/"
   },"17": {
-    "doc": "Introduction to Astrophotography",
+    "doc": "Deep Space Photography",
     "title": "Deep Space Photography",
     "content": "Welcome to the captivating world of deep space photography! This page will introduce you to the techniques and considerations involved in capturing stunning images of distant celestial objects. Whether you’re a seasoned astrophotographer or new to the field, this guide will provide valuable insights to help you embark on your deep space imaging journey. ",
-    "url": "/tutorials/capture-techniques/deep-space-photography/#deep-space-photography",
+    "url": "/tutorials/capture-techniques/deep-space-photography/",
     
-    "relUrl": "/tutorials/capture-techniques/deep-space-photography/#deep-space-photography"
+    "relUrl": "/tutorials/capture-techniques/deep-space-photography/"
   },"18": {
-    "doc": "Introduction to Astrophotography",
+    "doc": "Deep Space Photography",
     "title": "What is Deep Space Photography?",
     "content": "Deep space photography involves capturing images of celestial objects that lie far beyond our solar system. This includes capturing galaxies, nebulae, star clusters, and other remarkable entities located millions or even billions of light-years away. Through long-exposure imaging, we can unveil the intricate details and breathtaking beauty of these cosmic wonders. ",
     "url": "/tutorials/capture-techniques/deep-space-photography/#what-is-deep-space-photography",
     
     "relUrl": "/tutorials/capture-techniques/deep-space-photography/#what-is-deep-space-photography"
   },"19": {
-    "doc": "Introduction to Astrophotography",
+    "doc": "Deep Space Photography",
     "title": "Equipment",
     "content": "To delve into deep space photography, consider the following equipment: . | Telescope: A telescope with a suitable focal length and aperture is essential for capturing distant deep space objects. Research different types of telescopes (refractors, reflectors, or compound) and select one that matches your astrophotography goals and budget. | Mount: An equatorial mount is crucial for precise tracking of celestial objects during long exposures. Look for a mount that can handle the weight of your telescope and camera setup, providing stability and accurate tracking. | Camera: Choose a camera with a large sensor, capable of capturing detailed images in low-light conditions. Full-frame DSLRs or mirrorless cameras are popular choices. Ensure your camera can be attached to your telescope using the appropriate T-ring or adapter. | Guiding System: To enhance tracking accuracy, consider using an autoguiding system. This involves attaching a guide camera to your telescope, which continuously monitors and corrects for any tracking errors. | . ",
     "url": "/tutorials/capture-techniques/deep-space-photography/#equipment",
     
     "relUrl": "/tutorials/capture-techniques/deep-space-photography/#equipment"
   },"20": {
-    "doc": "Introduction to Astrophotography",
+    "doc": "Deep Space Photography",
     "title": "Capturing Deep Space Images",
     "content": "Capturing stunning deep space images requires careful planning and execution. Consider the following techniques: . | Image Stacking: Deep space objects are often faint and require long exposure times to gather enough light. Use software like DeepSkyStacker, PixInsight, or Sequator to stack multiple exposures, effectively reducing noise and revealing hidden details. | Filter Usage: Consider using specific filters to enhance your deep space images. Narrowband filters, such as hydrogen-alpha (Ha) and oxygen (OIII), can help isolate specific emissions from nebulae, providing stunning color and contrast. | Light Pollution Considerations: Deep space imaging is often affected by light pollution. Choose shooting locations away from urban areas or use light pollution filters to mitigate its effects and improve image quality. | . ",
     "url": "/tutorials/capture-techniques/deep-space-photography/#capturing-deep-space-images",
     
     "relUrl": "/tutorials/capture-techniques/deep-space-photography/#capturing-deep-space-images"
   },"21": {
-    "doc": "Introduction to Astrophotography",
+    "doc": "Deep Space Photography",
     "title": "Processing Deep Space Images",
     "content": "Processing deep space images is a critical step in revealing their true beauty. Consider the following techniques: . | Calibration: Apply calibration frames, such as dark frames, flat frames, and bias frames, to correct for sensor noise, dust, and other imperfections. | Stretching and Enhancement: Utilize software like Adobe Photoshop, PixInsight, or DeepSkyStacker to stretch and enhance the dynamic range of your images. Adjusting curves, levels, and applying local contrast enhancement can bring out intricate details. | Color Correction: Fine-tune color balance and saturation to achieve accurate and visually pleasing representations of deep space objects. Pay attention to preserving natural colors while bringing out the subtle hues within nebulae and galaxies. | . ",
     "url": "/tutorials/capture-techniques/deep-space-photography/#processing-deep-space-images",
     
     "relUrl": "/tutorials/capture-techniques/deep-space-photography/#processing-deep-space-images"
   },"22": {
-    "doc": "Introduction to Astrophotography",
+    "doc": "Deep Space Photography",
     "title": "Learning Resources",
     "content": "Deep space photography is a continually evolving field, and there are many resources available to enhance your knowledge and skills: . | Books and Online Tutorials: Explore astrophotography books and online tutorials dedicated to deep space imaging techniques and processing workflows. | Online Communities: Engage with the astrophotography community through forums, social media groups, and image sharing platforms. Connect with experienced astrophotographers, seek advice, and share your work. | Workshops and Events: Consider attending workshops, seminars, or star parties where you can learn from experts, gain hands-on experience, and connect with fellow astrophotography enthusiasts. | . ",
     "url": "/tutorials/capture-techniques/deep-space-photography/#learning-resources",
     
     "relUrl": "/tutorials/capture-techniques/deep-space-photography/#learning-resources"
   },"23": {
-    "doc": "Introduction to Astrophotography",
+    "doc": "Deep Space Photography",
     "title": "Conclusion",
     "content": "Deep space photography opens up a window to the vast cosmos, allowing us to capture the beauty and mysteries of the universe. With the right equipment, techniques, and processing skills, you can create breathtaking images that inspire awe and ignite a deeper appreciation for our celestial surroundings. Embark on your deep space imaging journey, explore the depths of the universe, and share the wonders you capture with the world. Feel free to customize and expand upon this template to suit your website’s style and design, as well as provide any additional information or recommendations based on your personal experiences and expertise. ",
     "url": "/tutorials/capture-techniques/deep-space-photography/#conclusion",
     
     "relUrl": "/tutorials/capture-techniques/deep-space-photography/#conclusion"
   },"24": {
-    "doc": "Introduction to Astrophotography",
-    "title": "Introduction to Astrophotography",
-    "content": " ",
-    "url": "/tutorials/capture-techniques/deep-space-photography/",
-    
-    "relUrl": "/tutorials/capture-techniques/deep-space-photography/"
-  },"25": {
     "doc": "Demosaicing",
     "title": "Demosaicing",
     "content": "Demosaicing is a process used in digital imaging, including astrophotography, to reconstruct a full-color image from the raw data captured by a camera sensor that uses a color filter array, typically a Bayer filter. The Bayer filter consists of red, green, and blue color filters arranged in a specific pattern over the sensor’s pixels. In a raw image, each pixel only captures intensity values for one color channel (red, green, or blue) because of the presence of the color filter array. Demosaicing algorithms interpolate the missing color information for each pixel by utilizing the surrounding pixels with different color filters. By analyzing the patterns and relationships between neighboring pixels, the algorithm estimates the full-color values for each pixel. The demosaicing process helps generate a full-resolution, full-color image that can be further processed and manipulated. It is a crucial step in the overall image processing pipeline for producing accurate and visually appealing final images. Various demosaicing algorithms exist, each with its own strengths and weaknesses, and different software applications or plugins offer different demosaicing options to suit the user’s preferences and specific image characteristics. ",
     "url": "/glossary/demosaicing/",
     
     "relUrl": "/glossary/demosaicing/"
-  },"26": {
+  },"25": {
     "doc": "Dew Heater",
     "title": "Dew Heater",
     "content": "A dew heater is an electronic device used in astronomy to prevent the buildup of moisture on lenses, mirrors, and other optical surfaces. When observing or photographing celestial objects, temperature changes can cause water vapor to condense on the surface of optical elements, leading to reduced image quality and potentially damaging the equipment over time. Dew heaters work by using a heating element, typically a thin strip or pad of resistive material, that is placed in contact with the optical surface. The heating element is connected to a power source, such as a battery or AC adapter, and is controlled by a thermostat or other temperature control system. By warming the surface of the optics, the dew heater raises the temperature of the optical elements slightly above the dew point, preventing moisture from condensing on the surface. This helps to maintain clear, sharp images and prolongs the life of the equipment. Dew heaters are available in a variety of sizes and configurations to fit different types of telescopes, cameras, and other optical equipment. Some dew heaters may also include additional features such as temperature sensors, adjustable thermostats, or battery packs for portable use. ",
     "url": "/equipment/dewheater/",
     
     "relUrl": "/equipment/dewheater/"
-  },"27": {
+  },"26": {
     "doc": "Dithering",
     "title": "Dithering",
     "content": "In astrophotography, dithering is a technique used to reduce the impact of noise and other unwanted artifacts in an image. It involves small, random movements of the telescope or camera between exposures, which causes the stars and other objects in the image to move slightly from one frame to the next. This movement is used to improve the final image quality by reducing the effects of fixed-pattern noise, hot pixels, and other imperfections that can occur in digital images. Dithering is most commonly used when taking multiple exposures of the same object, such as during a long imaging session. By dithering the telescope or camera between each exposure, the final image will have a higher signal-to-noise ratio, which can result in better detail and color accuracy. The amount and frequency of dithering can vary depending on factors such as the imaging equipment, the object being photographed, and the desired final image quality. Some astrophotography software programs, such as PHD2 and N.I.N.A, include dithering features that can automate the process and optimize the results. ",
     "url": "/glossary/dither/",
     
     "relUrl": "/glossary/dither/"
-  },"28": {
+  },"27": {
     "doc": "Drizzle",
     "title": "Drizzle",
     "content": "Drizzle is a technique used in astrophotography to increase the resolution of images taken by telescopes or other instruments. It works by taking multiple sub-images of an object and then combining them in a way that preserves the finer details of the object. The technique was originally developed by NASA to enhance images taken by the Hubble Space Telescope, but has since been adapted for use by amateur astronomers. The process of drizzling involves taking each sub-image and breaking it up into smaller pieces called “pixels.” The software then analyzes the pixels in each sub-image and uses a mathematical algorithm to determine how to combine them with the pixels from the other sub-images. The resulting image has a higher resolution than the original sub-images and is able to reveal more details about the object being imaged. Drizzle is particularly useful for imaging objects that are very small or faint, or that have intricate structures. However, the process can be time-consuming and requires a significant amount of processing power, so it may not be suitable for all types of astrophotography. ",
     "url": "/glossary/drizzle/",
     
     "relUrl": "/glossary/drizzle/"
-  },"29": {
+  },"28": {
     "doc": "Deep Sky Object",
     "title": "Deep Sky Object",
     "content": "In astronomy, a deep sky object (DSO) is any celestial object that is located outside our solar system and beyond our Milky Way galaxy. This includes galaxies, nebulae, star clusters, and other objects that are too faint to be seen with the naked eye. Deep sky objects are a popular target for amateur astronomers and astrophotographers because they provide a glimpse into the vastness and complexity of the universe. Unlike planets and stars, which can be observed individually and in detail, deep sky objects require telescopes and long exposure times to capture their faint light. Examples of deep sky objects include the Andromeda Galaxy, the Orion Nebula, the Pleiades star cluster, and the Whirlpool Galaxy. They are typically categorized as emission, reflection, or dark nebulae, globular or open clusters, or galaxies based on their structure, composition, and location in the sky. Deep sky objects are generally classified as emission or reflection. The main difference between an emission and a reflection lies in how they produce visible light. Emission nebulae are clouds of ionized gas that emit light at specific wavelengths as a result of high-energy photons from nearby stars. These nebulae appear reddish, pinkish or bluish in color depending on the specific gases present, such as hydrogen, oxygen, and sulfur. Examples of emission nebulae include the Orion Nebula and the Lagoon Nebula. On the other hand, reflection nebulae are clouds of dust and gas that do not produce their own light, but instead reflect the light of nearby stars. They typically appear as bluish-gray or silvery-white regions against a dark background. The bluish color is due to the scattering of blue light by the dust grains in the nebula. Examples of reflection nebulae include the Pleiades star cluster and the Horsehead Nebula. Both emission and reflection nebulae are commonly observed and imaged in astrophotography, and both can provide important clues about the structure and composition of the universe. ",
     "url": "/glossary/dso/",
     
     "relUrl": "/glossary/dso/"
-  },"30": {
+  },"29": {
     "doc": "Deep Sky Stacker",
     "title": "Deep Sky Stacker",
     "content": "DeepSkyStacker (DSS) is a free and open-source software program used for astrophotography image stacking and processing. It was developed by a French astrophotographer named Luc Coiffier and is widely used by both amateur and professional astronomers worldwide. DSS is designed to help photographers create high-quality, noise-free images of deep-sky objects such as galaxies, nebulae, and star clusters. It works by combining multiple individual frames of the same object into a single image, effectively reducing the noise and improving the signal-to-noise ratio. DSS supports a wide range of file formats, including FITS, RAW, and JPEG, and can be used with a variety of astronomy equipment, including cameras, telescopes, and mount controllers. It includes advanced features such as star detection, alignment, and weighting, as well as image normalization and calibration. One of the unique features of DSS is its ability to handle large datasets, making it ideal for processing large numbers of frames from multiple imaging sessions. It can also perform batch processing, allowing users to stack and process multiple images automatically. DSS also includes a range of image processing tools, such as histogram equalization, color adjustment, and noise reduction. It also supports advanced features such as compositing and image registration, allowing users to create high-quality, detailed images of deep-sky objects. Overall, DeepSkyStacker is a powerful and versatile software program that is highly regarded by astrophotographers worldwide. Its user-friendly interface, advanced features, and ability to handle large datasets make it an ideal choice for anyone looking to create high-quality deep-sky images. http://deepskystacker.free.fr/english/index.html . ",
     "url": "/software/dss/",
     
     "relUrl": "/software/dss/"
-  },"31": {
+  },"30": {
     "doc": "Equatorial Mount",
     "title": "Equatorial Mount",
     "content": "An equatorial mount is a type of telescope mount used in astronomy that is designed to follow the apparent motion of the stars in the sky caused by the rotation of the Earth. It consists of two perpendicular axes: the right ascension (RA) axis, which points towards the celestial pole and moves in a circle around it, and the declination (Dec) axis, which is perpendicular to the RA axis and moves up and down along it. The RA axis of the mount is usually aligned with the celestial pole, allowing the telescope to track stars as they appear to move across the sky due to the Earth’s rotation. By using an equatorial mount, an observer can keep a celestial object in the field of view of the telescope for long periods of time, allowing for extended observations or astrophotography. Equatorial mounts can be manually operated or motorized, with the latter often being preferred for long-exposure astrophotography. Some mounts also include features such as computerized GoTo systems, which can automatically locate and track celestial objects based on input from a computer or hand controller. Equatorial mounts come in various sizes and designs to accommodate different telescopes and setups. They are commonly used for astrophotography, especially for deep-sky imaging where long exposure times are necessary. However, they can also be used for visual observation of celestial objects. A different kind of mount that you may encounter is an Alt-Az mount, short for Altitude-Azimuth mount. This is a type of telescope mount used in astronomy that moves the telescope along two perpendicular axes, one for altitude and one for azimuth. The altitude axis tilts the telescope up and down, while the azimuth axis rotates it side to side. Unlike an equatorial mount, an Alt-Az mount does not have a fixed orientation with respect to the celestial sphere, and thus does not track the apparent motion of the stars. Instead, it moves the telescope directly to the desired position in the sky, which makes it easier to use for visual observing and shorter exposures for astrophotography. Alt-Az mounts are often used for observations of the moon, planets, and other objects that move relatively quickly across the sky. Alt-Az mounts come in various sizes and designs to accommodate different telescopes and setups. They are often simpler and less expensive than equatorial mounts, making them a popular choice for beginners and for portable telescopes that are easy to transport. However, they are not useful for long-exposure astrophotography of deep-sky objects, which require the more precise tracking provided by an equatorial mount. Some Alt-Az mounts (specifically the Az-Gti) allow loading alternative firmware to convert them to an Equatorial mount with the addition of a cheap Equatorial wedge. ",
     "url": "/glossary/equatorialmount/",
     
     "relUrl": "/glossary/equatorialmount/"
-  },"32": {
+  },"31": {
     "doc": "Evoguide 50ED Focus Improvements",
     "title": "Evoguide 50ED Focus Improvements",
     "content": "The Skywatcher Evoguide 50ED is a very capable imaging scope once paired with a field flattener. However, its focuser really lets it down. There’s a lot of backlash. You have to turn the focus ring at least 90 degrees when swapping from focus in to focus out or vice-versa. This is irritating to use manually and a potential show stopper for any auto-focus system. The focuser is just a mechanical device, so I thought I’d take it apart, see how it works, and try to improve it. The focuser itself consists of 3 parts. One part is attached to the scope and contains the focus threads and the linear slide mechanism . The second part is the actual focus ring. When focusing inwards, the lip inside the focus ring rides on the tip of the focus tube. Strangely, it doesn’t ride on the convenient bearing surface that appears to have been cut behind it . The third part is the outer flange. This screws into the focuser and together they provide a small channel in which the lip on the focus ring rides. If you look carefully, you can see a shoulder on the flange just below the threads. The height of this shoulder determines the size of the channel in which the lip will travel. The backlash problem is caused entirely by the difference in dimensions between the thickness of this lip and the channel in which it rides. So to improve backlash we have to tighten those tolerances. There’s several ways to do this. We could pack out the focus ring from behind or we can pack it out from the front. I chose the latter solution and I’ve managed to almost eliminate the backlash whilst still being easy to turn. To do this, I used a 0.1mm M37 shim. Unfortunately, the inner dimensions of an M37 shim don’t quite fit over the shoulder on the outer flange so I had to very carefully trim the inner dimension. This is obviously not an off-the-shelf solution but does prove that an improvement can be made in this area. ",
     "url": "/equipment/evoguide-50ed-focus-improvements/",
     
     "relUrl": "/equipment/evoguide-50ed-focus-improvements/"
-  },"33": {
+  },"32": {
     "doc": "Field Flattener",
     "title": "Field Flattener",
     "content": "A field flattener is an optical accessory used in astrophotography to correct for field curvature and other optical aberrations that can occur when imaging through a telescope. Telescopes, particularly those with fast focal ratios, can produce curved or distorted fields of view. This means that objects at the center of the image may be in focus, but those towards the edges may appear blurry or distorted. A field flattener is designed to correct for these distortions by flattening the field of view and providing a sharp, well-corrected image across the entire field. Field flatteners come in various designs and configurations, but generally consist of a lens or lens system that is placed in the light path between the telescope and the camera. They are typically used in conjunction with a camera and other accessories, such as a filter wheel or focuser. Field flatteners can be particularly useful when imaging wide-field views of the sky, such as with a camera lens or a small refractor telescope. By correcting for field curvature, they allow for sharp, distortion-free images of extended objects such as nebulae or galaxies. It’s important to note that not all telescopes require a field flattener, and the specific type of field flattener needed depends on the telescope’s design and the camera being used. It’s important to carefully match the field flattener to the telescope and camera system for optimal results. ",
     "url": "/glossary/fieldflattener/",
     
     "relUrl": "/glossary/fieldflattener/"
-  },"34": {
+  },"33": {
     "doc": "Filters",
     "title": "Filters",
     "content": "Sure, here’s a revised answer that includes information on IR Pass filters: . Filters are a useful tool in astrophotography to enhance or isolate specific wavelengths of light emitted or reflected by deep sky objects. By using filters, astrophotographers can improve the contrast and detail in their images, reduce light pollution, and emphasize certain features of their target object. Some of the most commonly used filters in astrophotography include: . | Light pollution filter - This type of filter is designed to block out light pollution from cities and other artificial light sources. It can help improve the contrast and clarity of deep sky objects in areas with high light pollution. | Narrowband filter - A narrowband filter blocks out most of the light in the visible spectrum, allowing only specific wavelengths of light emitted by certain gases, such as hydrogen alpha or oxygen III, to pass through. This can reveal hidden details in nebulae and other deep sky objects that emit light at those wavelengths. | UV/IR cut filter - This type of filter blocks out ultraviolet and infrared light that can cause problems in astrophotography, such as chromatic aberration, color shifts, and blurring. | Color filter - A color filter can be used to enhance or emphasize specific features of a deep sky object, such as the red or blue regions of a nebula or the different color stars in a cluster. | Infrared Pass filter - This type of filter allows only infrared light to pass through, blocking out visible and ultraviolet light. It can be useful for capturing images of certain deep sky objects that emit a lot of infrared radiation, such as galaxies and some planetary nebulae. | . The most useful filter(s) for astrophotography will depend on the specific object being imaged, the location of the observer, and the equipment being used. For example, a light pollution filter might be more useful for astrophotographers in urban areas, while a narrowband filter might be more useful for capturing details in emission nebulae from dark sky locations. It’s important to research and experiment with different filters to determine which ones work best for your specific needs and equipment. ",
     "url": "/glossary/filters/",
     
     "relUrl": "/glossary/filters/"
-  },"35": {
+  },"34": {
     "doc": "FIT",
     "title": "FIT",
     "content": "A FIT (Flexible Image Transport System) file is a data format commonly used in astronomy for storing and sharing astronomical images, as well as other data such as spectra and tables. It was developed by NASA and the International Astronomical Union as a successor to the older FITS format, with the goal of improving its flexibility and usability. FIT files can store multiple data arrays and can be compressed to reduce their size while retaining full data fidelity. FIT files are widely used in astrophotography software, such as DeepSkyStacker, PixInsight, and AstroPixelProcessor. In astrophotography, a FIT file will often contain raw bayer data. This is a raw image format, meaning it contains the unprocessed image data directly from the camera sensor, without any demosaicing or color correction applied. Astrophotographers often use specialized software to process Bayer data and create high-quality color images. ",
     "url": "/glossary/fit/",
     
     "relUrl": "/glossary/fit/"
-  },"36": {
+  },"35": {
     "doc": "Focal Ratio",
     "title": "Focal Ratio",
     "content": "Focal ratio, also known as the f-number, is a fundamental parameter in optics that describes the ratio of a lens or telescope’s focal length to its aperture (diameter). It is typically represented by the symbol “f/” followed by a number, such as f/4, f/8, etc. The focal ratio has a direct impact on the brightness and depth of field of an image. A lower f-number (wider aperture) allows more light to enter the system, which results in brighter images and a shallower depth of field. This is useful for low-light photography and astrophotography where shorter exposure times are desired. A higher f-number (smaller aperture) allows less light to enter the system, resulting in dimmer images but with a greater depth of field, which can be useful for landscape photography or other situations where a large depth of field is desired. In astrophotography, the focal ratio is an important consideration when selecting a telescope for imaging. Telescopes with fast focal ratios (low f-numbers) can produce brighter images in a shorter amount of time, but they may also exhibit more optical aberrations and require more precise collimation and focusing. Slower focal ratios (higher f-numbers) may produce dimmer images but with greater resolution and a wider field of view. The optimal focal ratio depends on the specific imaging goals and the characteristics of the telescope being used. ",
     "url": "/glossary/focalratio/",
     
     "relUrl": "/glossary/focalratio/"
-  },"37": {
+  },"36": {
     "doc": "Field of View",
     "title": "Field of View",
     "content": "In astrophotography, the field of view refers to the extent of the sky that is visible in the captured image. It is determined by several factors such as the focal length of the telescope, the size of the camera sensor, and the pixel size of the sensor. The field of view is usually expressed in degrees, arcminutes or arcseconds. A wider field of view allows capturing a larger portion of the sky, which is useful for imaging large objects such as galaxies or nebulae. On the other hand, a narrower field of view can be used for imaging smaller objects such as planets and smaller planetary nebulae, with greater magnification and detail. It is affected by several parameters, including: . | Focal length: This is the distance between the lens and the focal point. The longer the focal length, the smaller the field of view. | Sensor size: The size of the camera sensor also affects the field of view. A larger sensor will capture more of the sky, resulting in a wider field of view. | Pixel size: The size of the pixels on the camera sensor also plays a role in determining the field of view. Smaller pixels allow for more detail, but can result in a narrower field of view. | Telescope or lens aperture: The size of the aperture determines how much light can be captured and affects the depth of field. Larger apertures allow for more light, but can also result in a narrower field of view. | Barlow lens or reducer: The use of a Barlow lens or reducer can affect the field of view by magnifying or decreasing the size of the image. | Mount type and tracking accuracy: The mount type and tracking accuracy affect the ability to capture a wide field of view over a longer exposure time. A stable mount with accurate tracking will allow for longer exposures and wider fields of view. | . ",
     "url": "/glossary/fov/",
     
     "relUrl": "/glossary/fov/"
-  },"38": {
+  },"37": {
     "doc": "Full Well Capacity",
     "title": "Full Well Capacity",
     "content": "Full well capacity, also known as saturation capacity, is a measure of the maximum number of electrons that a pixel in an image sensor can hold before it becomes saturated. When the pixel is saturated, it cannot record any additional information, and the resulting image will appear clipped and overexposed. Full well capacity is an important characteristic of a camera or sensor, particularly in astrophotography where long exposure times and faint signals are often used. A larger full well capacity allows the sensor to capture a wider range of signal levels without saturation, which results in more accurate and detailed images. On the other hand, a smaller full well capacity limits the dynamic range of the camera, making it more difficult to capture both bright and faint objects in the same image. Full well capacity is typically measured in electrons, and can vary depending on the sensor technology and pixel size. It is important to consider the full well capacity when selecting a camera or sensor for astrophotography or other applications where high dynamic range and low noise are desired. ",
     "url": "/glossary/fwc/",
     
     "relUrl": "/glossary/fwc/"
-  },"39": {
+  },"38": {
     "doc": "Gain",
     "title": "Gain",
     "content": "System gain in a camera refers to the overall amplification of the signal from the sensor to produce a usable image. It is a measure of the camera’s sensitivity, and is typically expressed in units of electrons per analog-to-digital unit (e-/ADU). The system gain is determined by several factors, including the sensor’s quantum efficiency (QE), the camera’s read noise, and the analog-to-digital converter’s gain. Higher system gain means that the camera is more sensitive, but it also means that the image will be noisier. Conversely, lower system gain means that the camera is less sensitive, but the resulting image will be cleaner. The optimal system gain for a particular camera and imaging scenario depends on the characteristics of the camera, the telescope or lens being used, and the specific imaging targets. In astrophotography, finding the right balance between sensitivity and noise is critical to producing high-quality images. Some cameras offer a dual gain capability (LCG = low conversion gain and HCG = high conversion gain). The High Conversion Gain mode effectively gives a gain boost, by a multiplier (usually x2). Some cameras allow this mode to be selected explicitly whilst others enable it automatically depending on the chosen gain value. The following graphs were created by myself from data obtained from Sharcap Sensor Analysis tool. They show data from my SvBony sv505c and is remarkably similar to the advertised data. You can see the results of the HCG mode kicking in at 100 gain. . ",
     "url": "/glossary/gain/",
     
     "relUrl": "/glossary/gain/"
+  },"39": {
+    "doc": "Gallery",
+    "title": "Gallery",
+    "content": ". Eastern Veil Nebula . Dumbbell Nebula . Supernova in Pinwheel . Bode's Galaxy &amp; Cigar Galaxy . A Better Whirlpool! . Not-so-boring M3 . Pinwheel . Orion Nebula Revisited . Orion Nebula ",
+    "url": "/gallery/",
+    
+    "relUrl": "/gallery/"
   },"40": {
     "doc": "GS Server",
     "title": "GS Server",
