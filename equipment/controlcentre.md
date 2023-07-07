@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Control Centre
-parent: Hardware
+parent: Equipment
 ---
 I use a Lenovo M73 small form factor PC as my main control centre. This is an Intel based PC running Microsoft Windows and is located on the tripod itself where it can be plugged directly into the equipment. I can access it remotely via Windows Remote Desktop over a Homeplug powerline network adapter. It runs NINA, GS Server, PHD2 and ASTAP. 
 

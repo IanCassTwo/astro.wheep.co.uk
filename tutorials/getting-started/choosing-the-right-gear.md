@@ -2,7 +2,7 @@
 layout: default
 title: Choosing The Right Gear
 nav_order: 1
-parent: How To
+parent: Getting Started
 ---
 
 # Choosing the Right Gear

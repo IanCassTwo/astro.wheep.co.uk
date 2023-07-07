@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Wedge
-parent: Hardware
+parent: Equipment
 ---
 A polar wedge is an accessory used in astronomy for mounting a telescope or a camera on an equatorial mount. It is designed to align the polar axis of the mount with the celestial pole, allowing for precise tracking of celestial objects as they move across the sky.
 

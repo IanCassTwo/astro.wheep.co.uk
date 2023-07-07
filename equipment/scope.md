@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Scope
-parent: Hardware
+parent: Equipment
 ---
 A main imaging scope and camera are key components in astrophotography. The imaging scope is the telescope or lens used to gather light from celestial objects, and the camera is used to capture and record that light as digital images.
 

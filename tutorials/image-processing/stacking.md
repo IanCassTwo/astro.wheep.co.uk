@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Stack
-parent: How To
+title: Stacking
+parent: Image Processing
 ---
 In astrophotography, you're not using your gamera to take pictures, you're gathering data. This data will consist of signal and of noise. To get high quality results, you'll need to gather a lot of data. This means that you'll need many images, each of somewhere between 30 secs to 5mins depending on your equipment and your target. Generally, your total integration time for all images should be in the region of 1 to 10 hours. The more data you gather, the more signal you can extract from the noise. The first step in extracting that data is to combine it all together along with your calibration frames.
 

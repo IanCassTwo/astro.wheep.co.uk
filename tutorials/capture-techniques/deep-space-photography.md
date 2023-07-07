@@ -2,7 +2,7 @@
 layout: default
 title: Introduction to Astrophotography
 nav_order: 1
-parent: How To
+parent: Capture Techniques
 ---
 
 # Deep Space Photography

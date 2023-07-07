@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Imaging Workflow
-parent: How To
+parent: Image Processing
 ---
 A workflow for a typical evening would be as follows:-
 

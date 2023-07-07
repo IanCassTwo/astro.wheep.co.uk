@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tripod
-parent: Hardware
+parent: Equipment
 ---
 A tripod is a three-legged stand used to support a variety of equipment, including cameras, telescopes, and surveying instruments. The tripod is designed to provide a stable and level base for the equipment, allowing for precise positioning and stable operation.
 

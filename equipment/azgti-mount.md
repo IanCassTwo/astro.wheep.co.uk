@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Az-Gti Mount
-parent: Hardware
+parent: Equipment
 ---
 The Skywatcher AZ-GTi is a compact and portable alt-azimuth mount designed for astrophotography and visual observing. It can support small to medium-sized telescopes or camera equipment, making it a popular choice for those who want a mount that is easy to transport and set up.
 

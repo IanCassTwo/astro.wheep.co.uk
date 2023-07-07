@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Post Process
-parent: How To
+parent: Image Processing
 ---
 After initial processing in Siril, I will post-process with Gimp. The GIMP workflow is less linear than Siril, so rather than give a step by step approach, I'll simply list some techniques.
 

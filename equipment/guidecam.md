@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Guide Cam
-parent: Hardware
+parent: Equipment
 ---
 A guide camera, also known as a guide cam, is a small camera used in astrophotography to provide guiding corrections to an equatorial mount. 
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Connectivity
-parent: Hardware
+parent: Equipment
 ---
 The [control centre](/hardware/controlcentre) is the brains of the operation. It's running the operating system and all your astrophotography software. Physically, it's connected to your [main imaging camera](/hardware/scope) via USB, to your [guide camera](/hardware/guider) via USB, to your [motorized mount](/hardware/mount) via USB, and to your [network](/hardware/networking) via Ethernet.
 

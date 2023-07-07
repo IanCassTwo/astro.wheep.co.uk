@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dew Heater
-parent: Hardware
+parent: Equipment
 ---
 A dew heater is an electronic device used in astronomy to prevent the buildup of moisture on lenses, mirrors, and other optical surfaces. When observing or photographing celestial objects, temperature changes can cause water vapor to condense on the surface of optical elements, leading to reduced image quality and potentially damaging the equipment over time.
 

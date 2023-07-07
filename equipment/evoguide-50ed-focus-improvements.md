@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Evoguide 50ED Focus Improvements
-parent: Hardware
+parent: Equipment
 ---
 The Skywatcher Evoguide 50ED is a very capable imaging scope once paired with a field flattener. However, its focuser really lets it down. There's a *lot* of backlash. You have to turn the focus ring at least 90 degrees when swapping from focus in to focus out or vice-versa. This is irritating to use manually and a potential show stopper for any auto-focus system. The focuser is just a mechanical device, so I thought I'd take it apart, see how it works, and try to improve it.
 

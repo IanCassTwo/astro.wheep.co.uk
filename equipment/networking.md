@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Networking
-parent: Hardware
+parent: Equipment
 ---
 I use a Homeplug network adapter to link my equipment to my home network. HomePlug networking is a technology that allows users to extend their home network by using existing electrical wiring as a network connection. This technology is commonly used to provide a wired network connection to areas of the home where Wi-Fi signal is weak or unreliable.
 
