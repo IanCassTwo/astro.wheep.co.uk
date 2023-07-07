@@ -27,26 +27,26 @@
     
     "relUrl": "/software/astrosharp/"
   },"4": {
+    "doc": "Az-Gti Mount",
+    "title": "Az-Gti Mount",
+    "content": "The Skywatcher AZ-GTi is a compact and portable alt-azimuth mount designed for astrophotography and visual observing. It can support small to medium-sized telescopes or camera equipment, making it a popular choice for those who want a mount that is easy to transport and set up. The AZ-GTi mount features a built-in WiFi module and can be controlled wirelessly using the free SynScan app for iOS and Android devices. The app allows you to align the mount with the night sky using your smartphone or tablet, and then control the movement of the mount and the attached equipment. The app also includes a database of over 10,000 celestial objects for easy object locating and tracking. The AZ-GTi mount has a payload capacity of up to 5 kg (11 lbs) and can track celestial objects with smooth and accurate movement using its DC servo motors. The mount also includes an ST-4 autoguider port for precise guiding during long-exposure astrophotography. The AZ-GTi mount can be powered using a 12V DC power supply or by eight AA batteries (not included), making it a versatile option for use in the field or at a dark sky site. It also includes a built-in bubble level and adjustable altitude and azimuth controls for easy setup and alignment. Overall, the Skywatcher AZ-GTi mount is a great option for those looking for a portable and easy-to-use mount for astrophotography and visual observing. The Skywatcher AZ-GTi is an alt-azimuth mount, which means that it is designed to move the telescope or camera equipment in altitude (up and down) and azimuth (side to side) axes. However, with the addition of an equatorial wedge, the AZ-GTi mount can be converted to an equatorial mount. An equatorial wedge is an accessory that attaches to the top of the AZ-GTi mount and allows it to tilt to match the angle of the Earth’s rotational axis. This adjustment effectively turns the mount into an equatorial mount, which is designed to track objects in the night sky as they appear to move across the sky due to the Earth’s rotation. With an equatorial wedge attached, the AZ-GTi mount can be polar aligned and used for long-exposure astrophotography of deep sky objects. However, it is important to note that the AZ-GTi mount has a relatively low weight capacity, so it is best suited for use with small to medium-sized telescopes or camera equipment. ",
+    "url": "/equipment/azgti-mount/",
+    
+    "relUrl": "/equipment/azgti-mount/"
+  },"5": {
     "doc": "Backspacing",
     "title": "Backspacing",
     "content": "Back spacing, in the context of astrophotography, refers to the distance between the camera’s imaging sensor and the telescope’s focal plane. It is an important parameter to consider when setting up a camera and telescope for astrophotography, as it affects the focus and image quality. In order to achieve optimal focus, the back spacing needs to be carefully adjusted so that the imaging sensor is positioned at the correct distance from the telescope’s focal plane. This distance is determined by the optical design of the telescope and the camera being used. If the back spacing is too short or too long, the image may appear out of focus or distorted. To adjust the back spacing, various adapters and spacers may be used between the camera and the telescope. Some telescopes have a built-in focuser that allows for back spacing adjustments, while others may require external accessories. The optimal back spacing can be determined through trial and error or by using specialized software that analyzes the image quality. Back spacing is also important to consider when using accessories such as field flatteners or reducers, as these can affect the distance between the camera’s sensor and the telescope’s focal plane. Proper adjustment of the back spacing is crucial for obtaining sharp, high-quality astrophotographs. ",
     "url": "/glossary/backspacing/",
     
     "relUrl": "/glossary/backspacing/"
-  },"5": {
+  },"6": {
     "doc": "Bortle",
     "title": "Bortle",
     "content": "Bortle is a scale used to measure the darkness of the night sky at a particular location. It was created by John E. Bortle in 2001 and has become a widely used reference in astronomy and astrophotography. The Bortle scale ranges from 1 (the darkest sky) to 9 (the most light-polluted sky). The Bortle scale takes into account factors such as the visibility of stars, the Milky Way, and other celestial objects, as well as the amount of light pollution, skyglow, and artificial light sources present in the area. The Bortle scale is useful for astronomers and astrophotographers in choosing observing or imaging locations that offer optimal conditions for their purposes. For example, someone who wants to observe or photograph faint deep sky objects will likely want to choose a location with a low Bortle scale rating, while someone who is observing or photographing bright planets or the Moon may not need to worry as much about light pollution. Here’s a breakdown of the Bortle scale ratings and what they represent: . | Excellent dark sky: A sky that is completely free from light pollution, with the Milky Way visible from horizon to horizon and a wealth of deep sky objects visible to the naked eye. | Very good dark sky: A sky that is almost completely free from light pollution, with the Milky Way still visible from horizon to horizon and many deep sky objects visible to the naked eye. | Rural sky: A sky in a rural area with minimal light pollution, with the Milky Way still visible but not as bright or expansive as in a darker sky. Many deep sky objects are still visible to the naked eye. | Suburban sky: A sky in a suburban area with moderate light pollution, where the Milky Way is no longer visible to the naked eye and only the brightest deep sky objects are visible. | Bright suburban sky: A sky in a suburban area with significant light pollution, where only the brightest stars and deep sky objects are visible. | Suburban/urban transition: A sky in an area with a mixture of suburban and urban lighting, where the sky is noticeably bright and only the brightest stars and objects are visible. | Urban sky: A sky in a heavily light-polluted urban area, where only a handful of stars are visible and no deep sky objects are visible to the naked eye. | Inner-city sky: A sky in the heart of a major city with extremely high levels of light pollution, where no stars or deep sky objects are visible. | Bright inner-city sky: The brightest level of light pollution, found in areas with bright streetlights and other sources of artificial light, where the sky is indistinguishable from the city itself. | . It’s worth noting that the Bortle scale is not a perfect measure of observing conditions, and individual locations may vary in their sky quality even within a given Bortle rating. However, the scale does provide a useful framework for understanding and comparing different observing locations. A dark site is a location that has very low levels of light pollution, making it an ideal spot for stargazing and astrophotography. In the UK, dark sites are typically located far away from major cities and other sources of light pollution, in rural areas with few artificial lights. Some popular dark sites for stargazing and astrophotography in the UK include: . | Galloway Forest Park in Scotland: This park has been designated as a Dark Sky Park by the International Dark-Sky Association, and offers some of the darkest skies in the UK. | Northumberland International Dark Sky Park: Another Dark Sky Park, this park in northern England offers stunning views of the Milky Way and other deep sky objects. | Exmoor National Park: This park in southwestern England has been designated as an International Dark Sky Reserve, and is home to some of the darkest skies in the country. | Snowdonia National Park: Located in Wales, this park offers some of the best dark skies in the UK, with excellent views of the Milky Way and other celestial objects. | Brecon Beacons National Park: Another Dark Sky Reserve, this park in Wales is home to some of the darkest skies in southern Britain. | . These are just a few examples of the many dark sites available for stargazing and astrophotography in the UK. It’s always a good idea to check local weather and sky conditions before heading out, and to be aware of any special regulations or restrictions in place at the location you plan to visit. ",
     "url": "/glossary/bortle/",
     
     "relUrl": "/glossary/bortle/"
-  },"6": {
-    "doc": "Brackets",
-    "title": "Brackets",
-    "content": " ",
-    "url": "/hardware/brackets/",
-    
-    "relUrl": "/hardware/brackets/"
   },"7": {
     "doc": "Calibration Frames",
     "title": "Calibration Frames",
@@ -55,489 +55,636 @@
     
     "relUrl": "/glossary/calibration/"
   },"8": {
+    "doc": "Choosing The Right Gear",
+    "title": "Choosing the Right Gear",
+    "content": "Selecting the appropriate equipment is crucial for successful astrophotography. This page will guide you through the essential gear needed to embark on your astrophotography journey, helping you make informed decisions and find the right tools to capture stunning images of the cosmos. ",
+    "url": "/tutorials/getting-started/choosing-the-right-gear/#choosing-the-right-gear",
+    
+    "relUrl": "/tutorials/getting-started/choosing-the-right-gear/#choosing-the-right-gear"
+  },"9": {
+    "doc": "Choosing The Right Gear",
+    "title": "1. Camera",
+    "content": "When it comes to choosing a camera for astrophotography, consider the following factors: . | Sensor: Opt for a camera with a larger sensor size, as this allows for better light-gathering capabilities and improved image quality. Full-frame cameras are often preferred, but modern APS-C or Micro Four Thirds sensors can also deliver impressive results. | Low-Light Performance: Look for a camera that performs well in low-light conditions, as astrophotography often involves long exposures and high ISO settings. Check reviews and compare noise performance at higher ISO levels. | Interchangeable Lenses: Consider a camera with interchangeable lens capability. This allows you to choose lenses suitable for various astrophotography subjects, such as wide-angle lenses for landscapes or telephoto lenses for capturing distant celestial objects. | . ",
+    "url": "/tutorials/getting-started/choosing-the-right-gear/#1-camera",
+    
+    "relUrl": "/tutorials/getting-started/choosing-the-right-gear/#1-camera"
+  },"10": {
+    "doc": "Choosing The Right Gear",
+    "title": "2. Lenses",
+    "content": "Lenses play a vital role in astrophotography, allowing you to capture different celestial subjects. Here are some considerations for selecting lenses: . | Wide-Angle Lens: A wide-angle lens with a low focal length (e.g., 14mm, 24mm) is excellent for capturing expansive nightscapes, the Milky Way, or meteor showers. Look for lenses with a wide maximum aperture (e.g., f/2.8 or wider) to gather more light. | Telephoto Lens: For capturing close-ups of the moon, planets, or specific deep sky objects, a telephoto lens with a longer focal length (e.g., 200mm, 300mm, or more) is essential. Consider lenses with a wide aperture to allow for faster shutter speeds. | Quality and Compatibility: Opt for lenses known for their optical quality and minimal aberrations. Additionally, ensure compatibility with your camera’s lens mount system. | . ",
+    "url": "/tutorials/getting-started/choosing-the-right-gear/#2-lenses",
+    
+    "relUrl": "/tutorials/getting-started/choosing-the-right-gear/#2-lenses"
+  },"11": {
+    "doc": "Choosing The Right Gear",
+    "title": "3. Mount and Tripod",
+    "content": "A sturdy mount and tripod are essential for keeping your camera stable during long exposures. Consider the following aspects: . | Equatorial Mount: An equatorial mount with motorized tracking capabilities is ideal for astrophotography. It compensates for the Earth’s rotation, allowing you to capture longer exposures without star trailing. Invest in a reliable mount that can handle the weight of your camera and lens setup. | Tripod Stability: Choose a tripod that offers stability and vibration dampening. Look for sturdy construction, adjustable height, and a ball head for easy camera positioning. | . ",
+    "url": "/tutorials/getting-started/choosing-the-right-gear/#3-mount-and-tripod",
+    
+    "relUrl": "/tutorials/getting-started/choosing-the-right-gear/#3-mount-and-tripod"
+  },"12": {
+    "doc": "Choosing The Right Gear",
+    "title": "4. Accessories",
+    "content": "Several accessories can enhance your astrophotography experience. Here are a few worth considering: . | Remote Shutter Release: Using a remote shutter release or intervalometer minimizes camera shake when triggering exposures, especially for long exposures or time-lapse sequences. | Light Pollution Filter: Light pollution filters help reduce the impact of artificial light, enhancing the visibility and clarity of celestial objects. Consider a filter designed for astrophotography, such as a broadband or narrowband filter. | Power Supply: Ensure you have reliable power sources for extended astrophotography sessions. Extra batteries, a portable power bank, or an AC power adapter can be valuable accessories to keep your gear powered throughout the night. | . ",
+    "url": "/tutorials/getting-started/choosing-the-right-gear/#4-accessories",
+    
+    "relUrl": "/tutorials/getting-started/choosing-the-right-gear/#4-accessories"
+  },"13": {
+    "doc": "Choosing The Right Gear",
+    "title": "Conclusion",
+    "content": "Choosing the right gear is a crucial step in your astrophotography journey. A camera with a capable sensor, compatible lenses, a stable mount, and useful accessories will empower you to capture breathtaking images of the night sky. Remember to consider your budget, specific interests, and skill level when making your gear choices. Invest wisely, practice regularly, and explore the limitless wonders awaiting your astrophotographic vision. ",
+    "url": "/tutorials/getting-started/choosing-the-right-gear/#conclusion",
+    
+    "relUrl": "/tutorials/getting-started/choosing-the-right-gear/#conclusion"
+  },"14": {
+    "doc": "Choosing The Right Gear",
+    "title": "Choosing The Right Gear",
+    "content": " ",
+    "url": "/tutorials/getting-started/choosing-the-right-gear/",
+    
+    "relUrl": "/tutorials/getting-started/choosing-the-right-gear/"
+  },"15": {
     "doc": "Connectivity",
     "title": "Connectivity",
     "content": "The control centre is the brains of the operation. It’s running the operating system and all your astrophotography software. Physically, it’s connected to your main imaging camera via USB, to your guide camera via USB, to your motorized mount via USB, and to your network via Ethernet. Your control centre is running NINA. This is accessing your main imaging camera either natively or via an Ascom driver. It’s also accessing your motorized mount via an Ascom driver. In my case, that’s GS Server. The control centre is also running PHD2 guiding software. This is connected to the guide camera either natively or via an Ascom driver. The “guider” section of NINA is configured to connect to PHD2. NINA does not talk directly to the guide cam itself. NINA is configured to use a plate solver which is usually ASTAP. This is invoked in the background as needed. ",
-    "url": "/hardware/connectivity/",
+    "url": "/equipment/connectivity/",
     
-    "relUrl": "/hardware/connectivity/"
-  },"9": {
+    "relUrl": "/equipment/connectivity/"
+  },"16": {
     "doc": "Control Centre",
     "title": "Control Centre",
     "content": "I use a Lenovo M73 small form factor PC as my main control centre. This is an Intel based PC running Microsoft Windows and is located on the tripod itself where it can be plugged directly into the equipment. I can access it remotely via Windows Remote Desktop over a Homeplug powerline network adapter. It runs NINA, GS Server, PHD2 and ASTAP. All images are copied onto my main PC for processing. Here’s a video on Youtube where Cuiv shows you how to set up your PC. ",
-    "url": "/hardware/controlcentre/",
+    "url": "/equipment/controlcentre/",
     
-    "relUrl": "/hardware/controlcentre/"
-  },"10": {
+    "relUrl": "/equipment/controlcentre/"
+  },"17": {
+    "doc": "Introduction to Astrophotography",
+    "title": "Deep Space Photography",
+    "content": "Welcome to the captivating world of deep space photography! This page will introduce you to the techniques and considerations involved in capturing stunning images of distant celestial objects. Whether you’re a seasoned astrophotographer or new to the field, this guide will provide valuable insights to help you embark on your deep space imaging journey. ",
+    "url": "/tutorials/capture-techniques/deep-space-photography/#deep-space-photography",
+    
+    "relUrl": "/tutorials/capture-techniques/deep-space-photography/#deep-space-photography"
+  },"18": {
+    "doc": "Introduction to Astrophotography",
+    "title": "What is Deep Space Photography?",
+    "content": "Deep space photography involves capturing images of celestial objects that lie far beyond our solar system. This includes capturing galaxies, nebulae, star clusters, and other remarkable entities located millions or even billions of light-years away. Through long-exposure imaging, we can unveil the intricate details and breathtaking beauty of these cosmic wonders. ",
+    "url": "/tutorials/capture-techniques/deep-space-photography/#what-is-deep-space-photography",
+    
+    "relUrl": "/tutorials/capture-techniques/deep-space-photography/#what-is-deep-space-photography"
+  },"19": {
+    "doc": "Introduction to Astrophotography",
+    "title": "Equipment",
+    "content": "To delve into deep space photography, consider the following equipment: . | Telescope: A telescope with a suitable focal length and aperture is essential for capturing distant deep space objects. Research different types of telescopes (refractors, reflectors, or compound) and select one that matches your astrophotography goals and budget. | Mount: An equatorial mount is crucial for precise tracking of celestial objects during long exposures. Look for a mount that can handle the weight of your telescope and camera setup, providing stability and accurate tracking. | Camera: Choose a camera with a large sensor, capable of capturing detailed images in low-light conditions. Full-frame DSLRs or mirrorless cameras are popular choices. Ensure your camera can be attached to your telescope using the appropriate T-ring or adapter. | Guiding System: To enhance tracking accuracy, consider using an autoguiding system. This involves attaching a guide camera to your telescope, which continuously monitors and corrects for any tracking errors. | . ",
+    "url": "/tutorials/capture-techniques/deep-space-photography/#equipment",
+    
+    "relUrl": "/tutorials/capture-techniques/deep-space-photography/#equipment"
+  },"20": {
+    "doc": "Introduction to Astrophotography",
+    "title": "Capturing Deep Space Images",
+    "content": "Capturing stunning deep space images requires careful planning and execution. Consider the following techniques: . | Image Stacking: Deep space objects are often faint and require long exposure times to gather enough light. Use software like DeepSkyStacker, PixInsight, or Sequator to stack multiple exposures, effectively reducing noise and revealing hidden details. | Filter Usage: Consider using specific filters to enhance your deep space images. Narrowband filters, such as hydrogen-alpha (Ha) and oxygen (OIII), can help isolate specific emissions from nebulae, providing stunning color and contrast. | Light Pollution Considerations: Deep space imaging is often affected by light pollution. Choose shooting locations away from urban areas or use light pollution filters to mitigate its effects and improve image quality. | . ",
+    "url": "/tutorials/capture-techniques/deep-space-photography/#capturing-deep-space-images",
+    
+    "relUrl": "/tutorials/capture-techniques/deep-space-photography/#capturing-deep-space-images"
+  },"21": {
+    "doc": "Introduction to Astrophotography",
+    "title": "Processing Deep Space Images",
+    "content": "Processing deep space images is a critical step in revealing their true beauty. Consider the following techniques: . | Calibration: Apply calibration frames, such as dark frames, flat frames, and bias frames, to correct for sensor noise, dust, and other imperfections. | Stretching and Enhancement: Utilize software like Adobe Photoshop, PixInsight, or DeepSkyStacker to stretch and enhance the dynamic range of your images. Adjusting curves, levels, and applying local contrast enhancement can bring out intricate details. | Color Correction: Fine-tune color balance and saturation to achieve accurate and visually pleasing representations of deep space objects. Pay attention to preserving natural colors while bringing out the subtle hues within nebulae and galaxies. | . ",
+    "url": "/tutorials/capture-techniques/deep-space-photography/#processing-deep-space-images",
+    
+    "relUrl": "/tutorials/capture-techniques/deep-space-photography/#processing-deep-space-images"
+  },"22": {
+    "doc": "Introduction to Astrophotography",
+    "title": "Learning Resources",
+    "content": "Deep space photography is a continually evolving field, and there are many resources available to enhance your knowledge and skills: . | Books and Online Tutorials: Explore astrophotography books and online tutorials dedicated to deep space imaging techniques and processing workflows. | Online Communities: Engage with the astrophotography community through forums, social media groups, and image sharing platforms. Connect with experienced astrophotographers, seek advice, and share your work. | Workshops and Events: Consider attending workshops, seminars, or star parties where you can learn from experts, gain hands-on experience, and connect with fellow astrophotography enthusiasts. | . ",
+    "url": "/tutorials/capture-techniques/deep-space-photography/#learning-resources",
+    
+    "relUrl": "/tutorials/capture-techniques/deep-space-photography/#learning-resources"
+  },"23": {
+    "doc": "Introduction to Astrophotography",
+    "title": "Conclusion",
+    "content": "Deep space photography opens up a window to the vast cosmos, allowing us to capture the beauty and mysteries of the universe. With the right equipment, techniques, and processing skills, you can create breathtaking images that inspire awe and ignite a deeper appreciation for our celestial surroundings. Embark on your deep space imaging journey, explore the depths of the universe, and share the wonders you capture with the world. Feel free to customize and expand upon this template to suit your website’s style and design, as well as provide any additional information or recommendations based on your personal experiences and expertise. ",
+    "url": "/tutorials/capture-techniques/deep-space-photography/#conclusion",
+    
+    "relUrl": "/tutorials/capture-techniques/deep-space-photography/#conclusion"
+  },"24": {
+    "doc": "Introduction to Astrophotography",
+    "title": "Introduction to Astrophotography",
+    "content": " ",
+    "url": "/tutorials/capture-techniques/deep-space-photography/",
+    
+    "relUrl": "/tutorials/capture-techniques/deep-space-photography/"
+  },"25": {
     "doc": "Demosaicing",
     "title": "Demosaicing",
     "content": "Demosaicing is a process used in digital imaging, including astrophotography, to reconstruct a full-color image from the raw data captured by a camera sensor that uses a color filter array, typically a Bayer filter. The Bayer filter consists of red, green, and blue color filters arranged in a specific pattern over the sensor’s pixels. In a raw image, each pixel only captures intensity values for one color channel (red, green, or blue) because of the presence of the color filter array. Demosaicing algorithms interpolate the missing color information for each pixel by utilizing the surrounding pixels with different color filters. By analyzing the patterns and relationships between neighboring pixels, the algorithm estimates the full-color values for each pixel. The demosaicing process helps generate a full-resolution, full-color image that can be further processed and manipulated. It is a crucial step in the overall image processing pipeline for producing accurate and visually appealing final images. Various demosaicing algorithms exist, each with its own strengths and weaknesses, and different software applications or plugins offer different demosaicing options to suit the user’s preferences and specific image characteristics. ",
     "url": "/glossary/demosaicing/",
     
     "relUrl": "/glossary/demosaicing/"
-  },"11": {
+  },"26": {
     "doc": "Dew Heater",
     "title": "Dew Heater",
     "content": "A dew heater is an electronic device used in astronomy to prevent the buildup of moisture on lenses, mirrors, and other optical surfaces. When observing or photographing celestial objects, temperature changes can cause water vapor to condense on the surface of optical elements, leading to reduced image quality and potentially damaging the equipment over time. Dew heaters work by using a heating element, typically a thin strip or pad of resistive material, that is placed in contact with the optical surface. The heating element is connected to a power source, such as a battery or AC adapter, and is controlled by a thermostat or other temperature control system. By warming the surface of the optics, the dew heater raises the temperature of the optical elements slightly above the dew point, preventing moisture from condensing on the surface. This helps to maintain clear, sharp images and prolongs the life of the equipment. Dew heaters are available in a variety of sizes and configurations to fit different types of telescopes, cameras, and other optical equipment. Some dew heaters may also include additional features such as temperature sensors, adjustable thermostats, or battery packs for portable use. ",
-    "url": "/hardware/dewheater/",
+    "url": "/equipment/dewheater/",
     
-    "relUrl": "/hardware/dewheater/"
-  },"12": {
+    "relUrl": "/equipment/dewheater/"
+  },"27": {
     "doc": "Dithering",
     "title": "Dithering",
     "content": "In astrophotography, dithering is a technique used to reduce the impact of noise and other unwanted artifacts in an image. It involves small, random movements of the telescope or camera between exposures, which causes the stars and other objects in the image to move slightly from one frame to the next. This movement is used to improve the final image quality by reducing the effects of fixed-pattern noise, hot pixels, and other imperfections that can occur in digital images. Dithering is most commonly used when taking multiple exposures of the same object, such as during a long imaging session. By dithering the telescope or camera between each exposure, the final image will have a higher signal-to-noise ratio, which can result in better detail and color accuracy. The amount and frequency of dithering can vary depending on factors such as the imaging equipment, the object being photographed, and the desired final image quality. Some astrophotography software programs, such as PHD2 and N.I.N.A, include dithering features that can automate the process and optimize the results. ",
     "url": "/glossary/dither/",
     
     "relUrl": "/glossary/dither/"
-  },"13": {
+  },"28": {
     "doc": "Drizzle",
     "title": "Drizzle",
     "content": "Drizzle is a technique used in astrophotography to increase the resolution of images taken by telescopes or other instruments. It works by taking multiple sub-images of an object and then combining them in a way that preserves the finer details of the object. The technique was originally developed by NASA to enhance images taken by the Hubble Space Telescope, but has since been adapted for use by amateur astronomers. The process of drizzling involves taking each sub-image and breaking it up into smaller pieces called “pixels.” The software then analyzes the pixels in each sub-image and uses a mathematical algorithm to determine how to combine them with the pixels from the other sub-images. The resulting image has a higher resolution than the original sub-images and is able to reveal more details about the object being imaged. Drizzle is particularly useful for imaging objects that are very small or faint, or that have intricate structures. However, the process can be time-consuming and requires a significant amount of processing power, so it may not be suitable for all types of astrophotography. ",
     "url": "/glossary/drizzle/",
     
     "relUrl": "/glossary/drizzle/"
-  },"14": {
+  },"29": {
     "doc": "Deep Sky Object",
     "title": "Deep Sky Object",
     "content": "In astronomy, a deep sky object (DSO) is any celestial object that is located outside our solar system and beyond our Milky Way galaxy. This includes galaxies, nebulae, star clusters, and other objects that are too faint to be seen with the naked eye. Deep sky objects are a popular target for amateur astronomers and astrophotographers because they provide a glimpse into the vastness and complexity of the universe. Unlike planets and stars, which can be observed individually and in detail, deep sky objects require telescopes and long exposure times to capture their faint light. Examples of deep sky objects include the Andromeda Galaxy, the Orion Nebula, the Pleiades star cluster, and the Whirlpool Galaxy. They are typically categorized as emission, reflection, or dark nebulae, globular or open clusters, or galaxies based on their structure, composition, and location in the sky. Deep sky objects are generally classified as emission or reflection. The main difference between an emission and a reflection lies in how they produce visible light. Emission nebulae are clouds of ionized gas that emit light at specific wavelengths as a result of high-energy photons from nearby stars. These nebulae appear reddish, pinkish or bluish in color depending on the specific gases present, such as hydrogen, oxygen, and sulfur. Examples of emission nebulae include the Orion Nebula and the Lagoon Nebula. On the other hand, reflection nebulae are clouds of dust and gas that do not produce their own light, but instead reflect the light of nearby stars. They typically appear as bluish-gray or silvery-white regions against a dark background. The bluish color is due to the scattering of blue light by the dust grains in the nebula. Examples of reflection nebulae include the Pleiades star cluster and the Horsehead Nebula. Both emission and reflection nebulae are commonly observed and imaged in astrophotography, and both can provide important clues about the structure and composition of the universe. ",
     "url": "/glossary/dso/",
     
     "relUrl": "/glossary/dso/"
-  },"15": {
+  },"30": {
     "doc": "Deep Sky Stacker",
     "title": "Deep Sky Stacker",
     "content": "DeepSkyStacker (DSS) is a free and open-source software program used for astrophotography image stacking and processing. It was developed by a French astrophotographer named Luc Coiffier and is widely used by both amateur and professional astronomers worldwide. DSS is designed to help photographers create high-quality, noise-free images of deep-sky objects such as galaxies, nebulae, and star clusters. It works by combining multiple individual frames of the same object into a single image, effectively reducing the noise and improving the signal-to-noise ratio. DSS supports a wide range of file formats, including FITS, RAW, and JPEG, and can be used with a variety of astronomy equipment, including cameras, telescopes, and mount controllers. It includes advanced features such as star detection, alignment, and weighting, as well as image normalization and calibration. One of the unique features of DSS is its ability to handle large datasets, making it ideal for processing large numbers of frames from multiple imaging sessions. It can also perform batch processing, allowing users to stack and process multiple images automatically. DSS also includes a range of image processing tools, such as histogram equalization, color adjustment, and noise reduction. It also supports advanced features such as compositing and image registration, allowing users to create high-quality, detailed images of deep-sky objects. Overall, DeepSkyStacker is a powerful and versatile software program that is highly regarded by astrophotographers worldwide. Its user-friendly interface, advanced features, and ability to handle large datasets make it an ideal choice for anyone looking to create high-quality deep-sky images. http://deepskystacker.free.fr/english/index.html . ",
     "url": "/software/dss/",
     
     "relUrl": "/software/dss/"
-  },"16": {
+  },"31": {
     "doc": "Equatorial Mount",
     "title": "Equatorial Mount",
     "content": "An equatorial mount is a type of telescope mount used in astronomy that is designed to follow the apparent motion of the stars in the sky caused by the rotation of the Earth. It consists of two perpendicular axes: the right ascension (RA) axis, which points towards the celestial pole and moves in a circle around it, and the declination (Dec) axis, which is perpendicular to the RA axis and moves up and down along it. The RA axis of the mount is usually aligned with the celestial pole, allowing the telescope to track stars as they appear to move across the sky due to the Earth’s rotation. By using an equatorial mount, an observer can keep a celestial object in the field of view of the telescope for long periods of time, allowing for extended observations or astrophotography. Equatorial mounts can be manually operated or motorized, with the latter often being preferred for long-exposure astrophotography. Some mounts also include features such as computerized GoTo systems, which can automatically locate and track celestial objects based on input from a computer or hand controller. Equatorial mounts come in various sizes and designs to accommodate different telescopes and setups. They are commonly used for astrophotography, especially for deep-sky imaging where long exposure times are necessary. However, they can also be used for visual observation of celestial objects. A different kind of mount that you may encounter is an Alt-Az mount, short for Altitude-Azimuth mount. This is a type of telescope mount used in astronomy that moves the telescope along two perpendicular axes, one for altitude and one for azimuth. The altitude axis tilts the telescope up and down, while the azimuth axis rotates it side to side. Unlike an equatorial mount, an Alt-Az mount does not have a fixed orientation with respect to the celestial sphere, and thus does not track the apparent motion of the stars. Instead, it moves the telescope directly to the desired position in the sky, which makes it easier to use for visual observing and shorter exposures for astrophotography. Alt-Az mounts are often used for observations of the moon, planets, and other objects that move relatively quickly across the sky. Alt-Az mounts come in various sizes and designs to accommodate different telescopes and setups. They are often simpler and less expensive than equatorial mounts, making them a popular choice for beginners and for portable telescopes that are easy to transport. However, they are not useful for long-exposure astrophotography of deep-sky objects, which require the more precise tracking provided by an equatorial mount. Some Alt-Az mounts (specifically the Az-Gti) allow loading alternative firmware to convert them to an Equatorial mount with the addition of a cheap Equatorial wedge. ",
     "url": "/glossary/equatorialmount/",
     
     "relUrl": "/glossary/equatorialmount/"
-  },"17": {
+  },"32": {
     "doc": "Evoguide 50ED Focus Improvements",
     "title": "Evoguide 50ED Focus Improvements",
     "content": "The Skywatcher Evoguide 50ED is a very capable imaging scope once paired with a field flattener. However, its focuser really lets it down. There’s a lot of backlash. You have to turn the focus ring at least 90 degrees when swapping from focus in to focus out or vice-versa. This is irritating to use manually and a potential show stopper for any auto-focus system. The focuser is just a mechanical device, so I thought I’d take it apart, see how it works, and try to improve it. The focuser itself consists of 3 parts. One part is attached to the scope and contains the focus threads and the linear slide mechanism . The second part is the actual focus ring. When focusing inwards, the lip inside the focus ring rides on the tip of the focus tube. Strangely, it doesn’t ride on the convenient bearing surface that appears to have been cut behind it . The third part is the outer flange. This screws into the focuser and together they provide a small channel in which the lip on the focus ring rides. If you look carefully, you can see a shoulder on the flange just below the threads. The height of this shoulder determines the size of the channel in which the lip will travel. The backlash problem is caused entirely by the difference in dimensions between the thickness of this lip and the channel in which it rides. So to improve backlash we have to tighten those tolerances. There’s several ways to do this. We could pack out the focus ring from behind or we can pack it out from the front. I chose the latter solution and I’ve managed to almost eliminate the backlash whilst still being easy to turn. To do this, I used a 0.1mm M37 shim. Unfortunately, the inner dimensions of an M37 shim don’t quite fit over the shoulder on the outer flange so I had to very carefully trim the inner dimension. This is obviously not an off-the-shelf solution but does prove that an improvement can be made in this area. ",
-    "url": "/hardware/evoguide-50ed-focus-improvements/",
+    "url": "/equipment/evoguide-50ed-focus-improvements/",
     
-    "relUrl": "/hardware/evoguide-50ed-focus-improvements/"
-  },"18": {
+    "relUrl": "/equipment/evoguide-50ed-focus-improvements/"
+  },"33": {
     "doc": "Field Flattener",
     "title": "Field Flattener",
     "content": "A field flattener is an optical accessory used in astrophotography to correct for field curvature and other optical aberrations that can occur when imaging through a telescope. Telescopes, particularly those with fast focal ratios, can produce curved or distorted fields of view. This means that objects at the center of the image may be in focus, but those towards the edges may appear blurry or distorted. A field flattener is designed to correct for these distortions by flattening the field of view and providing a sharp, well-corrected image across the entire field. Field flatteners come in various designs and configurations, but generally consist of a lens or lens system that is placed in the light path between the telescope and the camera. They are typically used in conjunction with a camera and other accessories, such as a filter wheel or focuser. Field flatteners can be particularly useful when imaging wide-field views of the sky, such as with a camera lens or a small refractor telescope. By correcting for field curvature, they allow for sharp, distortion-free images of extended objects such as nebulae or galaxies. It’s important to note that not all telescopes require a field flattener, and the specific type of field flattener needed depends on the telescope’s design and the camera being used. It’s important to carefully match the field flattener to the telescope and camera system for optimal results. ",
     "url": "/glossary/fieldflattener/",
     
     "relUrl": "/glossary/fieldflattener/"
-  },"19": {
+  },"34": {
     "doc": "Filters",
     "title": "Filters",
     "content": "Sure, here’s a revised answer that includes information on IR Pass filters: . Filters are a useful tool in astrophotography to enhance or isolate specific wavelengths of light emitted or reflected by deep sky objects. By using filters, astrophotographers can improve the contrast and detail in their images, reduce light pollution, and emphasize certain features of their target object. Some of the most commonly used filters in astrophotography include: . | Light pollution filter - This type of filter is designed to block out light pollution from cities and other artificial light sources. It can help improve the contrast and clarity of deep sky objects in areas with high light pollution. | Narrowband filter - A narrowband filter blocks out most of the light in the visible spectrum, allowing only specific wavelengths of light emitted by certain gases, such as hydrogen alpha or oxygen III, to pass through. This can reveal hidden details in nebulae and other deep sky objects that emit light at those wavelengths. | UV/IR cut filter - This type of filter blocks out ultraviolet and infrared light that can cause problems in astrophotography, such as chromatic aberration, color shifts, and blurring. | Color filter - A color filter can be used to enhance or emphasize specific features of a deep sky object, such as the red or blue regions of a nebula or the different color stars in a cluster. | Infrared Pass filter - This type of filter allows only infrared light to pass through, blocking out visible and ultraviolet light. It can be useful for capturing images of certain deep sky objects that emit a lot of infrared radiation, such as galaxies and some planetary nebulae. | . The most useful filter(s) for astrophotography will depend on the specific object being imaged, the location of the observer, and the equipment being used. For example, a light pollution filter might be more useful for astrophotographers in urban areas, while a narrowband filter might be more useful for capturing details in emission nebulae from dark sky locations. It’s important to research and experiment with different filters to determine which ones work best for your specific needs and equipment. ",
     "url": "/glossary/filters/",
     
     "relUrl": "/glossary/filters/"
-  },"20": {
+  },"35": {
     "doc": "FIT",
     "title": "FIT",
     "content": "A FIT (Flexible Image Transport System) file is a data format commonly used in astronomy for storing and sharing astronomical images, as well as other data such as spectra and tables. It was developed by NASA and the International Astronomical Union as a successor to the older FITS format, with the goal of improving its flexibility and usability. FIT files can store multiple data arrays and can be compressed to reduce their size while retaining full data fidelity. FIT files are widely used in astrophotography software, such as DeepSkyStacker, PixInsight, and AstroPixelProcessor. In astrophotography, a FIT file will often contain raw bayer data. This is a raw image format, meaning it contains the unprocessed image data directly from the camera sensor, without any demosaicing or color correction applied. Astrophotographers often use specialized software to process Bayer data and create high-quality color images. ",
     "url": "/glossary/fit/",
     
     "relUrl": "/glossary/fit/"
-  },"21": {
+  },"36": {
     "doc": "Focal Ratio",
     "title": "Focal Ratio",
     "content": "Focal ratio, also known as the f-number, is a fundamental parameter in optics that describes the ratio of a lens or telescope’s focal length to its aperture (diameter). It is typically represented by the symbol “f/” followed by a number, such as f/4, f/8, etc. The focal ratio has a direct impact on the brightness and depth of field of an image. A lower f-number (wider aperture) allows more light to enter the system, which results in brighter images and a shallower depth of field. This is useful for low-light photography and astrophotography where shorter exposure times are desired. A higher f-number (smaller aperture) allows less light to enter the system, resulting in dimmer images but with a greater depth of field, which can be useful for landscape photography or other situations where a large depth of field is desired. In astrophotography, the focal ratio is an important consideration when selecting a telescope for imaging. Telescopes with fast focal ratios (low f-numbers) can produce brighter images in a shorter amount of time, but they may also exhibit more optical aberrations and require more precise collimation and focusing. Slower focal ratios (higher f-numbers) may produce dimmer images but with greater resolution and a wider field of view. The optimal focal ratio depends on the specific imaging goals and the characteristics of the telescope being used. ",
     "url": "/glossary/focalratio/",
     
     "relUrl": "/glossary/focalratio/"
-  },"22": {
+  },"37": {
     "doc": "Field of View",
     "title": "Field of View",
     "content": "In astrophotography, the field of view refers to the extent of the sky that is visible in the captured image. It is determined by several factors such as the focal length of the telescope, the size of the camera sensor, and the pixel size of the sensor. The field of view is usually expressed in degrees, arcminutes or arcseconds. A wider field of view allows capturing a larger portion of the sky, which is useful for imaging large objects such as galaxies or nebulae. On the other hand, a narrower field of view can be used for imaging smaller objects such as planets and smaller planetary nebulae, with greater magnification and detail. It is affected by several parameters, including: . | Focal length: This is the distance between the lens and the focal point. The longer the focal length, the smaller the field of view. | Sensor size: The size of the camera sensor also affects the field of view. A larger sensor will capture more of the sky, resulting in a wider field of view. | Pixel size: The size of the pixels on the camera sensor also plays a role in determining the field of view. Smaller pixels allow for more detail, but can result in a narrower field of view. | Telescope or lens aperture: The size of the aperture determines how much light can be captured and affects the depth of field. Larger apertures allow for more light, but can also result in a narrower field of view. | Barlow lens or reducer: The use of a Barlow lens or reducer can affect the field of view by magnifying or decreasing the size of the image. | Mount type and tracking accuracy: The mount type and tracking accuracy affect the ability to capture a wide field of view over a longer exposure time. A stable mount with accurate tracking will allow for longer exposures and wider fields of view. | . ",
     "url": "/glossary/fov/",
     
     "relUrl": "/glossary/fov/"
-  },"23": {
+  },"38": {
     "doc": "Full Well Capacity",
     "title": "Full Well Capacity",
     "content": "Full well capacity, also known as saturation capacity, is a measure of the maximum number of electrons that a pixel in an image sensor can hold before it becomes saturated. When the pixel is saturated, it cannot record any additional information, and the resulting image will appear clipped and overexposed. Full well capacity is an important characteristic of a camera or sensor, particularly in astrophotography where long exposure times and faint signals are often used. A larger full well capacity allows the sensor to capture a wider range of signal levels without saturation, which results in more accurate and detailed images. On the other hand, a smaller full well capacity limits the dynamic range of the camera, making it more difficult to capture both bright and faint objects in the same image. Full well capacity is typically measured in electrons, and can vary depending on the sensor technology and pixel size. It is important to consider the full well capacity when selecting a camera or sensor for astrophotography or other applications where high dynamic range and low noise are desired. ",
     "url": "/glossary/fwc/",
     
     "relUrl": "/glossary/fwc/"
-  },"24": {
+  },"39": {
     "doc": "Gain",
     "title": "Gain",
     "content": "System gain in a camera refers to the overall amplification of the signal from the sensor to produce a usable image. It is a measure of the camera’s sensitivity, and is typically expressed in units of electrons per analog-to-digital unit (e-/ADU). The system gain is determined by several factors, including the sensor’s quantum efficiency (QE), the camera’s read noise, and the analog-to-digital converter’s gain. Higher system gain means that the camera is more sensitive, but it also means that the image will be noisier. Conversely, lower system gain means that the camera is less sensitive, but the resulting image will be cleaner. The optimal system gain for a particular camera and imaging scenario depends on the characteristics of the camera, the telescope or lens being used, and the specific imaging targets. In astrophotography, finding the right balance between sensitivity and noise is critical to producing high-quality images. Some cameras offer a dual gain capability (LCG = low conversion gain and HCG = high conversion gain). The High Conversion Gain mode effectively gives a gain boost, by a multiplier (usually x2). Some cameras allow this mode to be selected explicitly whilst others enable it automatically depending on the chosen gain value. The following graphs were created by myself from data obtained from Sharcap Sensor Analysis tool. They show data from my SvBony sv505c and is remarkably similar to the advertised data. You can see the results of the HCG mode kicking in at 100 gain. . ",
     "url": "/glossary/gain/",
     
     "relUrl": "/glossary/gain/"
-  },"25": {
+  },"40": {
     "doc": "GS Server",
     "title": "GS Server",
     "content": "Green Swamp Server (GSS) is a driver for ASCOM telescope support and the Synta Protocol. It supports the SkyWatcher and Orion mounts: EQ8, EQ8-R, HDX110, AZ-EQ5GT, Sirius Pro AZ/EQ-G, AZ-EQ6GT, Orion Atlas Pro AZ/EQ-G, EQ6-R PRO, NEQ6, HEQ5, EQ5, EQ4, AzGTi, and others. https://greenswamp.org/?page_id=105 . ",
     "url": "/software/gss/",
     
     "relUrl": "/software/gss/"
-  },"26": {
+  },"41": {
     "doc": "Guide Cam",
     "title": "Guide Cam",
     "content": "A guide camera, also known as a guide cam, is a small camera used in astrophotography to provide guiding corrections to an equatorial mount. In astrophotography, long exposure times are often used to capture detailed images of celestial objects, such as galaxies or nebulas. However, even small tracking errors in the mount can cause star trailing or other image artifacts that can degrade the quality of the final image. To address this issue, a guide camera is mounted on a secondary telescope or piggybacked on the primary telescope. The guide camera captures a small section of the sky near the primary imaging telescope’s field of view. The guide camera sends this information to guiding software, which analyzes the star positions and sends correction signals to the mount, allowing for precise tracking. Guide cameras are typically small, lightweight, and designed to work in low-light conditions. They may also include features such as high sensitivity, high resolution, and rapid readout times to provide accurate guiding corrections. Some guide cameras may also include built-in autoguiding software, simplifying the setup process for the user. My guide scope and cam are a bundled Altair Starwave. This consists of a 206mm f4 guide scope and a GPCAM ARO130M. This is a mono 1280 x 960 cam based on the well regarded Aptina ARO130 CMOS sensor. ",
-    "url": "/hardware/guider/",
+    "url": "/equipment/guidecam/",
     
-    "relUrl": "/hardware/guider/"
-  },"27": {
+    "relUrl": "/equipment/guidecam/"
+  },"42": {
     "doc": "Guiding",
     "title": "Guiding",
     "content": "Guiding is a technique used in astrophotography to improve the accuracy of tracking celestial objects during long-exposure photography. It involves using a separate guiding camera to track a reference star and make small corrections to the mount’s position to keep the object being photographed centered in the camera’s field of view. When taking long-exposure images of celestial objects, even small tracking errors or vibrations in the telescope mount can cause the object to appear blurry or distorted in the final image. Guiding compensates for these errors by constantly monitoring the position of a reference star and sending corrections to the mount’s position in real-time. To guide, a separate guiding camera is attached to the telescope, typically pointing towards a region of the sky near the object being photographed. The camera captures a live view of the stars and selects a reference star that is close to the object being photographed. The guiding software then analyzes the position of the reference star and sends small corrections to the telescope mount to keep the object centered in the camera’s field of view. The guiding camera can be controlled manually or using specialized software, such as PHD2 or N.I.N.A. The software typically provides tools for calibrating the guiding camera, selecting a reference star, and adjusting the guiding settings to achieve optimal performance. Guiding is an essential technique for capturing high-quality images of celestial objects, particularly for objects with small apparent sizes, such as galaxies or nebulae. By using guiding to compensate for tracking errors, astrophotographers can capture longer exposures and produce clearer, more detailed images. Guiding can be communicated to your equipment through two different mechanisms - Pulse Guiding and ST4 . ST4 (also known as ST-4) guiding is a method of autoguiding that uses a direct physical connection between the guide camera and the mount’s hand controller. The ST4 cable connects the guide camera to the mount’s autoguider port, and the guiding commands are sent as electrical signals over this cable. The ST4 interface provides a simple and reliable way to send guiding corrections to the mount, and it is widely supported by guiding software and mounts. Pulse guiding, on the other hand, is a method of autoguiding that uses the mount’s pulse guiding capabilities to send guiding commands to the mount. Pulse guiding uses software to translate the guiding corrections from the guide camera into a series of pulses that are sent to the mount through the mount’s computerized control system. Pulse guiding is a more flexible approach than ST4 guiding, as it does not require a physical connection between the guide camera and the mount. However, pulse guiding can be more complex to set up and may require specific software and mount compatibility. In summary, ST4 guiding is a simple and reliable method that uses a direct physical connection between the guide camera and the mount’s hand controller, while pulse guiding is a more flexible method that uses the mount’s computerized control system to send guiding commands. Both methods can provide accurate guiding corrections and improve the quality of astrophotography. ",
     "url": "/glossary/guiding/",
     
     "relUrl": "/glossary/guiding/"
-  },"28": {
+  },"43": {
     "doc": "H-Alpha",
     "title": "H-Alpha",
     "content": "H-alpha, also known as the hydrogen-alpha line, is a specific wavelength of light within the red part of the electromagnetic spectrum. It corresponds to the emission line of ionized hydrogen gas (H+) transitioning from the n = 3 energy level to the n = 2 energy level. The H-alpha line has a wavelength of approximately 656.3 nanometers or a frequency of about 4.57 x 10^14 hertz. In astrophotography and astronomy, H-alpha is of great interest because it is a prominent emission line in many astronomical objects, particularly in nebulae. Nebulae are vast clouds of gas and dust in space, and when these nebulae are ionized by nearby stars or other energetic processes, they emit light at specific wavelengths, including H-alpha. The H-alpha line is especially significant because it reveals the presence of ionized hydrogen, which is a common element in the universe. By capturing the H-alpha wavelength in astrophotography, astronomers can study and image a wide range of astronomical objects, such as emission nebulae, supernova remnants, and regions of star formation. H-alpha imaging allows astrophotographers to highlight and visualize the intricate structures and details within these objects. It can reveal features such as glowing hydrogen gas clouds, filaments, shockwaves, and regions of intense star formation. H-alpha images often exhibit a distinct red color due to the prevalence of this emission line in the observed objects. Furthermore, H-alpha imaging is also useful for capturing solar phenomena, including solar flares and prominences, as well as for studying the chromosphere layer of the Sun. In these cases, specialized solar filters and equipment are necessary to safely observe and image the Sun in H-alpha. Overall, H-alpha imaging provides valuable insights into the dynamics and composition of various astronomical objects, allowing astronomers to explore and understand the processes shaping our universe. ",
     "url": "/glossary/h-alpha/",
     
     "relUrl": "/glossary/h-alpha/"
-  },"29": {
+  },"44": {
     "doc": "Home",
     "title": "Autofocus pt2",
     "content": "28 Jun 2023 The PCB’s have arrived from JLCPCB. They look top quality! So far, I can highly recommend them. The order process was simple and the price was even better. More components in the post including the stepper motor so hopefully they’ll arrive soon. ",
     "url": "/",
     
     "relUrl": "/"
-  },"30": {
+  },"45": {
     "doc": "Home",
     "title": "Eastern Veil Nebula",
     "content": "25 Jun 2023 I managed to get an hour of exposure time on the Eastern Veil Nebula in the constellation of Cygnus last night. I’m relatively happy with the end result but it’s quite noisy. I think I might revisit this at some point in the future and gather some more data. Starwatcher Evoguide 50ED with Starizona Flattener, IR Cut filter, SvBony sv505c, guided ~1hrs of data . ",
     "url": "/",
     
     "relUrl": "/"
-  },"31": {
+  },"46": {
     "doc": "Home",
     "title": "Autofocus pt1",
     "content": "24 Jun 2023 I’ve always been intrigued by the MyFocuserPro2 DIY focuser project and since I was suffering badly with temperature related focus creep in the last session, I decided that now is the time to do it. So, I reviewed the project PDF and decided on a MyFP2M-DRV variant. I downloaded the Gerber files and uploaded them to JLCPCB in Hong Kong. They took a few days to print and are now in the post to me. The total cost, including manufacturing the minimum order size of 5 pieces, testing, tax, customs duty, and delivery, is £3.68. I’ll keep 2 and sell the others on. I’ve also got an Arduino Nano here along with a stepper driver. The stepper motor itself, a NEMA14 0.9° motor is also on its way from China. Once everything gets here, I’ll document the build. In there meantime, here’s a pic of a GT2 pulley for the Evoguide 50ED that my friend made for me on his resin 3d printer. ",
     "url": "/",
     
     "relUrl": "/"
-  },"32": {
+  },"47": {
     "doc": "Home",
     "title": "Dumbbell Nebula",
     "content": "13 Jun 2023 I decided to try M27 Dumbbell Nebula this evening and in doing so, I learnt a valuable lesson. At the start of the evening, I set everything up as usual including alignment and focus. As the evening went on, focus got worse and worse until it was really quite blurred. The actual focus ring hadn’t moved at all, but what had happened is that it had got colder outside. As it got colder, the materials in the scope had shrunk and hence focus had moved slightly. This is such a fast lens that focus is absolutely critical. I went out at midnight and refocussed. In total, I lost about an hours worth of data but got another hour of good data. if you look at the graph below, you can see focus getting worse and worse (high HFR is bad). In fact, it had got much worse than the initial focus even before I started imaging. After I refocus, you can see that the HFR is much lower and number of detected stars is higher. However, you can see the HFR trending upwards during the hour. Really I should have refocussed again after 30 mins. Still, the data I collected made a good image, shown below. . Starwatcher Evoguide 50ED with Starizona Flattener, IR Cut filter, SvBony sv505c, guided ~1hrs of data . ",
     "url": "/",
     
     "relUrl": "/"
-  },"33": {
+  },"48": {
     "doc": "Home",
     "title": "Crescent Nebula pt2",
     "content": "11 Jun 2023 I managed to get another hours worth of data on Crescent Nebula the other evening. It’s definitely improved but I think this is going to need another 10 hours to do it justice. I plan on adding to this as time goes on, but I plan to try the North America Nebula on the next clear evening. Starwatcher Evoguide 50ED with Starizona Flattener, IR Cut filter, SvBony sv505c, guided ~3hrs of data . &laquo; Prev Next &raquo; ",
     "url": "/",
     
     "relUrl": "/"
-  },"34": {
+  },"49": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "/",
     
     "relUrl": "/"
-  },"35": {
-    "doc": "Hardware",
-    "title": "Hardware",
+  },"50": {
+    "doc": "Equipment",
+    "title": "Equipment",
     "content": " ",
-    "url": "/hardware/",
+    "url": "/equipment/",
     
-    "relUrl": "/hardware/"
-  },"36": {
-    "doc": "How To",
-    "title": "How To",
+    "relUrl": "/equipment/"
+  },"51": {
+    "doc": "Capture Techniques",
+    "title": "Capture Techniques",
     "content": " ",
-    "url": "/howto/",
+    "url": "/tutorials/capture-techniques/",
     
-    "relUrl": "/howto/"
-  },"37": {
+    "relUrl": "/tutorials/capture-techniques/"
+  },"52": {
+    "doc": "Getting Started",
+    "title": "Getting Started",
+    "content": " ",
+    "url": "/tutorials/getting-started/",
+    
+    "relUrl": "/tutorials/getting-started/"
+  },"53": {
+    "doc": "Image Processing",
+    "title": "Image Processing",
+    "content": " ",
+    "url": "/tutorials/image-processing/",
+    
+    "relUrl": "/tutorials/image-processing/"
+  },"54": {
+    "doc": "Tutorials",
+    "title": "Tutorials",
+    "content": " ",
+    "url": "/tutorials/",
+    
+    "relUrl": "/tutorials/"
+  },"55": {
     "doc": "Glossary",
     "title": "Glossary",
     "content": " ",
     "url": "/glossary/",
     
     "relUrl": "/glossary/"
-  },"38": {
+  },"56": {
     "doc": "Software",
     "title": "Software",
     "content": " ",
     "url": "/software/",
     
     "relUrl": "/software/"
-  },"39": {
-    "doc": "Links",
-    "title": "Links",
-    "content": "Forums . | https://www.cloudynights.com/ | . Discord . | https://discord.com/invite/astrobiscuit | . Software . | https://nighttime-imaging.eu/ | https://openphdguiding.org/ | https://github.com/deepskydetail/AstroSharp | . Online Tools . | https://www.metoffice.gov.uk/weather/maps-and-charts/cloud-cover-map | . Suppliers . | https://www.firstlightoptics.com/ | . ",
-    "url": "/links/",
+  },"57": {
+    "doc": "Introduction to Astrophotography",
+    "title": "Introduction to Astrophotography",
+    "content": "Welcome to the fascinating world of astrophotography! This page serves as a beginner’s guide, providing you with essential information and insights to embark on your journey into capturing stunning images of the cosmos. Whether you’re a seasoned photographer or new to the field, this introduction will help you understand the basics and get started on your astrophotography adventure. ",
+    "url": "/tutorials/getting-started/introduction/",
     
-    "relUrl": "/links/"
-  },"40": {
+    "relUrl": "/tutorials/getting-started/introduction/"
+  },"58": {
+    "doc": "Introduction to Astrophotography",
+    "title": "What is Astrophotography?",
+    "content": "Astrophotography is the art and science of capturing photographs of celestial objects, such as stars, planets, galaxies, nebulae, and other wonders of the night sky. It allows us to document and reveal the awe-inspiring beauty of the universe, often showcasing details and phenomena that are not visible to the naked eye alone. ",
+    "url": "/tutorials/getting-started/introduction/#what-is-astrophotography",
+    
+    "relUrl": "/tutorials/getting-started/introduction/#what-is-astrophotography"
+  },"59": {
+    "doc": "Introduction to Astrophotography",
+    "title": "Getting Started",
+    "content": "To begin your astrophotography journey, there are a few key elements to consider: . | Equipment: While it’s possible to start with basic gear, investing in certain equipment will significantly enhance your astrophotography results. You’ll need a camera capable of long-exposure photography, interchangeable lenses or a telescope, a sturdy tripod or mount to keep your setup stable, and various accessories like remote shutter releases, intervalometers, and light pollution filters. | Location: Finding a suitable location with minimal light pollution is crucial for capturing clear and detailed astrophotography images. Seek out areas away from city lights, preferably in rural or remote locations. Dark Sky Parks or designated observation sites are ideal for astrophotography sessions. | Camera Settings: Understanding the right camera settings for astrophotography is essential. Shooting in manual mode, you’ll typically use a wide aperture (low f-number), a high ISO setting to capture enough light, and a long exposure time to gather the faint light from celestial objects. Experimenting with different settings will help you achieve the desired results. | Planning and Patience: Patience is key in astrophotography. Plan your shoots ahead of time, considering celestial events like meteor showers, eclipses, or moon phases. Use smartphone apps or websites to identify and track celestial objects. Also, be prepared to spend hours capturing long-exposure images to gather enough light and minimize noise. | . ",
+    "url": "/tutorials/getting-started/introduction/#getting-started",
+    
+    "relUrl": "/tutorials/getting-started/introduction/#getting-started"
+  },"60": {
+    "doc": "Introduction to Astrophotography",
+    "title": "Post-Processing",
+    "content": "Once you’ve captured your astrophotography images, post-processing is the next step to bring out the best in your photographs. Image processing software, such as Adobe Photoshop, PixInsight, or other dedicated astrophotography tools, allows you to enhance the details, adjust colors, reduce noise, and correct any imperfections. ",
+    "url": "/tutorials/getting-started/introduction/#post-processing",
+    
+    "relUrl": "/tutorials/getting-started/introduction/#post-processing"
+  },"61": {
+    "doc": "Introduction to Astrophotography",
+    "title": "Learning Resources",
+    "content": "Astrophotography is a vast and ever-evolving field, and there are numerous resources available to expand your knowledge and refine your skills. Consider the following: . Books and online tutorials dedicated to astrophotography techniques and image processing. Online communities and forums where you can connect with experienced astrophotographers, seek advice, and share your work. Workshops and courses offered by astrophotography experts, providing hands-on experience and guidance. Conclusion . Astrophotography is an incredibly rewarding pursuit that allows you to capture the beauty of the universe and share it with others. With the right equipment, knowledge, and practice, you can create breathtaking images that inspire and awe. So grab your camera, venture into the night sky, and explore the wonders waiting to be discovered through the lens of astrophotography. Remember, this is just a template, and you can customize and expand upon it to suit your website’s design, style, and specific information you want to convey. ",
+    "url": "/tutorials/getting-started/introduction/#learning-resources",
+    
+    "relUrl": "/tutorials/getting-started/introduction/#learning-resources"
+  },"62": {
     "doc": "Livestack",
     "title": "Livestack",
     "content": "If I’m imaging tonight, you’ll see a live stacked preview of my subs below using Astro Live Stacker . ",
     "url": "/livestack/",
     
     "relUrl": "/livestack/"
-  },"41": {
+  },"63": {
     "doc": "Messier",
     "title": "Messier",
     "content": "“Messier” refers to the Messier Catalogue, a list of 110 deep sky objects (such as galaxies, nebulae, and star clusters) compiled by French astronomer Charles Messier in the 18th century. The purpose of the catalogue was to help astronomers differentiate between permanent and transient objects in the sky that could be mistaken for comets. Today, the Messier Catalogue is still widely used by amateur astronomers as a guide to observing deep sky objects. https://en.wikipedia.org/wiki/Messier_object . ",
     "url": "/glossary/messier/",
     
     "relUrl": "/glossary/messier/"
-  },"42": {
-    "doc": "Az-Gti Mount",
-    "title": "Az-Gti Mount",
-    "content": "The Skywatcher AZ-GTi is a compact and portable alt-azimuth mount designed for astrophotography and visual observing. It can support small to medium-sized telescopes or camera equipment, making it a popular choice for those who want a mount that is easy to transport and set up. The AZ-GTi mount features a built-in WiFi module and can be controlled wirelessly using the free SynScan app for iOS and Android devices. The app allows you to align the mount with the night sky using your smartphone or tablet, and then control the movement of the mount and the attached equipment. The app also includes a database of over 10,000 celestial objects for easy object locating and tracking. The AZ-GTi mount has a payload capacity of up to 5 kg (11 lbs) and can track celestial objects with smooth and accurate movement using its DC servo motors. The mount also includes an ST-4 autoguider port for precise guiding during long-exposure astrophotography. The AZ-GTi mount can be powered using a 12V DC power supply or by eight AA batteries (not included), making it a versatile option for use in the field or at a dark sky site. It also includes a built-in bubble level and adjustable altitude and azimuth controls for easy setup and alignment. Overall, the Skywatcher AZ-GTi mount is a great option for those looking for a portable and easy-to-use mount for astrophotography and visual observing. The Skywatcher AZ-GTi is an alt-azimuth mount, which means that it is designed to move the telescope or camera equipment in altitude (up and down) and azimuth (side to side) axes. However, with the addition of an equatorial wedge, the AZ-GTi mount can be converted to an equatorial mount. An equatorial wedge is an accessory that attaches to the top of the AZ-GTi mount and allows it to tilt to match the angle of the Earth’s rotational axis. This adjustment effectively turns the mount into an equatorial mount, which is designed to track objects in the night sky as they appear to move across the sky due to the Earth’s rotation. With an equatorial wedge attached, the AZ-GTi mount can be polar aligned and used for long-exposure astrophotography of deep sky objects. However, it is important to note that the AZ-GTi mount has a relatively low weight capacity, so it is best suited for use with small to medium-sized telescopes or camera equipment. ",
-    "url": "/hardware/mount/",
-    
-    "relUrl": "/hardware/mount/"
-  },"43": {
+  },"64": {
     "doc": "Narrow Band Filter",
     "title": "Narrow Band Filter",
     "content": "A narrowband filter is an optical filter used in astrophotography to isolate specific wavelengths of light emitted by certain astronomical objects. Unlike broad-spectrum filters that allow a wide range of wavelengths to pass through, narrowband filters are designed to transmit only a narrow range of wavelengths, typically associated with specific emission lines. Narrowband filters are particularly useful for imaging nebulae, as they can isolate the light emitted by ionized gases, such as hydrogen (H-alpha), oxygen (OIII), and sulfur (SII). These emission lines are commonly found in nebulae and represent specific transitions in the energy levels of the ionized atoms. By using narrowband filters, astrophotographers can capture and emphasize the details and structures of nebulae while minimizing the impact of light pollution and other unwanted sources of light. This is because narrowband filters selectively transmit the desired wavelengths while blocking other wavelengths, including those from artificial light sources or natural skyglow. Typically, narrowband filters are used in conjunction with monochrome cameras, as they allow for precise isolation of specific wavelengths for each color channel. By acquiring separate images with different narrowband filters, astrophotographers can later combine and assign specific colors to each emission line during the image processing stage, resulting in vibrant and detailed representations of nebulae. A duo band filter, also known as a dual-band filter or dual-bandpass filter, is an optical filter used in astrophotography to capture specific wavelengths of light emitted by certain astronomical objects. It is designed to transmit two narrow ranges of wavelengths simultaneously, allowing for the capture of multiple emission lines or features in a single exposure. Unlike narrowband filters that isolate a single emission line, duo band filters are designed to capture two specific emission lines simultaneously. For example, a popular duo band filter is the H-alpha and OIII filter combination. It allows the transmission of light at the wavelengths corresponding to hydrogen-alpha (H-alpha) and oxygen III (OIII) emission lines. These two emission lines are commonly found in many nebulae, and capturing them simultaneously can reveal unique and detailed information about the nebular structures and processes. Duo band filters are often used in astrophotography setups where color cameras or one-shot color (OSC) cameras are employed. They allow astrophotographers to capture detailed images of nebulae with a single exposure, providing the convenience of capturing multiple emission lines without the need for multiple filters or multiple exposures. By using duo band filters, astrophotographers can capture the distinct features and structures of nebulae associated with the selected emission lines, resulting in stunning and detailed images with enhanced contrast and depth. ",
     "url": "/glossary/narrow-band-filter/",
     
     "relUrl": "/glossary/narrow-band-filter/"
-  },"44": {
+  },"65": {
     "doc": "Networking",
     "title": "Networking",
     "content": "I use a Homeplug network adapter to link my equipment to my home network. HomePlug networking is a technology that allows users to extend their home network by using existing electrical wiring as a network connection. This technology is commonly used to provide a wired network connection to areas of the home where Wi-Fi signal is weak or unreliable. HomePlug devices consist of two adapters that plug into electrical outlets: one adapter is connected to the router or modem, and the other adapter is connected to the device that needs to be connected to the network. These adapters communicate with each other over the electrical wiring in the home, creating a wired network connection between the two devices. HomePlug technology has several advantages over other networking technologies, such as Wi-Fi or Ethernet cables. It is easy to set up, as users only need to plug in the adapters and they will automatically connect to each other. It is also very stable, as it is not affected by interference from other wireless devices or physical obstacles that can block Wi-Fi signals. One downside of HomePlug networking is that it may not work well in homes with old or poorly maintained electrical wiring, as the quality of the electrical wiring can affect the performance of the network. Additionally, the speed of the network connection may be slower than traditional wired or wireless networking solutions, although newer versions of the technology have significantly increased speeds. Luckily, Remote Desktop does not need much bandwidth so even poor performance is adequate. ",
-    "url": "/hardware/networking/",
+    "url": "/equipment/networking/",
     
-    "relUrl": "/hardware/networking/"
-  },"45": {
+    "relUrl": "/equipment/networking/"
+  },"66": {
     "doc": "NINA",
     "title": "NINA",
     "content": "N.I.N.A. (Nighttime Imaging ‘N’ Astronomy) is a free and open-source software program for astrophotography and astronomy data acquisition running on Microsoft Windows. It was developed by a group of amateur astronomers with the goal of creating a comprehensive and user-friendly software package that could be used for all aspects of astrophotography, including imaging, focusing, guiding, and mount control. N.I.N.A. is compatible with a wide range of astronomy equipment, including telescopes, cameras, filter wheels, and mount controllers. It offers a wide range of features and capabilities, including plate solving, auto-focusing, auto-guiding, and image stacking. One of the unique features of N.I.N.A. is its built-in sequencing module, which allows users to create complex imaging sequences and automates the entire data acquisition process. This is useful for capturing multiple images of the same object over a period of time, or for imaging multiple objects in a single observing session. N.I.N.A. also includes a powerful and intuitive user interface that is designed to be easy to use, even for beginners. The interface is highly customizable, with a range of themes and color schemes available to suit the user’s preferences. In addition to its imaging capabilities, N.I.N.A. also includes a range of tools for analyzing and processing astronomical data, including a powerful image previewer and histogram tool. It also supports a wide range of file formats, including FITS, RAW, and JPEG. Overall, N.I.N.A. is a comprehensive and versatile software package that is highly regarded by amateur and professional astronomers alike. Its user-friendly interface and powerful features make it an ideal choice for anyone looking to get started with astrophotography or astronomy data acquisition. https://nighttime-imaging.eu/ . ",
     "url": "/software/nina/",
     
     "relUrl": "/software/nina/"
-  },"46": {
+  },"67": {
     "doc": "Offset",
     "title": "Offset",
     "content": "Offset is a parameter that you might find associated with your camera settings alongside gain. It’s not something that’s used outside of astrophotography so you might not be familiar with it. To explain what it does, you should first look at a histogram curve for one of your exposures. You’ll see that the data is crammed to the left hand side of the graph. The offset settings allows you to artificially move the data to the right in the histogram so that the bottom part of the curve does not clip. It ensures that you keep all the data without any being dropped. The actual offset value to use depends on your equipment but “30” is an often quoted value to be used as a starting point. Dale Ghent’s article explains in detail how to optimize your offset. ",
     "url": "/glossary/offset/",
     
     "relUrl": "/glossary/offset/"
-  },"47": {
+  },"68": {
     "doc": "Oxygen-III",
     "title": "Oxygen-III",
     "content": "OIII, also known as the doubly ionized oxygen line or oxygen III emission line, refers to a specific wavelength of light emitted by ionized oxygen gas (O++) in the red part of the electromagnetic spectrum. It corresponds to the transition of oxygen ions from the n = 3 energy level to the n = 2 energy level. The OIII line has a wavelength of approximately 500.7 nanometers or a frequency of about 5.98 x 10^14 hertz. In astrophotography and astronomy, OIII emission is significant because it is a prominent emission line in various astronomical objects, particularly in nebulae. Nebulae are vast clouds of gas and dust in space, and when these nebulae are ionized by energetic processes, they emit light at specific wavelengths, including OIII. The OIII emission line is particularly useful for studying and imaging certain types of nebulae, such as planetary nebulae and supernova remnants. These objects often exhibit strong OIII emissions due to the presence of ionized oxygen atoms within their structures. OIII imaging allows astrophotographers to capture the specific emissions from ionized oxygen, revealing intricate details and structures within these objects. It highlights features such as shells, filaments, and shockwaves, which are indicative of the energetic processes and interactions occurring within the nebulae. When combined with other narrowband filters, such as H-alpha and SII (sulfur II), OIII imaging can produce stunning false-color images that provide a comprehensive view of the intricate structures and ionized gas distributions in nebulae. These false-color images assign different colors to different emission lines, enabling a more detailed understanding of the complex dynamics and composition of these objects. Overall, OIII imaging plays a crucial role in studying and capturing the unique characteristics of certain nebulae, contributing to our understanding of the processes and phenomena occurring in the universe. ",
     "url": "/glossary/oiii/",
     
     "relUrl": "/glossary/oiii/"
-  },"48": {
+  },"69": {
     "doc": "PHD2",
     "title": "PHD2",
     "content": "PHD2 (Push Here Dummy 2) is a free and open-source software program used for autoguiding in astrophotography. It is widely used by amateur astronomers and astrophotographers to track celestial objects and capture long-exposure images with high accuracy. PHD2 analyzes the movement of stars in the field of view and sends corrections to the mount, which adjusts its position to keep the object centered in the image. The program supports a variety of guiding methods, including adaptive optics, and can communicate with a range of telescopes and cameras. PHD2 also provides advanced features such as drift alignment, which helps users align their telescope with the celestial pole for more accurate tracking, and multi-star guiding, which can improve guiding accuracy in crowded fields of stars. The program’s user interface is intuitive and easy to use, making it accessible to both novice and experienced users. PHD2 is compatible with a wide range of telescope mounts and cameras, making it a versatile tool for astrophotographers. It is available for Windows, macOS, and Linux operating systems and can be downloaded for free from the official PHD2 website. The program is constantly updated and maintained by a dedicated team of developers, ensuring its continued functionality and usefulness to the astrophotography community. https://openphdguiding.org/ . ",
     "url": "/software/phd2/",
     
     "relUrl": "/software/phd2/"
-  },"49": {
+  },"70": {
     "doc": "Pier",
     "title": "Pier",
     "content": "In astrophotography, a pier typically refers to a stable, fixed mount or platform that is used to support an equatorial mount and telescope. Piers are often constructed of sturdy materials such as steel, concrete, or wood, and are designed to provide a stable base for the telescope, minimizing vibration and movement during long exposures. Piers are often used in permanent or semi-permanent observatories, where they can be anchored to a solid foundation and remain in place for extended periods. However, they can also be used in portable setups, such as in backyard astrophotography, where a pier can be temporarily set up on a stable surface such as concrete or decking. Using a pier in astrophotography can have several benefits. The stable platform helps to minimize vibrations and movement, resulting in sharper and clearer images. Piers can also provide a consistent alignment for the equatorial mount, making it easier to polar align and track celestial objects accurately. Piers can be purchased pre-made or custom-built to suit specific telescopes and mounts. They may also include features such as leveling adjustments, cable management systems, and vibration isolation materials to further improve stability and image quality. You may also encounter the term “side of pier”. In astrophotography, “side of pier” refers to the position of an equatorial mount and telescope relative to the celestial meridian line. The meridian line is an imaginary line that runs directly overhead from north to south, passing through the zenith. The side of pier is determined by the position of the mount and telescope relative to this line. When an equatorial mount is set up and polar aligned properly, it will track celestial objects as they move across the sky along a path that is parallel to the celestial meridian. As an object crosses the meridian line, the mount will need to perform a meridian flip, which involves slewing the telescope to the other side of the mount. The side of pier refers to which side of the mount the telescope is on before and after the meridian flip. For example, if the telescope is on the east side of the mount before the meridian flip, it will be on the west side of the mount after the flip. This is known as the “east side of pier” or “west side of pier” respectively. The choice of which side of pier to start on will depend on factors such as the location of the object being imaged, the location of obstacles such as trees or buildings, and the preference of the astrophotographer. Knowing the side of pier is important when setting up an imaging session, as it can affect the placement of the guide camera and other equipment, as well as the sequencing of exposures and meridian flips. Some astrophotography software and tools, such as PHD2 and N.I.N.A., provide options to control the side of pier during imaging sessions. ",
     "url": "/glossary/pier/",
     
     "relUrl": "/glossary/pier/"
-  },"50": {
+  },"71": {
     "doc": "Pixel Size",
     "title": "Pixel Size",
     "content": "In astrophotography, pixel size refers to the physical size of an individual pixel on a camera’s image sensor. It is usually measured in micrometers (µm) and can have a significant impact on the image quality and resolution of astrophotographs. A smaller pixel size generally allows for higher resolution images with more detail, but can also result in a lower signal-to-noise ratio due to smaller photon collecting areas. On the other hand, larger pixel sizes typically have lower resolution but higher sensitivity to light. When choosing a camera for astrophotography, the pixel size is an important factor to consider depending on the desired field of view, focal length of the telescope, and other factors that may impact the overall image quality. ",
     "url": "/glossary/pixelsize/",
     
     "relUrl": "/glossary/pixelsize/"
-  },"51": {
+  },"72": {
     "doc": "Plate Solving",
     "title": "Plate Solving",
     "content": "Plate solving is a technique used in astrophotography and astronomy to accurately determine the position and orientation of a telescope or camera in the night sky. It involves analyzing an image of the sky, identifying the stars and other celestial objects in the image, and using this information to calculate the exact position and orientation of the telescope or camera. The process of plate solving is typically performed using specialized software such as ASTAP, PixInsight, or SkySafari, which can compare the star patterns in the image to a database of known stars and other objects. This allows the software to accurately determine the position and orientation of the telescope or camera, even if it was not initially set up precisely. One of the main advantages of plate solving is that it allows for precise alignment of the telescope or camera with the desired celestial object. This is particularly important for astrophotography, where even small errors in alignment can result in blurry or distorted images. Plate solving is also useful for finding and tracking specific celestial objects, as it allows the user to quickly and accurately point the telescope or camera at the desired target. It can also be used to correct for tracking errors, ensuring that the telescope or camera stays accurately aligned with the object throughout the exposure. Overall, plate solving is a powerful technique that is widely used in astrophotography and astronomy. It allows for accurate positioning and alignment of telescopes and cameras, improving the quality of astronomical images and data. ",
     "url": "/glossary/platesolving/",
     
     "relUrl": "/glossary/platesolving/"
-  },"52": {
-    "doc": "Polar Align",
-    "title": "Polar Align",
-    "content": "I’ve found that the quickest and easiest way to polar align is to use NINA. | align your telescope to point towards the north. I find it’s best if you can mark the position of your tripod legs between sessions to make it easier the next time you polar align. To facilitate this, I’ve placed 3 small round paving slabs in my garden. Also make sure your mount is perfectly level. | Connect your mount to N.I.N.A. and select your telescope profile. For me, this is “ASCOM GS Sky Telescope” which is a connection between NINA and GS Server. The GS Server then communicates with the AzGti via a cable. | If not already done so, install the Three Point Polar Alignment plugin. Make sure to also set your long/lat in the options section. Restart NINA. | Open the Polar Alignment module in N.I.N.A. This can be found in the Imaging section. | Press the start button to start the alignment process. NINA will rotate your camera several times, taking several alignment frames and plate solving them. Assuming everything goes well, NINA will show you the polar alignment error and prompt you to align up/down or left/right. It will continue taking frames and plate solving so it can update the metrics. For me, this step takes literally minutes to get a good polar alignment. | . ",
-    "url": "/howto/polaralign/",
-    
-    "relUrl": "/howto/polaralign/"
-  },"53": {
+  },"73": {
     "doc": "Polar Alignment",
     "title": "Polar Alignment",
     "content": "Polar alignment is the process of aligning an equatorial mount telescope with the celestial pole, either the North Pole or South Pole depending on the observer’s location. The alignment ensures that the telescope’s mount is properly aligned with the rotation of the Earth, which is necessary for accurately tracking celestial objects during long-exposure astrophotography or visual observation. The Earth rotates on its axis, completing a full rotation every 24 hours. This rotation causes the stars and other celestial objects to appear to move across the sky in circular paths, centered around the celestial poles. To track these objects accurately, a telescope must be mounted on an equatorial mount, which is designed to rotate around an axis that is parallel to the Earth’s rotation axis. Polar alignment is important because it allows the telescope to track celestial objects accurately without the need for constant manual adjustments. If the alignment is not accurate, the telescope will not be able to track objects smoothly, and they will appear to drift across the field of view over time. This can result in blurry or elongated images in astrophotography and make visual observation challenging. The process of polar alignment can vary depending on the type of mount and the observer’s location. However, it typically involves pointing the telescope towards the celestial pole and adjusting the mount’s altitude and azimuth axis until they are aligned with the rotation axis of the Earth. This can be done using specialized tools or software, such as a polar scope or a polar alignment routine in a planetarium software. In summary, polar alignment is an essential step for anyone using an equatorial mount telescope for long-exposure astrophotography or visual observation. It allows for accurate tracking of celestial objects, resulting in clear, sharp images and improved observational experiences. ",
     "url": "/glossary/polaralignment/",
     
     "relUrl": "/glossary/polaralignment/"
-  },"54": {
+  },"74": {
     "doc": "Post Process",
     "title": "Adjust levels",
     "content": "Choose Colors, Levels. Adjust the lower level to be at the bottom of the curve, adjust mid slide for appropriate black level . ",
-    "url": "/howto/postprocess/#adjust-levels",
+    "url": "/tutorials/image-processing/postprocess/#adjust-levels",
     
-    "relUrl": "/howto/postprocess/#adjust-levels"
-  },"55": {
+    "relUrl": "/tutorials/image-processing/postprocess/#adjust-levels"
+  },"75": {
     "doc": "Post Process",
     "title": "Unpurple",
     "content": "If some of your stars have purple fringes, you can remove them by using the “unpurple” filter in G’MIC Gimp plugin. Note, this will affect the colours in your entire image so if it’s detrimental, you can clone your image into a 2nd layer, unpurple that layer, apply a layer mask so that you expose only the stars that were purple. For my image, the unpurple filter has resulted in the blues becoming slightly more cyan. I like this effect so I’m keeping it . ",
-    "url": "/howto/postprocess/#unpurple",
+    "url": "/tutorials/image-processing/postprocess/#unpurple",
     
-    "relUrl": "/howto/postprocess/#unpurple"
-  },"56": {
+    "relUrl": "/tutorials/image-processing/postprocess/#unpurple"
+  },"76": {
     "doc": "Post Process",
     "title": "Sharpening with AstroSharp",
     "content": "I’ll temporarily transform to greyscale and export a TIF. I’ll then “undo” the greyscale. Now I’ll load the image into AstroSharp and wait for it to process. This will take a while. Once the image is finished, drag and drop it onto Gimp. This will load it as a new layer. Once this is loaded, change the layer mode to “luminance” and turn the opacity down to approximately 50% or until you’re happy with the way it looks . ",
-    "url": "/howto/postprocess/#sharpening-with-astrosharp",
+    "url": "/tutorials/image-processing/postprocess/#sharpening-with-astrosharp",
     
-    "relUrl": "/howto/postprocess/#sharpening-with-astrosharp"
-  },"57": {
+    "relUrl": "/tutorials/image-processing/postprocess/#sharpening-with-astrosharp"
+  },"77": {
     "doc": "Post Process",
     "title": "Shadows Highlights",
     "content": "Make sure you’ve selected your main layer, and adjust Shadows-Highlights from the Color menu. I suggest you push the white point adjustment as high as it will go, then adjust the shadows slider until your blacks look good. After that, adjust highlights slider to being some contrast . ",
-    "url": "/howto/postprocess/#shadows-highlights",
+    "url": "/tutorials/image-processing/postprocess/#shadows-highlights",
     
-    "relUrl": "/howto/postprocess/#shadows-highlights"
-  },"58": {
+    "relUrl": "/tutorials/image-processing/postprocess/#shadows-highlights"
+  },"78": {
     "doc": "Post Process",
     "title": "Color Balance",
     "content": "Use the color balance sliders to tweak things until they look good . ",
-    "url": "/howto/postprocess/#color-balance",
+    "url": "/tutorials/image-processing/postprocess/#color-balance",
     
-    "relUrl": "/howto/postprocess/#color-balance"
-  },"59": {
+    "relUrl": "/tutorials/image-processing/postprocess/#color-balance"
+  },"79": {
     "doc": "Post Process",
     "title": "Star Recombining",
     "content": "If you’ve used star processing in Siril to separate your stars from your nebula, you can recombine in Gimp with more control than if you did it in Siril. To do this, you can load the starless TIF image in Gimp then use the methods shown above to get the levels right and get the colours looking good. You should then load your starmask in Gimp as a new layer. Set the layer blend mode to “lighten only”. Turn off any other layers that you may have loaded. You should then go to colors / levels Change the blend mode to “linear light” or “hard light” and move your mid-level slider quite far to the left. Click “OK” when it looks good . You can then get rid of any purple halo on your stars with the Q’Mic “Unpurple” filter. You can then enhance the sharpness of your stars. Go to filters / enhance and choose “sharpen (usharp mask)”. Zoom in so you can see one of your larger stars and play with the radius/amount sliders until your stars look sharper but still look good. I like to set the radius so the larger stars still have a corona around them but the smaller stars look sharper. tick/untick the “preview” option to see the difference. Once done, click OK. Finally, you want to play with the colors / Exposure or even the opacity settings to give your stars a little sparkle. You can renable your nebula layer so that you can make sure you don’t make the stars too distracting. Remember to set your star layer to “lighten only” . You can now spend some time tweaking colours, levels, saturation, etc. Remember you can do this for each of your 3 layers. Once finished, save and export your TIF/JPEG. ",
-    "url": "/howto/postprocess/#star-recombining",
+    "url": "/tutorials/image-processing/postprocess/#star-recombining",
     
-    "relUrl": "/howto/postprocess/#star-recombining"
-  },"60": {
+    "relUrl": "/tutorials/image-processing/postprocess/#star-recombining"
+  },"80": {
     "doc": "Post Process",
     "title": "Post Process",
     "content": "After initial processing in Siril, I will post-process with Gimp. The GIMP workflow is less linear than Siril, so rather than give a step by step approach, I’ll simply list some techniques. ",
-    "url": "/howto/postprocess/",
+    "url": "/tutorials/image-processing/postprocess/",
     
-    "relUrl": "/howto/postprocess/"
-  },"61": {
+    "relUrl": "/tutorials/image-processing/postprocess/"
+  },"81": {
     "doc": "Process",
     "title": "Process",
     "content": "I do my initial image processing with Siril. I’ve documented the process that I follow below by reprocessing my recent Veil Nebula data. Note, the results I got here are not as good as I got previously. It’s not unusual for me to reprocess data several times until I’m happy that I’ve got the most out of it. Import your stacked tif into Siril and view it with autostretch. We need to crop the image to remove the dithering artifacts. To do this, stretch a box, right click and select “crop”. Prior to this, I usually also right click, choose selection and then choose a regular aspect ratio, either 3:2, 4:3 or 16:9 depending on what I’m editing. It makes it easier to display on my blog when it’s a regular ratio. and after crop . I remove the background gradient. To do this, select Image Processing menu and choose Background Extraction. Once the box pops up, click Generate. Now right click on any red squares that appear over your target. This will stop Siril from affecting your target. Once done, click Compute Background and then Apply . I’ll do an initial colour calibration. To do this, go to Image Processing menu, Color Calibration and choose Photometric Color Calibration. When the box pops up, find your target, click it in the results list and then click OK. Click close once done. At this point, I’ll look at the image and decide if I need to do further star processing or not. I’ll ask myself, do the stars look overly busy and instrusive? Generally they do but some galaxy targets look just fine. Our example here is rather busy so I’ll proceeed with star processing. Now we’ll select Image Processing, Star Processing, Starnet Star Removal. Tick “Pre-strech linear image”, untick “Recompose stars on completion”, tick “Generate star mask” and untick “apply to sequence”. Click Execute. After a while, you’ll see a starless image. Up to now, we’ve been operating in the linear domain with an autostrech view. Now it’s time to stretch our data and view it as linear data. Change back to linear view . Choose Image Processing, Generalised Hyperbolic Stretch Transformations. Now click the “+” symbol at the top to zoom in on your curve so it’s visible to you. Click in the middle of the left side of the curve. This will set your symmetry point . Click the “1” icon at the top to reset your zoom and then move your stretch factor slider until your target emerges from the darkness. Don’t worry too much about black levels for now. We can fix those later. Click Apply . Click on the right hand side of your curve and stretch again. This time, just a little bit to stretch the highlights. Click Apply . Close this stretch window and go to Image Processing, Histogram Transformation. Move your left slide towards the bottom of the curve without clipping. Move your right slide to the right to lower the black level. Click Apply . This step is IMPORTANT. Click the save button at top right. It looks like a downward arrow. Save your image as a fit file . Let’s get some stars back. Go to Image Processing, Star Processing and select “Star Recomposition”. Once this is opened, select the file that you just saved in the file selector on the left and the star mask in the selector on the right . We can use the right hand slider to bring our stars back. You can play with the highlight protection slide to try to avoid blowing out bright stars. Once you’re happy with the results, you can click Apply . We can reset our levels again with the histogram transformation . And recalibrate our colours. This time we’ll use the Color Calibration tool. To use this, zoom in (control + scroll wheel) and select an area of the background. Click “Use current selection” and then “Background Neutralization”. Once you’ve done this, click “close” . We need to remove some green noise. Click Image Processing, Remove Green Noise, then Apply . You’ll notice your image looks a bit “pale”. So once again, let’s do another background neutralization. I usually repeat these last 2 steps a few times until the image looks good. We’re just about done in Siril. At this point, I’ll play with histogram to get the black levels better, perhaps adjust saturation until it looks better. Once you’ve done all you can in Siril, save this as a TIF and we’ll load this into Gimp to make the final tweaks . ",
-    "url": "/howto/process/",
+    "url": "/tutorials/image-processing/process/",
     
-    "relUrl": "/howto/process/"
-  },"62": {
+    "relUrl": "/tutorials/image-processing/process/"
+  },"82": {
     "doc": "Remote Desktop",
     "title": "Remote Desktop",
     "content": "Windows Remote Desktop is a feature built into the Microsoft Windows operating system that allows users to remotely connect to another computer over a network connection. With Remote Desktop, users can access and control another computer as if they were sitting in front of it, allowing them to run applications, access files, and perform other tasks on the remote computer. To use Remote Desktop, both computers must have the Remote Desktop feature enabled and be connected to the same network. The user can then initiate a Remote Desktop session by entering the name or IP address of the remote computer, and providing their login credentials. Remote Desktop supports a range of features, including the ability to transfer files between the local and remote computers, redirect local resources such as printers and USB devices to the remote computer, and support for multiple remote sessions. Remote Desktop can be a useful tool for a variety of purposes, such as providing remote technical support, accessing files or applications on a home or work computer while away from the office, or running applications on a remote server. However, it’s important to ensure that Remote Desktop connections are secured and configured properly to prevent unauthorized access to sensitive data. ",
     "url": "/software/remotedesktop/",
     
     "relUrl": "/software/remotedesktop/"
-  },"63": {
+  },"83": {
+    "doc": "Resources",
+    "title": "Resources",
+    "content": "Forums . | https://www.cloudynights.com/ | . Discord . | https://discord.com/invite/astrobiscuit | . Software . | https://nighttime-imaging.eu/ | https://openphdguiding.org/ | https://github.com/deepskydetail/AstroSharp | http://deepskystacker.free.fr/ | . Website . | https://astrobiscuit.com/ | https://astrobackyard.com/ | https://www.astrobin.com/ | https://www.astropix.com/ | https://apod.nasa.gov/apod/astropix.html | . Youtube . | https://www.youtube.com/@Astrobiscuit | https://www.youtube.com/@AstroBackyard | https://www.youtube.com/@GalacticHunter | https://www.youtube.com/@CuivTheLazyGeek | . Online Tools . | https://www.metoffice.gov.uk/weather/maps-and-charts/cloud-cover-map | . Suppliers . | https://www.firstlightoptics.com/ | . ",
+    "url": "/resources/",
+    
+    "relUrl": "/resources/"
+  },"84": {
     "doc": "Scope",
     "title": "Scope",
     "content": "A main imaging scope and camera are key components in astrophotography. The imaging scope is the telescope or lens used to gather light from celestial objects, and the camera is used to capture and record that light as digital images. The type of imaging scope used in astrophotography can vary depending on the specific objects being imaged and the desired field of view. Refracting telescopes, reflecting telescopes, and catadioptric telescopes are all commonly used in astrophotography, as are camera lenses. The camera used for astrophotography is typically a specialized astronomical camera designed to capture low-light, long-exposure images of celestial objects. These cameras often have features such as high sensitivity and low noise, which are important for capturing detailed images of dim objects in the night sky. Some popular brands of astrophotography cameras include ZWO, QHY, and Atik. Together, the imaging scope and camera work in tandem to capture detailed, high-resolution images of celestial objects, such as galaxies, nebulas, and star clusters. Astrophotographers often use specialized software to process and enhance these images, creating stunning visual representations of the cosmos. My main scope is the Skywatcher Evoguide 50ED. This is a refracting telescope designed for astrophotography. It has a 50mm (2-inch) aperture and a focal length of 242mm, giving it a focal ratio of f/4.8. It’s primarily designed as a guide scope however has Extra-low Dispersion (ED) glass in the objective lens. This helps to reduce chromatic aberration, which is a common problem with refracting telescopes that can cause color fringing and reduce image sharpness. The use of ED glass in the Skywatcher 50ED allows for clearer and sharper views of celestial objects and, with the addition of a Starizona field flattener, makes a brilliant main imaging scope. I use an SvBony SV505C as my main astrophotography camera. This is a 12-bit one-shot colour camera with good sensitivity and a larger than normal sensor based on the Sony IMX464. ",
-    "url": "/hardware/scope/",
+    "url": "/equipment/scope/",
     
-    "relUrl": "/hardware/scope/"
-  },"64": {
+    "relUrl": "/equipment/scope/"
+  },"85": {
     "doc": "Sulfur-II",
     "title": "Sulfur-II",
     "content": "Sulfur II (SII) refers to a specific emission line in the red part of the electromagnetic spectrum emitted by ionized sulfur gas (S+). It corresponds to the transition of sulfur ions from the n = 3 energy level to the n = 2 energy level. The SII emission line has a wavelength of approximately 672.4 nanometers or a frequency of about 4.46 x 10^14 hertz. In astrophotography and astronomy, SII emission is of great interest because it is a prominent emission line observed in certain nebulae. Nebulae are vast clouds of gas and dust in space, and when these nebulae are ionized, they emit light at specific wavelengths, including SII. The SII emission line is particularly useful for studying and imaging nebulae that contain ionized sulfur gas. These nebulae often exhibit strong SII emissions due to the presence of ionized sulfur atoms within their structures. SII imaging allows astrophotographers to capture the specific emissions from ionized sulfur, revealing distinct features and structures within these objects. By combining SII imaging with other narrowband filters, such as H-alpha and OIII, astrophotographers can create false-color images that highlight different emission lines and provide a comprehensive view of the nebula’s characteristics. Assigning different colors to each emission line allows for a more detailed understanding of the ionized gas distributions, shockwaves, and other phenomena occurring within the nebulae. SII imaging is particularly useful in capturing the details of emission nebulae, supernova remnants, and regions of active star formation where ionized sulfur gas is prevalent. It helps reveal the intricate structures, filamentary networks, and interactions between different elements within these objects, contributing to our understanding of the astrophysical processes at play in the universe. Overall, SII imaging serves as an important tool in astrophotography and astronomy, providing insights into the composition, dynamics, and complex interactions within nebulae. ",
     "url": "/glossary/sii/",
     
     "relUrl": "/glossary/sii/"
-  },"65": {
+  },"86": {
     "doc": "Siril",
     "title": "Siril",
     "content": "Siril is a free and open-source software program used for processing astronomical images, particularly astrophotography images. It is widely used by amateur astronomers and astrophotographers to process and enhance images of celestial objects. Siril provides a range of tools for image processing and analysis, including stacking, alignment, and calibration. It supports a variety of image formats and can handle both raw and processed images. Siril also includes advanced features such as deconvolution and wavelet processing, which can be used to enhance fine details in astronomical images. In addition to its image processing tools, Siril also provides support for astrometry, which is the measurement of the positions and motions of celestial objects. The program can perform plate solving, which is the process of matching stars in an image to a known celestial coordinate system, allowing users to identify and track celestial objects with high accuracy. Siril is available for Windows, macOS, and Linux operating systems and can be downloaded for free from the official Siril website. The program is constantly updated and maintained by a dedicated team of developers, ensuring its continued functionality and usefulness to the astrophotography community. https://siril.org/ . ",
     "url": "/software/siril/",
     
     "relUrl": "/software/siril/"
-  },"66": {
+  },"87": {
     "doc": "Stack",
     "title": "Stack",
     "content": "In astrophotography, you’re not using your gamera to take pictures, you’re gathering data. This data will consist of signal and of noise. To get high quality results, you’ll need to gather a lot of data. This means that you’ll need many images, each of somewhere between 30 secs to 5mins depending on your equipment and your target. Generally, your total integration time for all images should be in the region of 1 to 10 hours. The more data you gather, the more signal you can extract from the noise. The first step in extracting that data is to combine it all together along with your calibration frames. My stacking tool of choice is Deep Sky Stacker. I find this tool most flexible and capable. To stack images taken over the course of the night, you would typically follow these steps in Deep Sky Stacker: . | Load your light frames: In Deep Sky Stacker, go to File &gt; Open Picture Files and select all of your light frames. These are the images that contain the actual data of the objects you were imaging. | Load your calibration frames: To improve the quality of your stacked image, you’ll want to use calibration frames to remove unwanted noise and artifacts. Load your bias frames, dark frames, and flat frames by going to File &gt; Open Calibration Files and selecting each type of frame. Bias frames contain only the readout noise of the camera, dark frames contain the readout noise plus the thermal noise of the camera, and flat frames are used to correct for dust and vignetting. | Register your images: Deep Sky Stacker will now align and stack your light frames. To do this, click on the Register tab and select the appropriate settings for your images. You can also choose to use one of the calibration frames as a reference image for alignment. | After registration, I like to manually example each frame and discard those that show excessive star trails or other artifacts such as blur, clouds or excessive light pollution. It would not be unusual for me to discard 10% of frames . | Stack your images: Once your images are registered, click on the Stacking tab to stack your images. You can choose from a variety of stacking methods and adjust the settings to optimize the final result. Typically I’d choose Kappa-Sigma clipping method for my light frames. This will generally discard satellite trails from your light frames so that they don’t mess up your final stacked image. I’ll also turn on 2x drizzle which will extract a bit more detail from your data especially if you’re using dithering. | Save your final image: Once the stacking process is complete, you can save your final stacked image as a FITS or TIFF file ready for processing. | . It’s important to note that the quality of your final stacked image will depend on the quality of your individual frames and calibration frames, as well as the settings you choose in Deep Sky Stacker. You can also use Deep Sky Stacker to combine images taken on different nights. To do this, simply repeat the process documented above but select a different group tabs at the bottom of the screen. Each evening should be in a different group. You can also use this to group images taken with different settings on the same evening. For example if you decide to change the exposure time or the gain settings, put the resulting images into their own group. ",
-    "url": "/howto/stack/",
+    "url": "/tutorials/image-processing/stack/",
     
-    "relUrl": "/howto/stack/"
-  },"67": {
+    "relUrl": "/tutorials/image-processing/stack/"
+  },"88": {
     "doc": "Stacking",
     "title": "Stacking",
     "content": "Stacking is a process used in astrophotography to improve the quality of images of celestial objects, such as stars, galaxies, and nebulae. It involves combining multiple images of the same object into a single image, effectively reducing the noise and improving the signal-to-noise ratio. When taking a photograph of a celestial object, there are several sources of noise that can degrade the image quality. These include noise from the camera sensor, atmospheric turbulence, and light pollution. By stacking multiple images of the same object, the noise in each individual image is reduced, while the signal (i.e., the light from the object) is increased. The process of stacking involves aligning and combining multiple images of the same object, typically using specialized software such as DeepSkyStacker or ASTAP. The software analyzes each image and determines the position of the object, aligning each image to a common reference point to compensate for any drift or movement during the exposure. Once the images are aligned, they are combined into a single image using various techniques such as median or average stacking. This final stacked image has a much higher signal-to-noise ratio than any individual image, resulting in a cleaner, more detailed image of the object. Overall, stacking is a powerful technique used by astrophotographers to capture high-quality images of celestial objects. By combining multiple images, the signal-to-noise ratio is improved, allowing for greater detail and clarity in the final image. ",
     "url": "/glossary/stacking/",
     
     "relUrl": "/glossary/stacking/"
-  },"68": {
+  },"89": {
     "doc": "Stretching",
     "title": "Stretching",
     "content": "In astrophotography, stretching is the process of adjusting the brightness and contrast of an image to reveal details that may be hidden in the original data. The goal of stretching is to bring out the faint details in the image while preserving the overall color and contrast of the object being photographed. Stretching is typically done using specialized software, such as Adobe Photoshop or PixInsight, and involves adjusting the levels, curves, or other tone mapping tools to manipulate the brightness and contrast of the image. The process is often subjective and depends on the observer’s preferences and the nature of the object being photographed. During stretching, astrophotographers often use a histogram to visualize the distribution of pixel values in the image. By adjusting the levels or curves, they can adjust the brightness of the image and selectively enhance certain features or areas of the object. Stretching can be a powerful tool for revealing details in astrophotography, but it must be used carefully to avoid overstretching or exaggerating the features in the image. Overstretching can result in noise, artifacts, or other distortions that may reduce the quality of the final image. Overall, stretching is an essential step in astrophotography that allows astrophotographers to bring out the details and beauty of celestial objects that may be hidden in the raw data. ",
     "url": "/glossary/stretching/",
     
     "relUrl": "/glossary/stretching/"
-  },"69": {
+  },"90": {
     "doc": "Tripod",
     "title": "Tripod",
     "content": "A tripod is a three-legged stand used to support a variety of equipment, including cameras, telescopes, and surveying instruments. The tripod is designed to provide a stable and level base for the equipment, allowing for precise positioning and stable operation. Tripods come in a variety of sizes and materials, ranging from small lightweight models suitable for handheld cameras to heavy-duty models capable of supporting large telescopes. The legs of the tripod are typically adjustable, allowing them to be extended or retracted to achieve the desired height and stability. The head of the tripod is designed to attach to the equipment being supported, and may include a variety of features such as a ball head or pan-tilt head for precise positioning and alignment. In addition to photography and astronomy, tripods are used in a variety of other applications, including surveying, construction, and video production. The use of a tripod can help to reduce camera shake or other unwanted movement, resulting in sharper images and more stable video footage. ",
-    "url": "/hardware/tripod/",
+    "url": "/equipment/tripod/",
     
-    "relUrl": "/hardware/tripod/"
-  },"70": {
+    "relUrl": "/equipment/tripod/"
+  },"91": {
     "doc": "UHC Filter",
     "title": "UHC Filter",
     "content": "A UHC (Ultra High Contrast) filter is an optical filter commonly used in astrophotography and visual observation of deep sky objects. It is designed to enhance the visibility and contrast of emission nebulae, particularly those that emit light in specific wavelengths. The primary purpose of a UHC filter is to selectively transmit specific emission lines while blocking other unwanted wavelengths of light, including light pollution and skyglow. It is designed to target the wavelengths associated with common emission lines found in nebulae, such as hydrogen-alpha (H-alpha), oxygen III (OIII), and hydrogen-beta (H-beta). By allowing these emission lines to pass through while suppressing the continuum and other noise, a UHC filter increases the contrast between the nebula and the background sky. This enhances the visibility and details of emission nebulae, making them stand out more prominently against the dark sky. UHC filters are particularly effective in light-polluted areas where the presence of artificial lights can hinder the observation and imaging of faint nebulae. They help to mitigate the negative effects of light pollution by selectively transmitting the desired wavelengths emitted by the nebulae and suppressing the unwanted background light. When used for astrophotography, a UHC filter can improve the quality and detail of images by reducing the impact of light pollution and enhancing the contrast of emission nebulae. It allows astrophotographers to capture more detailed images of nebulae and reveal intricate structures and features that would otherwise be difficult to observe in light-polluted skies. It’s important to note that while a UHC filter can be beneficial for observing and imaging emission nebulae, it may not be as effective for other types of deep sky objects, such as galaxies or star clusters, which do not emit specific emission lines. In those cases, different types of filters, such as broadband or narrowband filters, may be more suitable. A similar filter, a CLS (City Light Suppression) filter is an optical filter commonly used in astrophotography and visual observation of deep sky objects, particularly in areas with significant light pollution. Its primary function is to selectively block certain wavelengths of light, including those associated with common sources of light pollution, while allowing other desired wavelengths to pass through. The CLS filter is designed to block specific wavelengths of artificial light, such as those produced by streetlights and urban lighting, which contribute to light pollution. It helps to suppress the effects of light pollution and improve the visibility and contrast of deep sky objects, including nebulae, galaxies, and star clusters. The CLS filter typically reduces the transmission of light at wavelengths associated with sodium and mercury vapor lamps, which are commonly used in outdoor lighting. These lamps emit light in specific wavelengths, such as the yellow-orange sodium D-line (589.3 nanometers) and various mercury emission lines. By blocking these specific wavelengths, the CLS filter helps to darken the background sky and increase the contrast between deep sky objects and the light-polluted sky. It enables astrophotographers and observers to capture or observe these objects more effectively, even in areas with significant light pollution. It’s important to note that while a CLS filter can be beneficial in mitigating light pollution, it does not eliminate it entirely. The effectiveness of the filter may vary depending on the severity of the light pollution and the specific characteristics of the light sources in the area. In extremely light-polluted regions, additional measures such as imaging from a dark site or using narrowband filters may be necessary to achieve optimal results. Overall, the CLS filter is a useful tool for astrophotographers and observers who wish to enhance the visibility and contrast of deep sky objects while imaging or observing under light-polluted conditions. ",
     "url": "/glossary/uhc/",
     
     "relUrl": "/glossary/uhc/"
-  },"71": {
+  },"92": {
     "doc": "Walking Noise",
     "title": "Walking Noise",
     "content": "Walking noise is a type of noise that can occur in astrophotography when capturing long-exposure images, particularly with unguided mounts. It is caused by slight movements or vibrations of the camera or telescope that occur during the exposure, leading to a slight shift in the position of the stars in the image. These shifts can cause the stars to appear elongated or misshapen, and can reduce the overall sharpness and quality of the image. Dithering is a technique used to reduce walking noise and other types of noise in astrophotography. By intentionally shifting the position of the camera slightly between each exposure, dithering helps to randomize the walking noise and other sources of noise, making it easier to separate the signal (the stars and other astronomical objects) from the noise. This can result in a cleaner, sharper image with better detail and contrast. Drizzling is another technique that can be used to enhance the resolution and detail of astrophotography images, particularly when dealing with small or faint objects. ",
     "url": "/glossary/walkingnoise/",
     
     "relUrl": "/glossary/walkingnoise/"
-  },"72": {
+  },"93": {
     "doc": "Wedge",
     "title": "Wedge",
     "content": "A polar wedge is an accessory used in astronomy for mounting a telescope or a camera on an equatorial mount. It is designed to align the polar axis of the mount with the celestial pole, allowing for precise tracking of celestial objects as they move across the sky. The polar wedge is typically made of sturdy material such as aluminum or steel, and it has an adjustable base that allows it to be leveled and aligned with the celestial pole. The telescope or camera is then attached to the wedge, which is in turn attached to the equatorial mount. By using a polar wedge, the user can ensure that the mount’s polar axis is aligned with the Earth’s axis of rotation, allowing for accurate tracking of celestial objects as they move across the sky. This is particularly important for long-exposure astrophotography, where even small errors in tracking can result in blurry or distorted images. My polar wedge is a Skywatcher Star Adventurer wedge. This is a cheap wedge which is, quite honestly, barely adequate for the job. Specifically, the Dec clamping mechanism is not fit for purpose. However, I’ve come up with a fix for this which improves performance by a massive amount. Here’s the fixes that I’ve created. I’ve also documented them on Cloudy Nights . 1) Get a brass bush made, 14mm diameter, 6mm deep with a hole in the middle for an M6 bolt. I got mine made cheaply from a guy on ebay . 2) Dismantle your wedge . 3) Use a 4mm-20mm step drill to drill the hole out to 14mm. When you get to the 14mm cut, the step drill should now fit very conveniently into the hole on the opposite side &amp; also into the recess to allow for an accurate cut . 4) Put the brass bush in the hole . 5) Reassemble with the plastic washer on the opposite side to the brass bush. I’ve replaced the standard lever here with a new one from eBay because my original broke long ago . You might notice my washer is red. I actually made a new one using the plastic lid from a confectionary container and a 44mm hole-saw . Enjoy a better clamped wedge . ",
-    "url": "/hardware/wedge/",
+    "url": "/equipment/wedge/",
     
-    "relUrl": "/hardware/wedge/"
-  },"73": {
+    "relUrl": "/equipment/wedge/"
+  },"94": {
     "doc": "Imaging Workflow",
     "title": "Imaging Workflow",
     "content": "A workflow for a typical evening would be as follows:- . | Set up tripod pointing north, ensure it’s level. Power everything up, remove lens caps, turn on dew heaters. Make sure that all clutches and focus locks are tight | Whilst standing next to your equipment, run remote desktop on your laptop to access your control centre | Run NINA. Connect your imaging camera, guider and mount | Run the polar alignment process | Check focus. Go to the imaging tab, set up a suitable exposure and gain so that you can see stars and start looping exposures. Check that focus is good by adjusting slightly and checking the HFR history graph. https://nighttime-imaging.eu/docs/master/site/quickstart/focusing/ | Now that everything is physically set up, you can go indoors | Use the sky atlas to choose your target, then select “set for framing assistant” | Go to the “Framing” tab. Click “Slew and Center”. Wait for NINA to instruct the scope to move and to fine tune via plate solving | Once this is done, you can click “determine rotation from camera” to see if your field of view is appropriate. If not, you can go and physically rotate your camera | Go to PHD2, start guiding | Go to sequencer tab and add a new imaging sequence by clicking the “+” button. Configure to take a number of frames of your chosen length (e.g. 60 secs) of type LIGHT. Make sure to enable dither every 1 or 2 frames | Go to imaging tab, make sure guiding is working well, and when you’re ready, start the sequence | . Everything should happen automatically now. However, I like to keep my eye on things on a regular basis. I also like to download frames throughout the evening and process them to check everything is ok so I don’t waste my time on junk data . Once you’re nearing the end of the evening, make sure to take dark and bias frames. You can use the flat wizard for this . ",
-    "url": "/howto/workflow/",
+    "url": "/tutorials/image-processing/workflow/",
     
-    "relUrl": "/howto/workflow/"
-  },"74": {
+    "relUrl": "/tutorials/image-processing/workflow/"
+  },"95": {
     "doc": "Home",
     "title": "{{ post.title }}",
     "content": "{{ post.date | date_to_string }} {{ post.content }} {% endfor %} {% if paginator.total_pages > 1 %} {% if paginator.previous_page %} &laquo; Prev {% else %} &laquo; Prev {% endif %} {% if paginator.next_page %} Next &raquo; {% else %} Next &raquo; {% endif %} {% endif %} ",
     "url": "/page2/",
     
     "relUrl": "/page2/"
-  },"75": {
+  },"96": {
     "doc": "Home",
     "title": "Home",
     "content": "{% raw %} {% endraw %} {% for post in paginator.posts %} ",
     "url": "/page2/",
     
     "relUrl": "/page2/"
-  },"76": {
+  },"97": {
     "doc": "Home",
     "title": "{{ post.title }}",
     "content": "{{ post.date | date_to_string }} {{ post.content }} {% endfor %} {% if paginator.total_pages > 1 %} {% if paginator.previous_page %} &laquo; Prev {% else %} &laquo; Prev {% endif %} {% if paginator.next_page %} Next &raquo; {% else %} Next &raquo; {% endif %} {% endif %} ",
     "url": "/page3/",
     
     "relUrl": "/page3/"
-  },"77": {
+  },"98": {
     "doc": "Home",
     "title": "Home",
     "content": "{% raw %} {% endraw %} {% for post in paginator.posts %} ",
