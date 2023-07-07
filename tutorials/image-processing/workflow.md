@@ -2,6 +2,8 @@
 layout: default
 title: Imaging Workflow
 parent: Image Processing
+grand_parent: Tutorials
+nav_order: 1
 ---
 A workflow for a typical evening would be as follows:-
 

@@ -3,6 +3,8 @@ layout: default
 title: Choosing The Right Gear
 nav_order: 1
 parent: Getting Started
+grand_parent: Tutorials
+nav_order: 2
 ---
 
 # Choosing the Right Gear

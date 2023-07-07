@@ -3,6 +3,7 @@ layout: default
 title: Introduction to Astrophotography
 nav_order: 1
 parent: Getting Started
+grand_parent: Tutorials
 ---
 ## Introduction to Astrophotography
 

@@ -2,6 +2,8 @@
 layout: default
 title: Process
 parent: Image Processing
+grand_parent: Tutorials
+nav_order: 3
 ---
 I do my initial image processing with Siril. I've documented the process that I follow below by reprocessing my recent Veil Nebula data. Note, the results I got here are not as good as I got previously. It's not unusual for me to reprocess data several times until I'm happy that I've got the most out of it.
 

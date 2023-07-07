@@ -114,14 +114,14 @@ presets:
         webp: 75
         avif: 75
     #dimension_attributes: true # Page reflow begone!
-    base_width: 260 # How wide the 1x image should be.
+    nomarkdown: false
+    base_width: 800 # How wide the 1x image should be.
     link_source: true # wrap images in a link to the original source image.
     formats: [avif, webp, jpg, original] # Must be an array, and order matters.
     pixel_ratios: [1, 1.5, 2]
-    fallback_width: 260
+    fallback_width: 800
     attributes:
       img: 'class="gallery-image"'
-      a: 'class="lightbox-image" title=""'
 
   logo:
     #dimension_attributes: true # Page reflow begone!

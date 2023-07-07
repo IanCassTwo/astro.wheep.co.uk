@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Introduction to Astrophotography
+title: Deep Space Photography
 nav_order: 1
 parent: Capture Techniques
+grand_parent: Tutorials
 ---
 
 # Deep Space Photography
