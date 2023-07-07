@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hardware
+title: Equipment
 has_children: true
-nav_order: 6
+nav_order: 5
 no_page: true
 ---

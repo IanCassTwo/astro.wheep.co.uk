@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Software
+title: Getting Started
 has_children: true
-nav_order: 3
+nav_order: 4
 no_page: true
 ---
