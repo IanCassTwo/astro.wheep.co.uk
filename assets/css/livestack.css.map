@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "livestack.css",
+	"sources": [
+		"livestack.scss"
+	],
+	"sourcesContent": [
+		".livestackimage_container {\n  position: relative;\n  display: inline-block;\n}\n\n#stacking_details {\n  position: absolute;\n  bottom: 0;\n  left: 0;\n  background-color: transparent;\n  color: #fff;\n  padding: 8px;\n}\n\n.livestackimage_container img {\n  display: block;\n}\n"
+	],
+	"names": [],
+	"mappings": "AAAA,AAAA,yBAAyB,AAAC,CACxB,QAAQ,CAAE,QAAQ,CAClB,OAAO,CAAE,YAAY,CACtB,AAED,AAAA,iBAAiB,AAAC,CAChB,QAAQ,CAAE,QAAQ,CAClB,MAAM,CAAE,CAAC,CACT,IAAI,CAAE,CAAC,CACP,gBAAgB,CAAE,WAAW,CAC7B,KAAK,CAAE,IAAI,CACX,OAAO,CAAE,GAAG,CACb,AAED,AAAA,yBAAyB,CAAC,GAAG,AAAC,CAC5B,OAAO,CAAE,KAAK,CACf"
+}
