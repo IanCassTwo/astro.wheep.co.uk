@@ -4,6 +4,7 @@ const existingImage = document.getElementById('livestackimage');
 // Function to fetch and update the image
 function fetchAndUpdateImage() {
   // Fetch the new image from a URL
+  console.log("Fetching new image")
   const timestamp = Date.now();
   fetch('/als/web_image.jpg')
     .then(response => {
@@ -26,6 +27,17 @@ function fetchAndUpdateImage() {
       existingImage.src = "/assets/images/offline.jpg"
     });
 }
+
+existingImage.onload = function() {
+      EXIF.getData(existingImage, function() {
+          var imageDescription = EXIF.getTag(this, "ImageDescription");
+          if (imageDescription) {
+              imageJson = JSON.parse(imageDescription)
+              var stacking_details = document.getElementById("stacking_details");
+              stacking_details.innerHTML = `${imageJson.total_exposure_time}s total integration time from ${imageJson.stack_size} frames`
+          }
+      });
+};
 
 // Fetch and update the image immediately
 fetchAndUpdateImage();

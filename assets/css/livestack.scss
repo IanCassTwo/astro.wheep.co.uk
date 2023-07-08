@@ -1,0 +1,20 @@
+---
+---
+
+.livestackimage_container {
+  position: relative;
+  display: inline-block;
+}
+
+#stacking_details {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background-color: transparent;
+  color: #fff;
+  padding: 8px;
+}
+
+.livestackimage_container img {
+  display: block;
+}
