@@ -17,9 +17,9 @@ To stack images taken over the course of the night, you would typically follow t
 
 3. Register your images: Deep Sky Stacker will now align and stack your light frames. To do this, click on the Register tab and select the appropriate settings for your images. You can also choose to use one of the calibration frames as a reference image for alignment.
 
-4. After registration, I like to manually example each frame and discard those that show excessive star trails or other artifacts such as blur, clouds or excessive light pollution. It would not be unusual for me to discard 10% of frames
+4. After registration, I like to manually examine each frame and discard those that show excessive star trails or other artifacts such as blur, clouds or excessive light pollution. It would not be unusual for me to discard 10% of frames. You don't need to discard ones that have satellite trails if they're otherwise ok
 
-5. Stack your images: Once your images are registered, click on the Stacking tab to stack your images. You can choose from a variety of stacking methods and adjust the settings to optimize the final result. Typically I'd choose Kappa-Sigma clipping method for my light frames. This will generally discard satellite trails from your light frames so that they don't mess up your final stacked image. I'll also turn on 2x drizzle which will extract a bit more detail from your data especially if you're using dithering.
+5. Stack your images: Once your images are registered, click on the Stacking tab to stack your images. You can choose from a variety of stacking methods and adjust the settings to optimize the final result. Typically I'd choose Kappa-Sigma clipping method for my light frames. This will generally discard satellite trails from your light frames so that they don't mess up your final stacked image. I'll also turn on 2x drizzle which will extract a bit more detail from your data provided you're using dithering.
 
 6. Save your final image: Once the stacking process is complete, you can save your final stacked image as a FITS or TIFF file ready for processing.
 

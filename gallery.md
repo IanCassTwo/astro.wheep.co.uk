@@ -1,9 +1,10 @@
 ---
-layout: default
+layout: gallery
 title: Gallery
 nav_order: 2
 ---
 
+<p>Click each image for more details</p>
   {% for post in site.posts %}
   {% if post.tags contains 'gallery' %}
   {% if post.preview %}

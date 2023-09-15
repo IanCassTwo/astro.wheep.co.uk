@@ -4,16 +4,16 @@ do
 	f=`basename -s .jpg $i`
 
 	if [ ! -f "resized/$f.jpg" ]; then
-		convert -verbose "$i[x1080>]" -set filename:base "%[basename]" "resized/%[filename:base].jpg"&
+		convert -verbose -quality 95 "$i[x3840>]" -set filename:base "%[basename]" "resized/%[filename:base].jpg"
 	fi
 
 	if [ ! -f "resized/$f.webp" ]; then
-		convert -verbose "$i[x1080>]" -set filename:base "%[basename]" "resized/%[filename:base].webp"&
+		convert -verbose -quality 90 "$i[x3840>]" -set filename:base "%[basename]" "resized/%[filename:base].webp"
 	fi
 
-	if [ ! -f "resized/$f.avif" ]; then
-		convert -verbose -quality 62 "$i[x1080>]" -set filename:base "%[basename]" "resized/%[filename:base].avif"&
-	fi
+#	if [ ! -f "resized/$f.avif" ]; then
+#		convert -verbose -quality 75 "$i[x3840>]" -set filename:base "%[basename]" "resized/%[filename:base].avif"
+#	fi
 	wait
 done
 
@@ -22,16 +22,16 @@ do
 	f=`basename -s .png $i`
 
 	if [ ! -f "resized/$f.png" ]; then
-		convert -verbose "$i[x1080>]" -set filename:base "%[basename]" "resized/%[filename:base].png"&
+		convert -verbose "$i[x3840>]" -set filename:base "%[basename]" "resized/%[filename:base].png"
 	fi
 
 	if [ ! -f "resized/$f.webp" ]; then
-		convert -verbose "$i[x1080>]" -set filename:base "%[basename]" "resized/%[filename:base].webp"&
+		convert -verbose -quality 75 "$i[x3840>]" -set filename:base "%[basename]" "resized/%[filename:base].webp"
 	fi
 
-	if [ ! -f "resized/$f.avif" ]; then
-		convert -verbose -quality 62 "$i[x1080>]" -set filename:base "%[basename]" "resized/%[filename:base].avif"&
-	fi
+#	if [ ! -f "resized/$f.avif" ]; then
+#		convert -verbose -quality 75 "$i[x3840>]" -set filename:base "%[basename]" "resized/%[filename:base].avif"
+#	fi
 	wait
 done
 

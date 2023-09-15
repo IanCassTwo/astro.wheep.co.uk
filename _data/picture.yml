@@ -15,9 +15,9 @@ presets:
     formats: [webp, jpg, original] # Must be an array, and order matters.
 
     format_quality: 
-        jpg: 90
+        jpg: 95
         png: 75
-        webp: 75
+        webp: 85
         avif: 75
 
     image_options:
@@ -61,13 +61,13 @@ presets:
 
   blog:
     format_quality: 
-        jpg: 90
+        jpg: 95
         png: 75
-        webp: 75
+        webp: 85
         avif: 75
-    base_width: 736 # How wide the 1x image should be.
+    base_width: 936 # How wide the 1x image should be.
     link_source: true # wrap images in a link to the original source image.
-    formats: [avif, webp, jpg, original] # Must be an array, and order matters.
+    formats: [webp, jpg, original] # Must be an array, and order matters.
     pixel_ratios: [1, 1.5, 2]
     fallback_width: 736
     fallback_format: original
@@ -84,7 +84,7 @@ presets:
     #dimension_attributes: true # Page reflow begone!
     base_width: 460 # How wide the 1x image should be.
     link_source: true # wrap images in a link to the original source image.
-    formats: [avif, webp, jpg, original] # Must be an array, and order matters.
+    formats: [webp, jpg, original] # Must be an array, and order matters.
     pixel_ratios: [1, 1.5, 2]
     fallback_width: 460
     attributes:
@@ -100,7 +100,7 @@ presets:
     #dimension_attributes: true # Page reflow begone!
     base_width: 260 # How wide the 1x image should be.
     link_source: true # wrap images in a link to the original source image.
-    formats: [avif, webp, jpg, original] # Must be an array, and order matters.
+    formats: [webp, jpg, original] # Must be an array, and order matters.
     pixel_ratios: [1, 1.5, 2]
     fallback_width: 260
     attributes:
@@ -117,7 +117,7 @@ presets:
     nomarkdown: false
     base_width: 800 # How wide the 1x image should be.
     link_source: true # wrap images in a link to the original source image.
-    formats: [avif, webp, jpg, original] # Must be an array, and order matters.
+    formats: [webp, jpg, original] # Must be an array, and order matters.
     pixel_ratios: [1, 1.5, 2]
     fallback_width: 800
     attributes:
@@ -136,7 +136,7 @@ presets:
   thumb:
     #dimension_attributes: true # Page reflow begone!
     base_width: 160 # How wide the 1x image should be.
-    formats: [avif, webp, jpg, original] # Must be an array, and order matters.
+    formats: [webp, jpg, original] # Must be an array, and order matters.
     link_source: true # wrap images in a link to the original source image.
     pixel_ratios: [1, 1.5, 2]
     fallback_width: 160
