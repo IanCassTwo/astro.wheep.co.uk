@@ -8,14 +8,14 @@ nav_order: 9997
 
   <h3>Please select your image sensor</h3>
   <select id="jsonSelect">
-    <option value="imx178.json" selected>IMX178</option>
+    <option value="imx178.json">IMX178</option>
     <option value="imx071.json">IMX071</option>
     <option value="imx290.json">IMX290</option>
     <option value="imx294.json">IMX294</option>
     <option value="imx464.json">IMX464</option>
     <option value="imx477.json">IMX477</option>
     <option value="imx533.json">IMX533</option>
-    <option value="imx585.json">IMX585</option>
+    <option value="imx585.json" selected>IMX585</option>
     <option value="imx662.json">IMX662</option>
   </select>
 

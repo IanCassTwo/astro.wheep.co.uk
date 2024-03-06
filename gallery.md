@@ -10,7 +10,7 @@ nav_order: 2
   {% if post.preview %}
   <div class="picture-container">
   {% picture gallery {{ post.preview }} --link {{ post.url }}%}
-  <div class="overlay-text">{{ post.title }}, taken on {{ post.date | date: "%B %d, %Y" }}</div>
+  <div class="overlay-text">{{ post.title }}, {{ post.date | date: "%B %d, %Y" }}<br/>{{post.workflow}}</div>
   </div>
   {% endif %}
   {% endif %}

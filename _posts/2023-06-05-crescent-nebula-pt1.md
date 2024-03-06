@@ -7,5 +7,5 @@ It's a funny time of year for astrophotography. I can't really image anything in
 I also spent some time calibrating the backlash in PHD2 for much better tracking and recovery from dithering. It's literally a 1000 times better now. I've also recently watched a video on how to configure Green Swamp Server for backlash compensation so I'm keen to try that during my next session to see if it does an even better job than PHD2.
 
 {% picture blog crescent-nebula-ircut.jpg %}
-_Starwatcher Evoguide 50ED with Starizona Flattener, IR Cut filter, SvBony sv505c, guided ~2hrs of data_
+_Skywatcher Evoguide 50ED with Starizona Flattener, IR Cut filter, SvBony sv505c, guided ~2hrs of data_
 
