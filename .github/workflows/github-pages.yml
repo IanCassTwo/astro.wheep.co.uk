@@ -46,9 +46,9 @@ jobs:
           JEKYLL_ENV: production
           
       # Push changes back to Github
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: Commited by github actions
+      #- uses: stefanzweifel/git-auto-commit-action@v4
+      #  with:
+      #    commit_message: Commited by github actions
                   
       # Deploy to Github Pages
       - name: Github pages deploy
