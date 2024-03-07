@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Page</title>
+</head>
+<body>
+    <script>
+        // Open a new window
+        const childWindow = window.open('https://astro.wheep.co.uk/sveltia/auth', 'ChildWindow');
+
+        // Event listener for messages from the child window
+        window.addEventListener('message', ({ data, origin }) => {
+            console.log('Received message:', data, 'from origin:', origin);
+
+            // Check if the message is 'authorizing:github'
+            if (data === 'authorizing:github') {
+                console.log('Sending reply: authorizing:github');
+                
+                // Reply with a message back to the child window
+                childWindow.postMessage('authorizing:github', origin);
+            }
+
+            // Check if the message starts with 'authorization:github'
+            if (data.startsWith('authorization:github')) {
+                console.log('Received authorization response:', data);
+            }
+        });
+
+    </script>
+</body>
+</html>
+

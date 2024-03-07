@@ -14,10 +14,10 @@ title: Home
           {{ post.content }}
 	  <p>
 	  {% if post.preview %}
-	  <div class="picture-container">
-	  {% picture blog {{ post.preview }} --link {{ post.url }}%}
-	  <div class="overlay-text">{{post.workflow}}</div>
-	  </div>
+	  {% picture blog {{ post.preview }} %}
+	  {% endif %}
+	  {% if post.workflow %}
+	  _{{post.workflow}}_
 	  {% endif %}
     	  </p>
     </article>

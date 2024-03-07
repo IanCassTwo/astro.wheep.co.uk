@@ -12,6 +12,3 @@ If that experiment were not enough, I also decided that I wanted to image more o
 Over the 3 hour session, I managed to get an hour of data on each mosaic frame however I discovered in post processing that seeing wasn't as good as I thought it was so I had to discard a number of subs. In total, I got somewhere between 40 and 50mins on each frame. 
 
 The end result was a mixed bag. On one hand I'm pleased that I managed to suss out mosaic processing on the first attempt. On the other hand I'm upset that I couldn't get more data. I'm still on the fence regarding this UHC filter. I'm not convinced that it's giving me better results than just broadband. Perhaps I need a better filter? The final image is noisy and I stretched it as far as I dared. I then saturated it to death to get something interesting. What a frustrating hobby this is.
-
-{% picture blog {{ page.preview }} %}
-_{{page.workflow}}_

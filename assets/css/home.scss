@@ -1,0 +1,39 @@
+---
+---
+$content-width: 100%;
+
+picture {
+  float: left;
+  /*margin-right: 20px;*/ /* adds some space between the image and list */
+}
+
+.picture-container {
+  position: relative;
+  display: inline-block;
+}
+
+.picture-container a {
+  display: block;
+}
+
+.overlay-text {
+  position: absolute;
+  bottom: 10px; /* Adjust the distance from the bottom as needed */
+  left: 10px; /* Adjust the distance from the left as needed */
+  color: white; /* Set the text color */
+  font-size: 1em; /* Set the font size */
+  background-color: rgba(0, 0, 0, 0.5); /* Set the background color and opacity */
+  padding: 5px; /* Add padding for better visibility */
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* create columns with minimum width of 200px and maximum width of 1fr, with as many columns as will fit in the available space */
+  grid-gap: 10px;
+}
+
+.galleryimage {
+  max-width: 100%;
+  height: auto;
+  object-fit: cover;
+}

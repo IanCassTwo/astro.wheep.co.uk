@@ -5,4 +5,14 @@ layout: default
     <h2>{{ page.title }}</h2>
     Published on {{ page.date | date_to_string }}
     {{ content }}
+
+    <p>
+    {% if page.preview %}
+    {% picture blog {{ page.preview }} %}
+    {% endif %}
+    {% if page.workflow %}
+    _{{page.workflow}}_
+    {% endif %}
+    </p>
+
 </article> 
