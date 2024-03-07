@@ -1,0 +1,138 @@
+<!DOCTYPE html> <html lang="en-US"> <head> <meta charset="UTF-8"> <meta http-equiv="X-UA-Compatible" content="IE=Edge"> <title>Siril Pixel Math</title> <meta name="description" content="My adventures in astrophotography"> <meta property="og:description" content="My adventures in astrophotography"> <link rel="stylesheet" href="/assets/css/just-the-docs-default.css?1709829152"> <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"> <link rel="canonical" href="http://rlw7w.uk/tutorials/pixelmath/" /> <meta name="viewport" content="width=device-width, initial-scale=1"> </head> <body> <svg xmlns="http://www.w3.org/2000/svg" style="display: none;"> <symbol id="svg-link" viewbox="0 0 24 24"> <title>Link</title> <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-link"> <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path> </svg> </symbol> <symbol id="svg-search" viewbox="0 0 24 24"> <title>Search</title> <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-search"> <circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line> </svg> </symbol> <symbol id="svg-menu" viewbox="0 0 24 24"> <title>Menu</title> <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu"> <line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line> </svg> </symbol> <symbol id="svg-arrow-right" viewbox="0 0 24 24"> <title>Expand</title> <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-right"> <polyline points="9 18 15 12 9 6"></polyline> </svg> </symbol> <symbol id="svg-doc" viewbox="0 0 24 24"> <title>Document</title> <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file"> <path d="M13 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9z"></path><polyline points="13 2 13 9 20 9"></polyline> </svg> </symbol> </svg> <div class="side-bar"> <div class="site-header"> <a href="/" class="site-title lh-tight"> ASTROWHEEP! </a> <a href="#" id="menu-button" class="site-button"> <svg viewbox="0 0 24 24" class="icon"><use xlink:href="#svg-menu"></use></svg> </a> </div> <nav role="navigation" aria-label="Main" id="site-nav" class="site-nav"> <ul class="nav-list">
+<li class="nav-list-item"> <a href="/" class="nav-list-link">Home</a> </li>
+<li class="nav-list-item"> <a href="/about/" class="nav-list-link">About</a> </li>
+<li class="nav-list-item"> <a href="/gallery/" class="nav-list-link">Gallery</a> </li>
+<li class="nav-list-item">
+<a href="#" class="nav-list-expander"><svg viewbox="0 0 24 24"><use xlink:href="#svg-arrow-right"></use></svg></a> <a href="#" class="nav-list-link nav-list-nolink">Software</a> <ul class="nav-list ">
+<li class="nav-list-item "> <a href="/software/ascom/" class="nav-list-link">Ascom</a> </li>
+<li class="nav-list-item "> <a href="/software/astap/" class="nav-list-link">Astap</a> </li>
+<li class="nav-list-item "> <a href="/software/astrosharp/" class="nav-list-link">Astrosharp</a> </li>
+<li class="nav-list-item "> <a href="/software/dss/" class="nav-list-link">Deep Sky Stacker</a> </li>
+<li class="nav-list-item "> <a href="/software/gss/" class="nav-list-link">GS Server</a> </li>
+<li class="nav-list-item "> <a href="/software/graxpert/" class="nav-list-link">Graxpert</a> </li>
+<li class="nav-list-item "> <a href="/software/nina/" class="nav-list-link">NINA</a> </li>
+<li class="nav-list-item "> <a href="/software/phd2/" class="nav-list-link">PHD2</a> </li>
+<li class="nav-list-item "> <a href="/software/remotedesktop/" class="nav-list-link">Remote Desktop</a> </li>
+<li class="nav-list-item "> <a href="/software/siril/" class="nav-list-link">Siril</a> </li>
+</ul>
+</li>
+<li class="nav-list-item active">
+<a href="#" class="nav-list-expander"><svg viewbox="0 0 24 24"><use xlink:href="#svg-arrow-right"></use></svg></a> <a href="#" class="nav-list-link nav-list-nolink">Tutorials</a> <ul class="nav-list ">
+<li class="nav-list-item "> <a href="/tutorials/workflow/" class="nav-list-link">Image Processing Workflow</a> </li>
+<li class="nav-list-item active"> <a href="/tutorials/pixelmath/" class="nav-list-link active">Siril Pixel Math</a> </li>
+</ul>
+</li>
+<li class="nav-list-item">
+<a href="#" class="nav-list-expander"><svg viewbox="0 0 24 24"><use xlink:href="#svg-arrow-right"></use></svg></a> <a href="#" class="nav-list-link nav-list-nolink">Equipment</a> <ul class="nav-list ">
+<li class="nav-list-item "> <a href="/equipment/azgti-mount/" class="nav-list-link">Az-Gti Mount</a> </li>
+<li class="nav-list-item "> <a href="/equipment/connectivity/" class="nav-list-link">Connectivity</a> </li>
+<li class="nav-list-item "> <a href="/equipment/controlcentre/" class="nav-list-link">Control Centre</a> </li>
+<li class="nav-list-item "> <a href="/equipment/dewheater/" class="nav-list-link">Dew Heater</a> </li>
+<li class="nav-list-item "> <a href="/equipment/evoguide-50ed-focus-improvements/" class="nav-list-link">Evoguide 50ED Focus Improvements</a> </li>
+<li class="nav-list-item "> <a href="/equipment/guidecam/" class="nav-list-link">Guide Cam</a> </li>
+<li class="nav-list-item "> <a href="/equipment/networking/" class="nav-list-link">Networking</a> </li>
+<li class="nav-list-item "> <a href="/equipment/scope/" class="nav-list-link">Scope</a> </li>
+<li class="nav-list-item "> <a href="/equipment/tripod/" class="nav-list-link">Tripod</a> </li>
+<li class="nav-list-item "> <a href="/equipment/wedge/" class="nav-list-link">Wedge</a> </li>
+</ul>
+</li>
+<li class="nav-list-item">
+<a href="#" class="nav-list-expander"><svg viewbox="0 0 24 24"><use xlink:href="#svg-arrow-right"></use></svg></a> <a href="#" class="nav-list-link nav-list-nolink">Glossary</a> <ul class="nav-list ">
+<li class="nav-list-item "> <a href="/glossary/backspacing/" class="nav-list-link">Backspacing</a> </li>
+<li class="nav-list-item "> <a href="/glossary/bortle/" class="nav-list-link">Bortle</a> </li>
+<li class="nav-list-item "> <a href="/glossary/calibration/" class="nav-list-link">Calibration Frames</a> </li>
+<li class="nav-list-item "> <a href="/glossary/dso/" class="nav-list-link">Deep Sky Object</a> </li>
+<li class="nav-list-item "> <a href="/glossary/demosaicing/" class="nav-list-link">Demosaicing</a> </li>
+<li class="nav-list-item "> <a href="/glossary/dither/" class="nav-list-link">Dithering</a> </li>
+<li class="nav-list-item "> <a href="/glossary/drizzle/" class="nav-list-link">Drizzle</a> </li>
+<li class="nav-list-item "> <a href="/glossary/equatorialmount/" class="nav-list-link">Equatorial Mount</a> </li>
+<li class="nav-list-item "> <a href="/glossary/fit/" class="nav-list-link">FIT</a> </li>
+<li class="nav-list-item "> <a href="/glossary/fieldflattener/" class="nav-list-link">Field Flattener</a> </li>
+<li class="nav-list-item "> <a href="/glossary/fov/" class="nav-list-link">Field of View</a> </li>
+<li class="nav-list-item "> <a href="/glossary/filters/" class="nav-list-link">Filters</a> </li>
+<li class="nav-list-item "> <a href="/glossary/focalratio/" class="nav-list-link">Focal Ratio</a> </li>
+<li class="nav-list-item "> <a href="/glossary/fwc/" class="nav-list-link">Full Well Capacity</a> </li>
+<li class="nav-list-item "> <a href="/glossary/gain/" class="nav-list-link">Gain</a> </li>
+<li class="nav-list-item "> <a href="/glossary/guiding/" class="nav-list-link">Guiding</a> </li>
+<li class="nav-list-item "> <a href="/glossary/h-alpha/" class="nav-list-link">H-Alpha</a> </li>
+<li class="nav-list-item "> <a href="/glossary/messier/" class="nav-list-link">Messier</a> </li>
+<li class="nav-list-item "> <a href="/glossary/narrow-band-filter/" class="nav-list-link">Narrow Band Filter</a> </li>
+<li class="nav-list-item "> <a href="/glossary/offset/" class="nav-list-link">Offset</a> </li>
+<li class="nav-list-item "> <a href="/glossary/oiii/" class="nav-list-link">Oxygen-III</a> </li>
+<li class="nav-list-item "> <a href="/glossary/pier/" class="nav-list-link">Pier</a> </li>
+<li class="nav-list-item "> <a href="/glossary/pixelsize/" class="nav-list-link">Pixel Size</a> </li>
+<li class="nav-list-item "> <a href="/glossary/platesolving/" class="nav-list-link">Plate Solving</a> </li>
+<li class="nav-list-item "> <a href="/glossary/polaralignment/" class="nav-list-link">Polar Alignment</a> </li>
+<li class="nav-list-item "> <a href="/glossary/stacking/" class="nav-list-link">Stacking</a> </li>
+<li class="nav-list-item "> <a href="/glossary/stretching/" class="nav-list-link">Stretching</a> </li>
+<li class="nav-list-item "> <a href="/glossary/sii/" class="nav-list-link">Sulfur-II</a> </li>
+<li class="nav-list-item "> <a href="/glossary/uhc/" class="nav-list-link">UHC Filter</a> </li>
+<li class="nav-list-item "> <a href="/glossary/walkingnoise/" class="nav-list-link">Walking Noise</a> </li>
+</ul>
+</li>
+<li class="nav-list-item"> <a href="/resources/" class="nav-list-link">Resources</a> </li>
+<li class="nav-list-item"> <a href="/livestack/" class="nav-list-link">Livestack</a> </li>
+</ul> </nav> </div> <div class="main" id="top"> <div id="main-header" class="main-header"> <div class="search"> <div class="search-input-wrap"> <input type="text" id="search-input" class="search-input" tabindex="0" placeholder="Search ASTROWHEEP!" aria-label="Search ASTROWHEEP!" autocomplete="off"> <label for="search-input" class="search-label"><svg viewbox="0 0 24 24" class="search-icon"><use xlink:href="#svg-search"></use></svg></label> </div> <div id="search-results" class="search-results"></div> </div> </div> <div id="main-content-wrap" class="main-content-wrap"> <nav aria-label="Breadcrumb" class="breadcrumb-nav"> <ol class="breadcrumb-nav-list"> <li class="breadcrumb-nav-list-item"><a href="/tutorials/">Tutorials</a></li> <li class="breadcrumb-nav-list-item"><span>Siril Pixel Math</span></li> </ol> </nav> <div id="main-content" class="main-content" role="main"> <div id="page-content"> <h2 id="processing-narrowband-with-siril-pixel-math"> <a href="#processing-narrowband-with-siril-pixel-math" class="anchor-heading" aria-labelledby="processing-narrowband-with-siril-pixel-math"><svg viewbox="0 0 16 16" aria-hidden="true"><use xlink:href="#svg-link"></use></svg></a> Processing Narrowband with Siril Pixel Math </h2> <h3> <a href="#processing-narrowband-with-siril-pixel-math" class="anchor-heading" aria-labelledby="processing-narrowband-with-siril-pixel-math"><svg viewbox="0 0 16 16" aria-hidden="true"><use xlink:href="#svg-link"></use></svg></a> Please select your image sensor </h3> <p><select id="jsonSelect"> <option value="imx178.json">IMX178</option> <option value="imx071.json">IMX071</option> <option value="imx290.json">IMX290</option> <option value="imx294.json">IMX294</option> <option value="imx464.json">IMX464</option> <option value="imx477.json">IMX477</option> <option value="imx533.json">IMX533</option> <option value="imx585.json" selected>IMX585</option> <option value="imx662.json">IMX662</option> </select></p> <p id="templateOutput"> </p>
+<h3> <a href="#processing-narrowband-with-siril-pixel-math" class="anchor-heading" aria-labelledby="processing-narrowband-with-siril-pixel-math"><svg viewbox="0 0 16 16" aria-hidden="true"><use xlink:href="#svg-link"></use></svg></a> Selected sensor correction values </h3> These values are showing where the red, green and blue channels intercept OIII (500nm) and Ha (656nm) according to the response graphs for the given sensor. These are shown for your information only. These are automatically inserted into the formula below once you choose your sensor from the dropdown list <div class="table-wrapper"><table> <tr>
+<th>Colour</th>
+<th>OIII (500nm)</th>
+<th>Ha (656nm)</th>
+</tr> <tr>
+<td>Red</td>
+<td><span data-key="red.oiii"></span></td>
+<td><span data-key="red.ha"></span></td>
+</tr> <tr>
+<td>Green</td>
+<td><span data-key="green.oiii"></span></td>
+<td><span data-key="green.ha"></span></td>
+</tr> <tr>
+<td>Blue</td>
+<td><span data-key="blue.oiii"></span></td>
+<td><span data-key="blue.ha"></span></td>
+</tr> </table></div> <h3> <a href="#processing-narrowband-with-siril-pixel-math" class="anchor-heading" aria-labelledby="processing-narrowband-with-siril-pixel-math"><svg viewbox="0 0 16 16" aria-hidden="true"><use xlink:href="#svg-link"></use></svg></a> Initial Preparation </h3> For best results, you should stack with "Bayer Drizzle Algorithm (no interpolation, no debayer)" in Deep Sky Stacker. This should prevent leakage of colour information to adjacent pixels from the debayering process. However, this process will work regardless of how you stack. To begin with, you should load your stacked unprocessed RGB into Siril and split channels to save separate R, G and B FITS files. You should then load these into pixel math using variable names R, G and B. <h3> <a href="#processing-narrowband-with-siril-pixel-math" class="anchor-heading" aria-labelledby="processing-narrowband-with-siril-pixel-math"><svg viewbox="0 0 16 16" aria-hidden="true"><use xlink:href="#svg-link"></use></svg></a> Pixel Math Prepatory Steps </h3> For each line in the table below, you should enter the formula as "single RGB/K expression" in pixel math and hit apply. You should then save the resulting image according to the name in column 1. You should then load the image you just saved back into pixel math with the variable named accordingly and proceed to the next step <div class="table-wrapper"><table> <tr>
+<th>File/Variable Name</th>
+<th>Formula</th>
+</tr> <tr>
+<td>OIII_G</td>
+<td>(G - (<span data-key="green.ha"></span> / <span data-key="red.ha"></span>)*R) / (<span data-key="green.oiii"></span> - (<span data-key="green.ha"></span> * <span data-key="red.oiii"></span> / <span data-key="red.ha"></span>))</td>
+</tr> <tr>
+<td>OIII_B</td>
+<td>(B - (<span data-key="blue.ha"></span> / <span data-key="red.ha"></span>)*R) / (<span data-key="blue.oiii"></span> - (<span data-key="blue.ha"></span> * <span data-key="red.oiii"></span> / <span data-key="red.ha"></span>))</td>
+</tr> <tr>
+<td>OIII</td>
+<td>(2 * 0.9 * OIII_G + 0.5 * OIII_B) / 2.3</td>
+</tr> <tr>
+<td>Ha</td>
+<td>(R - <span data-key="red.oiii"></span> * OIII) / <span data-key="red.ha"></span>
+</td>
+</tr> </table></div> <h3> <a href="#processing-narrowband-with-siril-pixel-math" class="anchor-heading" aria-labelledby="processing-narrowband-with-siril-pixel-math"><svg viewbox="0 0 16 16" aria-hidden="true"><use xlink:href="#svg-link"></use></svg></a> Pixel Math Final Steps </h3> Once you're done, you can Untick "use single RGB/K expression" and enter the following formula into R, G and B boxes <div class="table-wrapper"><table> <tr>
+<th>File/Variable Name</th>
+<th>Formula</th>
+</tr> <tr>
+<td>R</td>
+<td>Ha</td>
+</tr> <tr>
+<td>G</td>
+<td>(0.9 * OIII + 0.1 * Ha)</td>
+</tr> <tr>
+<td>B</td>
+<td>OIII</td>
+</tr> </table></div> Now you can proceed with your normal processing, including color calibration <h3> <a href="#processing-narrowband-with-siril-pixel-math" class="anchor-heading" aria-labelledby="processing-narrowband-with-siril-pixel-math"><svg viewbox="0 0 16 16" aria-hidden="true"><use xlink:href="#svg-link"></use></svg></a> Further Processing </h3> <p>If you want to explore some more pixelmath, here's a formula to get your nebula looking even better. However these must be done in the linear domain. So, to begin with, you should load your Ha and OIII fits files individually into Siril and run an autostretch. Save them as Ha-str.fit and OIII-str.fit.</p> <p>Once you've done this, open pixelmath and remove any previously loaded images by highlighting them and click the minus symbol at the top right. Now load your Ha-str.fit and OIII-str.fit, naming them Ha and OIII as before.</p> <p>For each line in the table below, you should enter the formula as "single RGB/K expression" in pixel math and hit apply. You should then save the resulting image according to the name in column 1. You should then load the image you just saved back into pixel math</p> <div class="table-wrapper"><table> <tr>
+<th>File/Variable Name</th>
+<th>Formula</th>
+</tr> <tr>
+<td>f</td>
+<td>(Ha*OIII)^~(Ha*OIII)</td>
+</tr> </table></div> Now, untick "single RGB/K expression" and enter the following formula into each of the R, G and B boxes <div class="table-wrapper"><table> <tr>
+<th>File/Variable Name</th>
+<th>Formula</th>
+</tr> <tr>
+<td>R</td>
+<td>Ha</td>
+</tr> <tr>
+<td>G</td>
+<td>f*Ha + ~f*OIII</td>
+</tr> <tr>
+<td>B</td>
+<td>OIII</td>
+</tr> </table></div> Now you can proceed with your usual processing techniques  <script type="text/javascript" src="/assets/js/pixelmath.js?1709829152"></script> </div> <hr> <footer> <p><a href="#top" id="back-to-top">Back to top</a></p> <p class="text-small text-grey-dk-100 mb-0">Copyright © 2020-2022 Ian Cass</p> <div class="d-flex mt-2"> </div> <script type="module" src="/assets/js/instantpage.js?1709829152" defer></script> <script type="text/javascript" src="/assets/js/just-the-docs.min.js?1709829152"></script> <script type="text/javascript" src="/assets/js/vendor/lunr.min.js?1709829152"></script> <link rel="stylesheet" href="/assets/css/lightbox.css?1709829152"> <script type="text/javascript" src="/assets/js/lightbox.min.js?1709829152"></script> </footer> </div> </div> <div class="search-overlay"></div> </div> </body> </html>
