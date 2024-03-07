@@ -2,6 +2,7 @@ backend:
   name: github
   repo: IanCassTwo/astro.wheep.co.uk
   base_url: https://astro.wheep.co.uk
+  automatic_deployments: false
 
 media_folder: 'assets/images/_pristine'
 collections:
@@ -20,6 +21,54 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   
+  - name: 'equipment'
+    label: 'Equipment'
+    folder: 'equipment/'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'default' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Parent', name: 'parent', widget: 'hidden', default: 'Equipment' }
+
+  - name: 'tutorials'
+    label: 'Tutorials'
+    folder: 'tutorials/'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'default' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Parent', name: 'parent', widget: 'hidden', default: 'Tutorials' }
+
+  - name: 'software'
+    label: 'Software'
+    folder: 'software/'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'default' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Parent', name: 'parent', widget: 'hidden', default: 'Software' }
+
+  - name: 'glossary'
+    label: 'Glossary'
+    folder: 'glossary/'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'default' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Parent', name: 'parent', widget: 'hidden', default: 'Glossary' }
+
   - name: 'pages'
     label: 'Pages'
     editor:

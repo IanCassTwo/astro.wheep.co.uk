@@ -3,16 +3,16 @@ layout: default
 ---
 <article>
     <h2>{{ page.title }}</h2>
-    Published on {{ page.date | date_to_string }}
+    {{ page.date | date_to_string }}
     {{ content }}
 
-    <p>
-    {% if page.preview %}
-    {% picture blog {{ page.preview }} %}
-    {% endif %}
-    {% if page.workflow %}
-    _{{page.workflow}}_
-    {% endif %}
-    </p>
+  <p>
+  {% if page.preview %}
+  <div class="picture-container">
+  {% picture blognmd {{ page.preview }} --link {{ page.url }}%}
+  <div class="overlay-text">{{page.workflow}}</div>
+  </div>
+  {% endif %}
+  </p>
 
 </article> 

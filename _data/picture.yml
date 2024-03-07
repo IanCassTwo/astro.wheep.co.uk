@@ -59,6 +59,22 @@ presets:
       img: 'class="icon"'
       a: 'class="lightbox-image" title=""'
 
+  blognmd:
+    format_quality: 
+        jpg: 95
+        png: 75
+        webp: 85
+        avif: 75
+    base_width: 936 # How wide the 1x image should be.
+    link_source: true # wrap images in a link to the original source image.
+    formats: [webp, jpg, original] # Must be an array, and order matters.
+    pixel_ratios: [1, 1.5, 2]
+    fallback_width: 736
+    fallback_format: original
+    nomarkdown: false
+    attributes:
+      img: 'class="blog"'
+      a: 'class="lightbox-image" title=""'
   blog:
     format_quality: 
         jpg: 95
