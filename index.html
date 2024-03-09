@@ -15,7 +15,7 @@ title: Home
 	  <p>
 	  {% if post.preview %}
 	  <div class="picture-container">
-	  {% picture blog {{ post.preview }} --link {{ post.url }}%}
+	  {% picture blog {{ post.preview }}%}
 	  <div class="overlay-text">{{post.workflow}}</div>
 	  </div>
 	  {% endif %}

@@ -16,7 +16,7 @@ collections:
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Preview', name: 'preview', widget: 'string' }
+      - { label: 'Preview', name: 'preview', widget: 'image', 'allow_mutiple':'false' }
       - { label: 'Workflow', name: 'workflow', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
