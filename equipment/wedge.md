@@ -9,9 +9,7 @@ The polar wedge is typically made of sturdy material such as aluminum or steel, 
 
 By using a polar wedge, the user can ensure that the mount's polar axis is aligned with the Earth's axis of rotation, allowing for accurate tracking of celestial objects as they move across the sky. This is particularly important for long-exposure astrophotography, where even small errors in tracking can result in blurry or distorted images.
 
-My polar wedge is a Skywatcher Star Adventurer wedge. This is a cheap wedge which is, quite honestly, barely adequate for the job. Specifically, the Dec clamping mechanism is not fit for purpose. However, I've come up with a fix for this which improves performance by a massive amount.
-
-Here's the fixes that I've created. I've also documented them on [Cloudy Nights](https://www.cloudynights.com/topic/872200-sky-watcher-star-adventurer-wedge-new-improvements/)
+My polar wedge is a Skywatcher Star Adventurer wedge. This is a cheap wedge which is, quite honestly, barely adequate for the job. Specifically, the Dec clamping mechanism is not fit for purpose. If you look at the wedge, it's made of sturdy alloy with strengthening fins. It doesn't look like it's intended to flex yet that's exactly what the standard clamping mechanism expects it to do! This mod is to install a bush so that we don't rely on the chassis flexing to achieve clamping. The bush allows in-out movement to allow decent clamping force whilst also keeping everything rotationally aligned. I've also documented this on [Cloudy Nights](https://www.cloudynights.com/topic/872200-sky-watcher-star-adventurer-wedge-new-improvements/)
 
 1) Get a brass bush made, 14mm diameter, 6mm deep with a hole in the middle for an M6 bolt. I got mine made cheaply from a [guy on ebay](https://www.ebay.co.uk/itm/324387002934)
 

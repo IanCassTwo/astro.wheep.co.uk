@@ -45,6 +45,8 @@ GEM
       nokogiri (~> 1.10)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
+    jekyll-youtube (1.0.0)
+      jekyll
     jekyll-zopfli (2.5.0)
       jekyll (>= 3.0, < 5.0)
       zopfli (~> 0.0.7)
@@ -110,6 +112,7 @@ DEPENDENCIES
   jekyll-hyperlinkify-glossary
   jekyll-paginate
   jekyll-target-blank
+  jekyll-youtube
   jekyll-zopfli
   jekyll_picture_tag (= 2.0.3)
   just-the-docs

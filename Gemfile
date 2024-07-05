@@ -37,3 +37,7 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "just-the-docs"
 gem "webrick"
 gem 'jekyll-hyperlinkify-glossary'
+
+group :jekyll_plugins do
+  gem "jekyll-youtube"
+end

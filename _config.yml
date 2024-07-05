@@ -36,6 +36,8 @@ plugins:
   - jekyll-paginate
   - jekyll-brotli
   - jekyll-zopfli
+  - jekyll-youtube
+
   
 
 

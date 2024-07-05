@@ -17,17 +17,18 @@ presets:
     format_quality: 
         jpg: 95
         png: 75
-        webp: 85
+        webp: 95
         avif: 75
 
-    image_options:
-      jpg:
-        optimize_coding: true
-        optimize_scans: true
-        quant_table: 3
-        trellis_quant: true
-      webp:
-        smart_subsample: true
+    #image_options:
+      #jpg:
+        #optimize_coding: true
+        #optimize_scans: true
+        #quant_table: 3
+        #trellis_quant: true
+      #webp:
+        #smart_subsample: true
+        #near_lossless: true
 
     widths: [200, 400, 800, 1600] # Must be an array.
     media_widths: # Because a cell phone doesn't want 1600 pixels.
@@ -63,7 +64,7 @@ presets:
     format_quality: 
         jpg: 95
         png: 75
-        webp: 85
+        webp: 95
         avif: 75
     base_width: 936 # How wide the 1x image should be.
     link_source: true # wrap images in a link to the original source image.
@@ -79,7 +80,7 @@ presets:
     format_quality: 
         jpg: 95
         png: 75
-        webp: 85
+        webp: 95
         avif: 75
     base_width: 936 # How wide the 1x image should be.
     link_source: true # wrap images in a link to the original source image.
@@ -95,7 +96,7 @@ presets:
     format_quality: 
         jpg: 90
         png: 75
-        webp: 75
+        webp: 95
         avif: 75
     #dimension_attributes: true # Page reflow begone!
     base_width: 460 # How wide the 1x image should be.
@@ -111,7 +112,7 @@ presets:
     format_quality: 
         jpg: 90
         png: 75
-        webp: 75
+        webp: 95
         avif: 75
     #dimension_attributes: true # Page reflow begone!
     base_width: 260 # How wide the 1x image should be.
@@ -127,7 +128,7 @@ presets:
     format_quality: 
         jpg: 90
         png: 75
-        webp: 75
+        webp: 95
         avif: 75
     #dimension_attributes: true # Page reflow begone!
     nomarkdown: false

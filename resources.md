@@ -5,6 +5,8 @@ nav_order: 8
 ---
 ## Resources
 
+These are resources that I use the most in my hobby
+
 Forums
 
 - <https://www.cloudynights.com/>
@@ -16,8 +18,12 @@ Software
 
 - <https://nighttime-imaging.eu/>
 - <https://openphdguiding.org/>
-- <https://github.com/deepskydetail/AstroSharp>
-- <http://deepskystacker.free.fr/>
+- <https://siril.org/>
+- <https://www.graxpert.com/>
+- <https://greenswamp.org/>
+- <https://www.gimp.org/>
+- <https://gmic.eu/> for "unpurple" filter
+- <http://www.mlunsold.com/> for star reduction
 
 Website
 
@@ -38,6 +44,14 @@ Youtube
 Online Tools
 
 - <https://www.metoffice.gov.uk/weather/maps-and-charts/cloud-cover-map>
+- <https://telescopius.com/>
+- <https://rkinnett.github.io/gyrocam/>
+
+Equipment
+
+- <https://www.skywatcherusa.com/products/evoguide-50-apo-refractor>
+- <https://www.skywatcherusa.com/products/az-gti-mount>
+- <https://www.skywatcherusa.com/collections/star-adventurer-accessories/products/star-adventurer-latitude-eq-base>
 
 Suppliers
 
